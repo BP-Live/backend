@@ -37,6 +37,7 @@ jobs:
           resourceGroup: Backend
           imageToBuild: bplive.azurecr.io/bplive:${{ github.sha }}
           dockerfilePath: Dockerfile
+          targetPort: 8000
           environmentVariables: '
             DB_HOST=${{ secrets.DB_HOST }}
             DB_PORT=${{ secrets.DB_PORT }}
@@ -47,4 +48,7 @@ jobs:
             GOOGLE_CLIENT_SECRET=${{ secrets.GOOGLE_CLIENT_SECRET }}
             JWT_SECRET=${{ secrets.JWT_SECRET }}
             BKK_API=${{ secrets.BKK_API }}
+            GOOGLE_REDIRECT_URI=${{ secrets.GOOGLE_REDIRECT_URI }}
+            LOGOUT_REDIRECT_URI=${{ secrets.LOGOUT_REDIRECT_URI }}
+            LOGIN_REDIRECT_URI=${{ secrets.LOGIN_REDIRECT_URI }}
           '
