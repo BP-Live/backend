@@ -13,8 +13,14 @@ from fastapi import (
 
 from common.bkk_api import bkk_api
 from common import gpt_api
+from routers.accounts import Token, require_token
 
-async def websocket_endpoint(websocket: WebSocket):
+from typing import Annotated
+
+async def websocket_endpoint(
+    websocket: WebSocket,
+    token: Annotated[Token, Depends(require_token)],
+):
     try:
         await websocket.accept()
 
