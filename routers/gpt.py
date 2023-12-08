@@ -61,6 +61,6 @@ def gpt_response(msg: str):
 
     return response_json
 
-@router.post("/")
+@router.post("")
 async def gpt(msg: str):        
     return gpt_response(msg)
