@@ -10,24 +10,31 @@ from fastapi import (
     WebSocket
 )
 
-"""
 from common.bkk_api import bkk_api
-
-geocode = bkk_api.geocode_location(response_json["location"])[0]["geometry"]["location"]
-g_lat, g_lng = geocode["lat"], geocode["lng"]
-"""
+from common import gpt_api
 
 async def websocket_endpoint(websocket: WebSocket):
     await websocket.accept()
 
     await websocket.send_json({"progress": 0})
 
+    data = await websocket.receive_json()
+    prompt = data["prompt"]
+
+    response_json = gpt_api.gpt_response(prompt)
+
+    if response_json["location"].lower() == "user":
+        lng, lat = data["longitude"], data["latitude"]
+    else:
+        geocode = bkk_api.geocode_location(response_json["location"])[0]["geometry"]["location"]
+        lng, lat = geocode["lng"], geocode["lat"]
+
     await websocket.send_json(
         {
             "metadata": {
-                "type": "Restaurant",
-                "name": "The Best Restaurant",
-                "location": {"lat": 37.7749, "lng": -122.4194},
+                "type": response_json["business_type"],
+                "name": response_json["business_name"],
+                "location": {"lat": lat, "lng": lng},
             }
         }
     )
@@ -39,9 +46,9 @@ async def websocket_endpoint(websocket: WebSocket):
     await websocket.send_json(
         {
             "pros": [
-                "Offers a wide variety of vegetarian options",
-                "Cozy and inviting atmosphere",
-                "Uses locally sourced ingredients",
+                response_json["pros"]["pro1"],
+                response_json["pros"]["pro2"],
+                response_json["pros"]["pro3"],
             ]
         }
     )
@@ -53,9 +60,9 @@ async def websocket_endpoint(websocket: WebSocket):
     await websocket.send_json(
         {
             "cons": [
-                "Limited parking space",
-                "Can be noisy during peak hours",
-                "Higher price range",
+                response_json["cons"]["con1"],
+                response_json["cons"]["con2"],
+                response_json["cons"]["con3"],
             ]
         }
     )

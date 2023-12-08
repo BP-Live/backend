@@ -16,14 +16,14 @@ prompt_file = os.path.join(current_dir, "prompt.txt")
 with open(prompt_file, "r") as f:
     PROMPT = f.read()
     
-def gpt_response(msg: str):
+def gpt_response(msg: str, system_prompt: str = PROMPT):
     response = openai.chat.completions.create(
         model="gpt-4-1106-preview",
         response_format={ "type": "json_object" },
         messages=[
             {
                 "role": "system",
-                "content": PROMPT
+                "content": system_prompt
             },
             {
                 "role": "user",
