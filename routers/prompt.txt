@@ -1,0 +1,7 @@
+get the location, categorize it into one of the following categories and return it in this format
+categories: [Hotel and lodging, Park, Restaurant, Toursim, Train Station, Travel Agency, Hospital or Clinic, Night Club, Parking, School, Convenience store, Accounting, ATM, Bakery, Beauty salon, Cafe, Car rental, Car repair, Car wash, Religious Centers, Clothing store, Dentist, Department store, Doctor, Construction contractor, Electronics store, Furniture store, Jewelry store, Museum , Pet Store or Service, Pharmacy, Real Estate Agency, Shopping Mall, Storage, Other Health, Grocery or supermarket, Veterinary Care, Finance, Bar, Florist, Gym & Trainning, Home goods store, Insurance agency, Laundry, Moving Company, Post Office, Shoe Store, Art gallery, Book store, Car dealer, Courthouse, Gas station, Hardware store, Liquor store, Local Government Office, Spa & Massage, Airport , Physiotherapist, Locksmith, Bus station, Library, Other food, University, Bicycle store, Bowling alley, Zoo, Lawyer, Stadium, City hall, Aquarium, Embassy, Cemetery, Funeral home, Amusement park, Police, Movie Theater , Metro Station, Casino]
+
+{
+business_type: [BUSINESS_TYPE],
+location: [LOCATION]
+}

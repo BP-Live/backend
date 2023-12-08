@@ -1,7 +1,8 @@
 from fastapi import APIRouter
 
 from routers import (
-    accounts
+    accounts,
+    gpt,
 )
 
 # models
@@ -11,6 +12,7 @@ router = APIRouter()
 
 prefixes = {
     "/accounts": accounts.router,
+    "/gpt": gpt.router
 }
 
 for prefix, child in prefixes.items():
