@@ -10,6 +10,13 @@ from fastapi import (
     WebSocket
 )
 
+"""
+from common.bkk_api import bkk_api
+
+geocode = bkk_api.geocode_location(response_json["location"])[0]["geometry"]["location"]
+g_lat, g_lng = geocode["lat"], geocode["lng"]
+"""
+
 async def websocket_endpoint(websocket: WebSocket):
     await websocket.accept()
 
