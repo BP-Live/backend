@@ -27,9 +27,8 @@ prompt_file = os.path.join(current_dir, "prompt.txt")
 
 with open(prompt_file, "r") as f:
     PROMPT = f.read()
-
-@router.post("/")
-async def gpt(msg: str):        
+    
+def gpt_response(msg: str):
     response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -54,3 +53,7 @@ async def gpt(msg: str):
     response_json = json.loads(response.choices[0].message.content)
     
     return response_json
+
+@router.post("/")
+async def gpt(msg: str):        
+    return gpt_response(msg)
