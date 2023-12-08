@@ -51,4 +51,5 @@ jobs:
             GOOGLE_REDIRECT_URI=${{ secrets.GOOGLE_REDIRECT_URI }}
             LOGOUT_REDIRECT_URI=${{ secrets.LOGOUT_REDIRECT_URI }}
             LOGIN_REDIRECT_URI=${{ secrets.LOGIN_REDIRECT_URI }}
+            OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
           '
