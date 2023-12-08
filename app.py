@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import ORJSONResponse
@@ -55,8 +55,14 @@ register_tortoise(
     generate_schemas=False
 )
 
+from routers.accounts import Token, require_token
+from typing import Annotated
+
 @app.websocket("/ws")
-async def ws_endpoint(websocket: WebSocket):
+async def ws_endpoint(
+    websocket: WebSocket,
+    token: Annotated[Token, Depends(require_token)],
+):
     response = await websocket_endpoint(websocket)
     return response
 
