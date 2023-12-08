@@ -17,7 +17,7 @@ import os
 
 openai = OpenAI()
 
-router = APIRouter(tags=["accounts"])
+router = APIRouter(tags=["gpt"])
 
 # get the content of prompt.txt
 # Get the directory of the current file
