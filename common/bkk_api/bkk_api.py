@@ -1,11 +1,9 @@
 import os
 import json
 import requests
+import googlemaps
 
-import gtfs_realtime_pb2
-
-with open("data.pb", "wb") as f:
-    f.write(response.content)
+from . import gtfs_realtime_pb2
 
 def parse_vehicle_positions(protobuf_data):
     # Create an instance of FeedMessage
@@ -40,3 +38,9 @@ def get_vehicle_positions():
     # Parse data to json
     vehicle_positions = parse_vehicle_positions(protobuf_data)
     return vehicle_positions
+
+def geocode_location(location):
+    # Request data from BKK API
+    gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
+    geocode_result = gmaps.geocode(location)
+    return geocode_result

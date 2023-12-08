@@ -1,4 +1,5 @@
 import common.config as config
+from common.bkk_api import bkk_api
 from openai import OpenAI
 from tortoise import fields, models
 from fastapi import (
@@ -30,7 +31,8 @@ with open(prompt_file, "r") as f:
     
 def gpt_response(msg: str):
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-3.5-turbo-1106",
+        response_format={ "type": "json_object" },
         messages=[
             {
                 "role": "system",
@@ -51,7 +53,12 @@ def gpt_response(msg: str):
     # save the to a variable as json
     
     response_json = json.loads(response.choices[0].message.content)
-    
+
+    geocode = bkk_api.geocode_location(response_json["location"])[0]["geometry"]["location"]
+    g_lat, g_lng = geocode["lat"], geocode["lng"]
+
+    print(g_lat, g_lng)
+
     return response_json
 
 @router.post("/")
