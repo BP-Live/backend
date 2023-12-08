@@ -2,12 +2,13 @@ from fastapi import FastAPI
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import ORJSONResponse
+from fastapi import WebSocket
 from tortoise.contrib.fastapi import register_tortoise
 
 import os
 
 import common.config as config
-from routers import router
+from routers import router, ws
 
 app = FastAPI(
     default_response_class=ORJSONResponse,
@@ -52,6 +53,11 @@ register_tortoise(
     config=db_config,
     generate_schemas=False
 )
+
+@app.websocket("/ws")
+async def ws_endpoint(websocket: WebSocket):
+    response = await websocket_endpoint(websocket)
+    return response
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
