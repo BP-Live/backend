@@ -8,7 +8,8 @@ from tortoise.contrib.fastapi import register_tortoise
 import os
 
 import common.config as config
-from routers import router, ws
+from routers import router
+from routers.ws import websocket_endpoint
 
 app = FastAPI(
     default_response_class=ORJSONResponse,
