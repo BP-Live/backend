@@ -12,6 +12,6 @@ from fastapi import (
 
 router = APIRouter(tags=["bkk"])
 
-@router.get("/")
+@router.get("")
 async def get_vehicle_positions():        
     return bkk_api.get_vehicle_positions()
