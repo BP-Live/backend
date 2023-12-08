@@ -44,3 +44,9 @@ def geocode_location(location):
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
     geocode_result = gmaps.geocode(location)
     return geocode_result
+
+def find_shortest_route_time(lat1, lon1, lat2, lon2):
+    # Request data from Google Maps API
+    gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
+    directions_result = gmaps.directions((lat1, lon1), (lat2, lon2))
+    return directions_result[0]['legs'][0]['duration']['value']

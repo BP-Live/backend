@@ -13,3 +13,4 @@ protobuf
 googlemaps
 requests
 websockets
+pandas

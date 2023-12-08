@@ -13,6 +13,7 @@ from fastapi import (
 
 from common.bkk_api import bkk_api
 from common import gpt_api
+from common import find_competitors
 
 async def websocket_endpoint(websocket: WebSocket):
     try:
@@ -73,15 +74,7 @@ async def websocket_endpoint(websocket: WebSocket):
 
         await asyncio.sleep(1)
 
-        await websocket.send_json(
-            {
-                "competitors": [
-                    {"lat": 37.7749, "lng": -122.42},
-                    {"lat": 37.7769, "lng": -122.4194},
-                    {"lat": 37.7759, "lng": -122.4184},
-                ]
-            }
-        )
+        await websocket.send_json(find_competitors.find_competitors())
 
         await websocket.send_json({"progress": random.randint(50, 60)})
 
