@@ -11,6 +11,7 @@ from routers import router
 
 app = FastAPI(
     default_response_class=ORJSONResponse,
+    root_path=config.ROOT_PATH,
 )
 
 app.add_middleware(
