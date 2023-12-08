@@ -37,6 +37,14 @@ jobs:
           resourceGroup: Backend
           imageToBuild: bplive.azurecr.io/bplive:${{ github.sha }}
           dockerfilePath: Dockerfile
-
-     
-
+          environmentVariables: '
+            DB_HOST=${{ secrets.DB_HOST }}
+            DB_PORT=${{ secrets.DB_PORT }}
+            DB_USER=${{ secrets.DB_USER }}
+            DB_PASSWORD=${{ secrets.DB_PASSWORD }}
+            DB_DATABASE=${{ secrets.DB_DATABASE }}
+            GOOGLE_CLIENT_ID=${{ secrets.GOOGLE_CLIENT_ID }}
+            GOOGLE_CLIENT_SECRET=${{ secrets.GOOGLE_CLIENT_SECRET }}
+            JWT_SECRET=${{ secrets.JWT_SECRET }}
+            BKK_API=${{ secrets.BKK_API }}
+          '
