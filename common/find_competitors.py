@@ -2,7 +2,7 @@ import pandas as pd
 
 import os
 
-# from .bkk_api import bkk_api
+from .bkk_api import bkk_api
 
 def get_distance(lat1, lon1, lat2, lon2):
     return ((lat1-lat2)**2 + (lon1-lon2)**2)**0.5
