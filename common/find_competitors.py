@@ -51,3 +51,5 @@ def find_open_premises(lat, lng):
             {"lat": k_nearest.iloc[4]["lat"], "lng": k_nearest.iloc[4]["lon"], "address": k_nearest.iloc[4]["Cím"], "area": k_nearest.iloc[4]["Terület"]},    
         ]
     }
+
+    return json_data
