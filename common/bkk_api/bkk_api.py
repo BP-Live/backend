@@ -58,6 +58,9 @@ def reverse_geocode(lat, lon):
     return location # reverse_geocode_result
 
 def find_shortest_route_time(lat1, lon1, lat2, lon2):
+    print('Loc1_raw:', lat1, lon1)
+    print('Loc2_raw:', lat2, lon2)
+
     # Request data from Google Maps API
     try:
         location1 = reverse_geocode(lat1, lon1) # [0]['formatted_address']
