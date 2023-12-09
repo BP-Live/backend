@@ -51,6 +51,7 @@ def reverse_geocode(lat, lon):
     
     geolocator = Nominatim(user_agent="my-app")
     location = geolocator.reverse(f"{lat}, {lon}")
+    location = location[0]
     """
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
     reverse_geocode_result = gmaps.reverse_geocode((float(lat), float(lon)))
@@ -78,7 +79,7 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
 
     try:
-        directions_result = gmaps.directions(location1, location2, mode="walking")
+        directions_result = gmaps.directions((lat1, lon1), (lat2, lon2), mode="walking")
 
         print(directions_result)
 
@@ -87,7 +88,7 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
     except Exception as e:
         print('Error:', e)
         distance = 0
-    return distance
+    return distance, location1, location2
 
 if __name__ == "__main__":
     print(find_shortest_route_time(47.497913, 19.040236, 47.49723, 19.04026))

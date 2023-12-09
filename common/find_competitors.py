@@ -21,15 +21,15 @@ def find_competitors(business_type, lat, lng):
     n2lat, n2lon = k_nearest.iloc[1]["lat"], k_nearest.iloc[1]["lon"]
     n3lat, n3lon = k_nearest.iloc[2]["lat"], k_nearest.iloc[2]["lon"]
 
-    time1 = bkk_api.find_shortest_route_time(lat, lng, n1lat, n1lon)
-    time2 = bkk_api.find_shortest_route_time(lat, lng, n2lat, n2lon)
-    time3 = bkk_api.find_shortest_route_time(lat, lng, n3lat, n3lon)
+    time1, _, loc1 = bkk_api.find_shortest_route_time(lat, lng, n1lat, n1lon)
+    time2, _, loc2 = bkk_api.find_shortest_route_time(lat, lng, n2lat, n2lon)
+    time3, _, loc3 = bkk_api.find_shortest_route_time(lat, lng, n3lat, n3lon)
 
     json_data = {
         "competitors": [
-            {"lat": n1lat, "lng": n1lon, "distance": time1},
-            {"lat": n2lat, "lng": n2lon, "distance": time2},
-            {"lat": n3lat, "lng": n3lon, "distance": time3},
+            {"lat": n1lat, "lng": n1lon, "distance": time1, "location": loc1},
+            {"lat": n2lat, "lng": n2lon, "distance": time2, "location": loc2},
+            {"lat": n3lat, "lng": n3lon, "distance": time3, "location": loc3},
         ]
     }
     
