@@ -19,7 +19,7 @@ async def websocket_endpoint(websocket: WebSocket):
     try:
         await websocket.accept()
 
-        await websocket.send_json({"progress": random.randint(1, 5)})
+        await websocket.send_json({"progress": random.randint(5, 10)})
 
         data = await websocket.receive_json()
         prompt = data["prompt"]
@@ -45,9 +45,9 @@ async def websocket_endpoint(websocket: WebSocket):
             }
         )
 
-        await websocket.send_json({"progress": random.randint(5, 15)})
+        await websocket.send_json({"progress": random.randint(10, 25)})
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.1)
 
         await websocket.send_json(
             {
@@ -59,9 +59,9 @@ async def websocket_endpoint(websocket: WebSocket):
             }
         )
 
-        await websocket.send_json({"progress": random.randint(20, 30)})
+        await websocket.send_json({"progress": random.randint(25, 45)})
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.1)
 
         await websocket.send_json(
             {
@@ -73,27 +73,27 @@ async def websocket_endpoint(websocket: WebSocket):
             }
         )
 
-        await websocket.send_json({"progress": random.randint(35, 45)})
+        await websocket.send_json({"progress": random.randint(45, 50)})
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.1)
 
         competitors = find_competitors.find_competitors(response_json["business_type"], lat, lng)
         await websocket.send_json(competitors)
 
         await websocket.send_json({"progress": random.randint(50, 60)})
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.1)
 
         await websocket.send_json({"progress": random.randint(65, 75)})
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.1)
 
         open_premises = find_competitors.find_open_premises(lat, lng)
         await websocket.send_json(open_premises)
 
-        await websocket.send_json({"progress": random.randint(80, 85)})
+        await websocket.send_json({"progress": random.randint(85, 90)})
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.1)
 
         await websocket.send_json({"progress": 100})
     except Exception as e:
