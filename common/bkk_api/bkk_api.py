@@ -40,17 +40,37 @@ def get_vehicle_positions():
     return vehicle_positions
 
 def geocode_location(location):
-    # Request data from BKK API
+    # Request data from Google Maps API
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
-    geocode_result = gmaps.geocode(location)
+    geocode_result = gmaps.geocode(address=location)
     return geocode_result
+
+def reverse_geocode(lat, lon):
+    # Request data from Google Maps API
+    gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
+    reverse_geocode_result = gmaps.reverse_geocode((lat, lon))
+    return reverse_geocode_result
 
 def find_shortest_route_time(lat1, lon1, lat2, lon2):
     # Request data from Google Maps API
+    try:
+        location1 = reverse_geocode(lat1, lon1)[0]['formatted_address']
+        location2 = reverse_geocode(lat2, lon2)[0]['formatted_address']
+    except:
+        location1 = str(lat1) + ", " + str(lon1)
+        location2 = str(lat2) + ", " + str(lon2)
+
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
-    directions_result = gmaps.directions((lat1, lon1), (lat2, lon2), mode="walking")
+    directions_result = gmaps.directions(
+        origin=location1,
+        destination=location2,
+        mode="walking",
+    )
     try:
         distance = directions_result[0]['legs'][0]['duration']['value']
     except:
         distance = 0
     return distance
+
+if __name__ == "__main__":
+    print(find_shortest_route_time(47.497913, 19.040236, 47.49723, 19.04026))
