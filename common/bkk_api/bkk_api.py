@@ -57,21 +57,23 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
         location1 = reverse_geocode(lat1, lon1)[0]['formatted_address']
         location2 = reverse_geocode(lat2, lon2)[0]['formatted_address']
     except:
-        location1 = str(lat1) + ", " + str(lon1)
-        location2 = str(lat2) + ", " + str(lon2)
+        location1 = str(lat1) + "," + str(lon1)
+        location2 = str(lat2) + "," + str(lon2)
+
+    print('Loc1:', location1)
+    print('Loc2:', location2)
 
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
-    directions_result = gmaps.directions(
-        origin=location1,
-        destination=location2,
-        mode="walking",
-    )
-
-    print(directions_result)
 
     try:
-        distance = directions_result[0]['legs'][0]['duration']['value']
-    except:
+        directions_result = gmaps.directions(origin, destination, mode="walking")
+
+        print(directions_result)
+
+        # Extract the distance from the directions result
+        distance = directions_result[0]['legs'][0]['distance']['value']
+    except Exception as e:
+        print('Error:', e)
         distance = 0
     return distance
 
