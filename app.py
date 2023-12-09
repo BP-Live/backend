@@ -62,7 +62,7 @@ from fastapi import Request
 @app.websocket("/ws")
 async def ws_endpoint(
     websocket: WebSocket,
-    token: Annotated[Token, Depends(require_token_ws)],
+    #token: Annotated[Token, Depends(require_token_ws)],
 ):
     response = await websocket_endpoint(websocket)
     return response
