@@ -6,6 +6,7 @@ from fastapi import WebSocket
 from tortoise.contrib.fastapi import register_tortoise
 
 import os
+from typing import Annotated
 
 import common.config as config
 from routers import router
@@ -55,13 +56,13 @@ register_tortoise(
     generate_schemas=False
 )
 
-from routers.accounts import Token, require_token
-from typing import Annotated
+from routers.accounts import Token, require_token_ws
+from fastapi import Request
 
 @app.websocket("/ws")
 async def ws_endpoint(
     websocket: WebSocket,
-    token: Annotated[Token, Depends(require_token)],
+    token: Annotated[Token, Depends(require_token_ws)],
 ):
     response = await websocket_endpoint(websocket)
     return response
