@@ -1,0 +1,777 @@
+,Kezelés,Helyrajzi és albetétszám,Cím,Lépcsőház,Emelet,Ajtó,Besorolási kategória,Negyed,2022szept_állapot,2023nov_állapot,Mőszaki állapot,Terület,Épületen belüli fekvés,Ü/Nü dátum,Tárgyhó KK,Mérőóra fajták,Aljogcím,Meddig,Aktuális hó bérleti / használati díj,Éves bérleti és / vagy használati díj
+0,Társasház,34753/A/1,Alföldi u. 10,,Pi.,TR,4,Népszínház negyed,Üres,Üres,Közepes állapotú,54.0,UDP,11/20/2006,12714.0,"áram, gáz",,,0.0,0.0
+1,Társasház,34748/A/2,Alföldi u. 3,,Pi.,2.,4,Népszínház negyed,Üres,Üres,Rossz állapotú,55.0,UCP,10/27/2005,11730.0,,,,0.0,0.0
+2,Társasház,34747/A/1,Alföldi u. 5,M. lp.,Pi.,1.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,132.0,UCP,11/10/2008,64155.0,víz,,,0.0,0.0
+3,Társasház,34747/A/2,Alföldi u. 5,M. lp.,Pi.,2.,4,Népszínház negyed,Üres,Üres,Rossz állapotú,62.0,UCP,1/15/2020,30160.0,"áram, víz",,,0.0,0.0
+4,Társasház,38840/1/A/1,Asztalos S. u. 7,,Pi./Fsz.,UZ,4,Százados negyed,Üres,Üres,Rossz állapotú,155.0,UCH+UCP,5/29/2020,38674.0,gáz,,,0.0,0.0
+6,Társasház,38841/1/A/14,Asztalos S. u. 8,,Pi.,14.,4,Százados negyed,Üres,Üres,Rossz állapotú,127.0,UDP,12/4/2007,20034.0,,,,0.0,0.0
+8,Társasház,35026/A/2,Auróra u. 10,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,39.0,UCP,10/18/2005,12996.0,"gáz, víz",,,0.0,0.0
+16,Társasház,35028/A/3,Auróra u. 6,,Fsz.,ÜZ/3,3,Csarnok negyed,Kiadott,Üres,Jó állapotú,23.0,UCH,12/5/2016,10925.0,"áram, víz",,,30071.0,365663.0
+17,Társasház,35028/A/41,Auróra u. 6,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Közepes állapotú,41.0,UCP,7/20/2007,29151.0,,,,0.0,0.0
+19,Társasház,34780/A/1,Auróra u. 7,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,50.0,UCP,1/1/2000,16345.0,,,,0.0,0.0
+24,Társasház,34830/A/2,Bacsó B. u. 22,,Pi.,UZ/2,3,Csarnok negyed,Üres,Üres,Rossz állapotú,40.0,UCP,10/31/2008,72600.0,"áram, víz",,,0.0,0.0
+27,Társasház,36192/1/A/1,Balassa u. 1,,as.,UZ,3,Losonci negyed,Üres,Üres,Rossz állapotú,20.0,UCP,3/31/2021,9500.0,"áram, víz",,,0.0,0.0
+30,Társasház,34598/A/1,Baross tér 3,,Pi.,1.,2,Népszínház negyed,Üres,Üres,Rossz állapotú,39.0,UDP,11/26/2008,17512.0,víz,,,0.0,0.0
+34,Társasház,35507/A/27,Baross u. 102,,Pi.,27.,1,Magdolna negyed,Üres,Üres,Rossz állapotú,103.0,UDP,1/1/2000,24196.0,,,,0.0,0.0
+36,Társasház,35810/A/1,Baross u. 105,,Pi.,RA/1,1,Losonci negyed,Üres,Üres,Rossz állapotú,31.0,UDP,1/1/2000,11220.0,víz,,,0.0,0.0
+37,Társasház,35810/A/7,Baross u. 105,,Fsz.,UZ,1,Losonci negyed,Üres,Üres,Rossz állapotú,41.0,UCH+UCP,1/23/2014,10608.0,"áram, víz",,,0.0,0.0
+43,Társasház,35503/A/31,Baross u. 110,,Pi.,OV/1,1,Magdolna negyed,Üres,Üres,Rossz állapotú,116.0,UCP,2/25/2015,34800.0,,,,0.0,0.0
+47,Társasház,35491/A/39,Baross u. 112,,Pi.,OV/1,1,Magdolna negyed,Üres,Üres,Rossz állapotú,106.0,UDP,2/25/2015,37583.0,víz,,,0.0,0.0
+48,Társasház,35488/A/20,Baross u. 118,,Pi.,UDP,1,Magdolna negyed,Üres,Üres,Rossz állapotú,185.0,UDP,1/4/2007,21880.0,,,,0.0,0.0
+54,Társasház,35916/A/5,Baross u. 121,,Fsz.,V.,1,Orczy negyed,Üres,Üres,Közepes állapotú,40.0,UCH,10/30/2008,13896.0,"áram, víz",,,0.0,0.0
+55,Társasház,35405/A/68,Baross u. 122,,Fsz.,ÜZ/1,1,Magdolna negyed,Üres,Üres,Rossz állapotú,79.0,UCH,4/12/2016,17050.0,"áram, gáz, víz",,,0.0,0.0
+56,Társasház,35917/A/15,Baross u. 123,A lp.,Pi.,1.,1,Orczy negyed,Üres,Üres,Rossz állapotú,22.0,UDP,10/25/2013,6570.0,víz,,,0.0,0.0
+57,Társasház,35404/A/1,Baross u. 124,,Fsz.,ÜZ/1,1,Magdolna negyed,Kiadott,Üres,Rossz állapotú,72.0,UCH,4/18/2017,28800.0,"áram, gáz, víz",,,0.0,849391.0
+58,Társasház,35404/A/2,Baross u. 124,,Fsz.,ÜZ/2,1,Magdolna negyed,Üres,Üres,Rossz állapotú,61.0,UCH,6/8/2011,24400.0,"gáz, víz",,,0.0,0.0
+59,Társasház,35404/A/55,Baross u. 124,,Pi.,1.,1,Magdolna negyed,Üres,Üres,Rossz állapotú,123.0,UCP,2/25/2015,49200.0,víz,,,0.0,0.0
+60,Társasház,35918/A/1,Baross u. 125,,Fsz.,ÜZ,1,Orczy negyed,Üres,Üres,Rossz állapotú,23.0,UCH,10/27/2011,32092.0,,,,0.0,0.0
+62,Társasház,35918/A/4,Baross u. 125,,Fsz.,UZ/3,1,Orczy negyed,Kiadott,Üres,Rossz állapotú,23.0,UCH,7/7/2020,18216.0,víz,,,0.0,748626.0
+63,Társasház,35403/A/37,Baross u. 126,,Fsz.,ÜZ/37,1,Magdolna negyed,Kiadott,Üres,Közepes állapotú,18.0,UCH,12/15/2020,8250.0,"áram, gáz, víz",,,0.0,708060.0
+64,Társasház,35403/A/38,Baross u. 126,,Fsz.,IR/38,1,Magdolna negyed,Kiadott,Üres,Közepes állapotú,61.0,UCH,12/18/2018,49680.0,"áram, gáz, víz",,,0.0,0.0
+68,Társasház,35923/A/2,Baross u. 129,,Pi.,OV,1,Orczy negyed,Üres,Üres,Rossz állapotú,230.0,UDP,2/25/2015,60420.0,víz,,,0.0,0.0
+77,Társasház,36758/A/3,Baross u. 21,,Fsz.,UZ/3,1,Palotanegyed,Üres,Üres,Rossz állapotú,557.0,UCH+UCP,1/24/2013,83700.0,"áram, víz",,,0.0,1676400.0
+78,Társasház,36492/A/58,Bródy S. u. 36,,Te.,PDL/2,1,Palotanegyed,Üres,Üres,Közepes állapotú,58.0,UDH (emeleti),11/15/2005,23760.0,,,,0.0,0.0
+79,Társasház,36739/A/33,Baross u. 28,,Pi.,OV,1,Palotanegyed,Üres,Üres,Rossz állapotú,81.0,UDP,1/1/2000,18630.0,,,,0.0,0.0
+81,Társasház,36749/A/37,Baross u. 3,,Pi.,1.,1,Palotanegyed,Üres,Üres,Rossz állapotú,162.0,UDP,4/18/2001,40500.0,,,,0.0,0.0
+85,Társasház,36723/A/1,Baross u. 38,,Pi.,RA,1,Palotanegyed,Üres,Üres,Rossz állapotú,97.0,UDP,1/1/2005,42856.0,,,,0.0,0.0
+90,Társasház,36776/A/1,Baross u. 43,,Fsz.,UZ/1,1,Palotanegyed,Üres,Üres,Rossz állapotú,139.1,UCH,6/14/2016,87262.0,"áram, gáz, víz",,,0.0,0.0
+91,Társasház,36777/A/3,Baross u. 45,,Pi.,3.,1,Palotanegyed,Üres,Üres,Rossz állapotú,118.0,UDP,5/7/2012,29736.0,víz,,,0.0,0.0
+92,Társasház,36778/A/1,Baross u. 47,,Pi.,OV,1,Palotanegyed,Üres,Üres,Rossz állapotú,133.0,UDP,11/8/2005,39925.0,,,,0.0,0.0
+97,Társasház,35232/A/27,Baross u. 59,,I.,UZ/27,1,Corvin negyed,Üres,Üres,Rossz állapotú,193.0,UDH (emeleti),2/27/2020,73440.0,"áram, gáz, víz",,,0.0,0.0
+99,Társasház,35211/A/2,Baross u. 66-68,,Pi.,OV,1,Csarnok negyed,Üres,Üres,Rossz állapotú,72.0,UDP,11/10/2005,20130.0,,,,0.0,0.0
+101,Társasház,35240/A/25,Baross u. 70-72,,Pi.,OV/1,1,Csarnok negyed,Üres,Üres,Rossz állapotú,135.0,UDP,1/1/2000,38913.0,,,,0.0,0.0
+102,Társasház,35531/A/1,Baross u. 75,,Pi.,OV,1,Corvin negyed,Üres,Üres,Rossz állapotú,46.0,UDP,11/8/2005,8904.0,,,,0.0,0.0
+106,Társasház,35251/A/59,Baross u. 78,,Pi.,,1,Csarnok negyed,Üres,Üres,Rossz állapotú,75.0,UDP,2/25/2015,19725.0,áram,,,0.0,0.0
+107,Társasház,35533/A/1,Baross u. 79,,Pi.,OV,1,Corvin negyed,Üres,Üres,Rossz állapotú,64.0,UCP,1/1/2000,15360.0,,,,0.0,0.0
+111,Társasház,35252/A/8,Baross u. 80,,Fsz.,ÜZ/3,1,Csarnok negyed,Üres,Üres,Közepes állapotú,53.0,UCH,4/24/2019,31185.0,"áram, gáz, víz",,,0.0,0.0
+112,Társasház,35252/A/24,Baross u. 80,,Pi.,OV,1,Csarnok negyed,Üres,Üres,Rossz állapotú,97.0,UDP,11/8/2005,56943.0,,,,0.0,0.0
+115,Társasház,35724/A/73,Baross u. 83,,Pi.,OV,1,Losonci negyed,Üres,Üres,Rossz állapotú,103.0,UDP,1/1/2000,32960.0,víz,,,0.0,0.0
+116,Társasház,35254/A/1,Baross u. 84,,Pi.,RA/1,1,Csarnok negyed,Üres,Üres,Rossz állapotú,161.0,UDP,11/7/2017,37050.0,víz,,,0.0,0.0
+119,Társasház,35527/2/A/69,Baross u. 86,,Pi.,OV/1,1,Csarnok negyed,Üres,Üres,Rossz állapotú,108.0,UCP,9/30/2008,24516.0,,,,0.0,0.0
+121,Társasház,35527/2/A/75,Baross u. 86,,Fsz.,UZ/7,1,Csarnok negyed,Kiadott,Üres,Jó állapotú,42.0,UCH,7/12/2018,9534.0,"áram, gáz, víz",,,0.0,140846.0
+122,Társasház,35726/1/A/1,Baross u. 87,,Pi.,UZ/1,1,Losonci negyed,Üres,Üres,Rossz állapotú,55.7,UDP,9/10/2012,13925.0,,,,0.0,0.0
+123,Társasház,35726/1/A/2,Baross u. 87,,Fsz.,UZ/2,1,Losonci negyed,Kiadott,Üres,Közepes állapotú,46.2,UCH,6/11/2015,23423.0,"áram, gáz, víz",,,0.0,309300.0
+124,Társasház,35726/5/A/1,Baross u. 87/a,,Pi.,RA/1,1,Losonci negyed,Üres,Üres,Rossz állapotú,88.6,UCP,5/12/2010,18606.0,áram,,,0.0,0.0
+125,Társasház,35527/4/A/46,Baross u. 88,,VI.,2.,1,Csarnok negyed,Üres,Üres,Rossz állapotú,30.0,UDH (emeleti),5/29/2014,6400.0,"áram, víz",,,0.0,0.0
+127,Társasház,35525/A/33,Baross u. 92,,Pi.,UZ/5,1,Csarnok negyed,Üres,Üres,Rossz állapotú,48.0,UCP,7/26/2007,17280.0,,,,0.0,0.0
+129,Társasház,35524/A/36,Baross u. 94,,Pi.,1.,1,Csarnok negyed,Üres,Üres,Rossz állapotú,166.0,UCP,10/6/2017,20020.0,víz,,,0.0,0.0
+132,Társasház,35516/A/72,Baross u. 98,,Fsz.,UZ/5,1,Magdolna negyed,Üres,Üres,Rossz állapotú,50.0,UCH,2/26/2021,12500.0,"áram, gáz, víz",,,0.0,0.0
+133,Társasház,35097/A/10,Bauer S. u. 10,,Fsz.,UZ/4,3,Magdolna negyed,Üres,Üres,Jó állapotú,49.05,UCH,4/30/2021,8929.0,"áram, gáz, víz",,,0.0,0.0
+134,Önkormányzati bérház,35127//0,Bauer S. u. 13,,as.,jobb UCP,3,Magdolna negyed,Üres,Üres,Rossz állapotú,76.0,UCP,8/31/1999,0.0,,,,0.0,0.0
+135,Önkormányzati bérház,35127//0,Bauer S. u. 13,,Fsz.,bal UCH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,22.0,UCH,2/29/2016,0.0,áram,,,0.0,0.0
+136,Önkormányzati bérház,35127//0,Bauer S. u. 13,,Fsz.,UDH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,11.0,UDH (földszinti),5/5/2000,0.0,áram,,,0.0,0.0
+137,Önkormányzati bérház,35127//0,Bauer S. u. 13,,Fsz.,jobb UCH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,36.0,UCH,4/22/1998,0.0,áram,,,0.0,0.0
+138,Önkormányzati bérház,35127//0,Bauer S. u. 13,,as.,bal UCP,3,Magdolna negyed,Üres,Üres,Rossz állapotú,63.0,UCP,8/31/1999,0.0,,,,0.0,0.0
+139,Társasház,35125/A/20,Bauer S. u. 17,,Pi.,1.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,133.0,UCP,9/13/2016,21080.0,"áram, gáz, víz",,,0.0,0.0
+143,Társasház,35130/A/1,Bauer S. u. 7,,Pi.,RA/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,32.0,UDP,7/19/2010,6528.0,,,,0.0,0.0
+144,Társasház,35130/A/2,Bauer S. u. 7,,Fsz.,RA/2,3,Magdolna negyed,Üres,Üres,Rossz állapotú,69.0,UCH,7/19/2010,14076.0,"áram, gáz",,,0.0,0.0
+145,Társasház,35130/A/3,Bauer S. u. 7,,Fsz.,GA/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,50.0,UDH (földszinti),9/1/2009,24500.0,áram,,,0.0,0.0
+146,Társasház,35130/A/4,Bauer S. u. 7,,Fsz.,GA/2,3,Magdolna negyed,Üres,Üres,Rossz állapotú,10.0,UDH (földszinti),4/14/2010,2040.0,,,,0.0,0.0
+147,Önkormányzati bérház,35128//0,Bauer S. u. 9-11,,Fsz.,4.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,14.0,UDH (földszinti),4/24/2015,0.0,,,,0.0,0.0
+148,Társasház,34829/A/25,Bérkocsis u. 18,,Pi.,UZ/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,239.0,UCP,10/31/2008,29500.0,"áram, gáz, víz",,,0.0,0.0
+153,Társasház,34873/A/1,Bérkocsis u. 21,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,170.0,UCP,1/18/2017,44772.0,"áram, víz",,,0.0,0.0
+156,Társasház,34874/A/1,Bérkocsis u. 23,,Fsz.,UZ/1,3,Csarnok negyed,Kiadott,Üres,Jó állapotú,23.0,UCH,3/28/2014,7371.0,"áram, víz",,,0.0,848985.0
+157,Társasház,34874/A/4,Bérkocsis u. 23,,Fsz./Pi.,UZ/4,3,Csarnok negyed,Kiadott,Üres,Rossz állapotú,128.0,UCH+UCP,7/24/2020,29986.0,víz,,,0.0,0.0
+162,Társasház,34955/A/6,Bérkocsis u. 29,,as.,6.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,27.0,UCH,3/27/2020,6260.0,"áram, víz",,,0.0,0.0
+169,Társasház,34606/A/8,Berzsenyi u. 8,,Fsz.,IR/2,4,Népszínház negyed,Üres,Üres,Rossz állapotú,36.0,-,2/9/2010,19734.0,,,,0.0,0.0
+170,Társasház,34651/A/1,Bezerédj u. 10,,Pi.,UCP 1,4,Népszínház negyed,Üres,Üres,Rossz állapotú,86.0,UCP,1/20/2017,23220.0,"áram, gáz, víz",,,0.0,0.0
+171,Társasház,34651/A/2,Bezerédj u. 10,,Pi.,UCP 2,4,Népszínház negyed,Üres,Üres,Rossz állapotú,100.0,UCP,1/31/2014,26880.0,víz,,,0.0,0.0
+172,Társasház,34651/A/9,Bezerédj u. 10,,Fsz.,GA/1,4,Népszínház negyed,Üres,Üres,Rossz állapotú,45.0,UDH (földszinti),6/22/2022,12180.0,áram,,,0.0,0.0
+174,Társasház,34670/A/3,Bezerédj u. 11,,Pi.,3.,4,Népszínház negyed,Üres,Üres,Rossz állapotú,41.0,UDP,1/1/2000,12100.0,víz,,,0.0,0.0
+176,Társasház,34666/A/32,Bezerédj u. 3,,Fsz.,ÜZ/1,4,Népszínház negyed,Kiadott,Üres,Jó állapotú,67.0,UCH,12/2/2014,24336.0,víz,,,0.0,0.0
+177,Társasház,34667/A/1,Bezerédj u. 5,,Pi.,1.,4,Népszínház negyed,Kiadott,Üres,Jó állapotú,88.0,UCP,11/27/2014,34750.0,"áram, víz",,,0.0,0.0
+178,Önkormányzati bérház,34653//0,Bezerédj u. 6,,Pi.,bal UCP,4,Népszínház negyed,Üres,Üres,Rossz állapotú,71.0,UCP,11/29/2004,0.0,,,,0.0,0.0
+179,Önkormányzati bérház,34653//0,Bezerédj u. 6,,Pi.,jobb UCP,4,Népszínház negyed,Üres,Üres,Rossz állapotú,235.0,UCP,10/4/2005,0.0,,,,0.0,0.0
+180,Önkormányzati bérház,34653//0,Bezerédj u. 6,,Pi.,UDP,4,Népszínház negyed,Üres,Üres,Rossz állapotú,100.0,UDP,10/4/2005,0.0,,,,0.0,0.0
+182,Társasház,34669/A/37,Bezerédj u. 9,,Pi.,1.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,210.0,UCP,3/26/2021,25700.0,víz,,,0.0,0.0
+190,Társasház,38798/2/A/1,Bíró L. u. 6,,Pi.,IR,3,Tisztviselőtelep,Üres,Üres,Rossz állapotú,69.0,UDP,1/3/2017,11172.0,"áram, víz",,,0.0,0.0
+191,Társasház,36235/2/A/1,Bókay J. u. 50,,as.,UZ,3,Corvin negyed,Üres,Üres,Közepes állapotú,44.0,UCP,1/1/2000,22620.0,,,,0.0,0.0
+192,Társasház,36212/A/20,Bókay J. u. 52,,Pi.,MU,3,Corvin negyed,Üres,Üres,Rossz állapotú,63.0,UCP,1/24/2013,10885.0,"áram, víz",,,0.0,0.0
+194,Társasház,36524/A/1,Bródy S. u. 22,,Pi.,OV/1,1,Palotanegyed,Üres,Üres,Rossz állapotú,91.0,UDP,1/1/2000,20240.0,,,,0.0,0.0
+195,Társasház,36524/A/2,Bródy S. u. 22,,Pi.,OV/2,1,Palotanegyed,Üres,Üres,Rossz állapotú,95.0,UDP,1/1/2000,21080.0,,,,0.0,0.0
+196,Társasház,36629/A/1,Bródy S. u. 23/a,,Pi.,1.,1,Palotanegyed,Üres,Üres,Rossz állapotú,109.61,UCP,7/11/2017,27000.0,áram,,,0.0,0.0
+197,Társasház,36630/A/1,Bródy S. u. 23/b,,Pi.,MU,1,Palotanegyed,Üres,Üres,Rossz állapotú,68.0,UDP,1/1/2000,29707.0,víz,,,0.0,0.0
+200,Társasház,36496/A/1,Bródy S. u. 32,,Pi.,1.,1,Palotanegyed,Üres,Üres,Rossz állapotú,32.0,UCP,7/27/2017,8960.0,víz,,,0.0,0.0
+201,Társasház,36496/A/2,Bródy S. u. 32,,Pi.,2.,1,Palotanegyed,Üres,Üres,Rossz állapotú,215.0,UCP,10/26/2010,60200.0,"áram, víz",,,0.0,0.0
+204,Társasház,36496/A/43,Bródy S. u. 32,,Pi.,OV,1,Palotanegyed,Üres,Üres,Rossz állapotú,116.0,UDP,11/8/2005,32480.0,víz,,,0.0,0.0
+211,Társasház,36673/A/21,Rökk Sz. u. 19,,Fsz.,IR,2,Palotanegyed,Kiadott,Üres,Közepes állapotú,64.0,UDH (földszinti),10/15/2012,46763.0,"áram, gáz, víz",,,0.0,92364.0
+212,Társasház,36491/A/41,Bródy S. u. 38,,Pi.,UZ/41,1,Palotanegyed,Üres,Üres,Rossz állapotú,24.3,UCP,1/28/2020,7290.0,"áram, víz",,,0.0,0.0
+213,Társasház,36491/A/42,Bródy S. u. 38,,Pi.,RA/42,1,Palotanegyed,Kiadott,Üres,Rossz állapotú,64.5,UCP,12/20/2021,19350.0,"áram, víz",,,0.0,0.0
+214,Társasház,36541/A/1,Szentkirályi u. 5,,Pi.,UZ/1,3,Palotanegyed,Üres,Üres,Közepes állapotú,64.0,UCP,6/3/2013,23232.0,áram,,,0.0,0.0
+217,Társasház,36592/A/29,Bródy S. u. 9,,Pi.,2.,1,Palotanegyed,Üres,Üres,Rossz állapotú,251.0,UCP,9/1/2020,46438.0,"áram, víz",,,0.0,0.0
+219,Társasház,36395/A/1,Corvin köz 4,,Pi.,MU,1,Corvin negyed,Üres,Üres,Rossz állapotú,139.0,UCP,12/31/2014,30580.0,"áram, gáz, víz",,,0.0,0.0
+221,Társasház,36785/3/A/1,Csepreghy u. 3,,Pi.,RA/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,146.0,UCP,1/1/2000,33580.0,víz,,,0.0,0.0
+223,Társasház,35912/A/27,Csobánc u. 4,,Pi.,1.,4,Orczy negyed,Üres,Üres,Rossz állapotú,54.0,UCP,4/16/2012,19080.0,áram,,,0.0,0.0
+224,Társasház,35912/A/28,Csobánc u. 4,,Pi.,2.,4,Orczy negyed,Üres,Üres,Rossz állapotú,38.0,UCP,5/2/2011,13392.0,"áram, víz",,,0.0,0.0
+225,Társasház,35913/A/26,Csobánc u. 6,,Pi.,2.,4,Orczy negyed,Üres,Üres,Rossz állapotú,50.0,UCP,9/30/2008,13580.0,"áram, gáz, víz",,,0.0,0.0
+226,Társasház,35914/A/1,Csobánc u. 8,,Pi.,RA/1,4,Orczy negyed,Üres,Üres,Közepes állapotú,25.24,UCP,12/30/2021,8260.0,"áram, víz",,,0.0,0.0
+227,Társasház,35914/A/2,Csobánc u. 8,,Pi.,RA/2,4,Orczy negyed,Üres,Üres,Rossz állapotú,87.19,UCP,1/6/2020,28615.0,,,,0.0,0.0
+228,Társasház,35914/A/3,Csobánc u. 8,,Pi.,RA/3,4,Orczy negyed,Üres,Üres,Rossz állapotú,92.78,UCP,1/1/2000,30444.0,víz,,,0.0,0.0
+230,Társasház,34664/A/2,Csokonai u. 12,,Pi.,2.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,35.0,UCP,10/31/2011,20415.0,víz,,,0.0,0.0
+233,Önkormányzati bérház,35305/A/2,Dankó u. 17,,as,2.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,24.0,UDH (földszinti),10/13/2011,0.0,gáz,,,0.0,0.0
+234,Önkormányzati bérház,35305/A/1,Dankó u. 17,,as.,1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,26.0,UDH (földszinti),4/14/2011,0.0,,,,0.0,0.0
+235,Önkormányzati bérház,35314//0,Dankó u. 20,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,51.0,UCP,4/29/2013,0.0,,,,0.0,0.0
+236,Önkormányzati bérház,35314//0,Dankó u. 20,,Fsz.,bal UCH 2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,41.08,UCH,12/31/2011,0.0,áram,,,0.0,0.0
+237,Önkormányzati bérház,35314//0,Dankó u. 20,,Fsz.,bal UCH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,49.67,UCH,4/29/2013,0.0,áram,,,0.0,0.0
+238,Társasház,35313/A/1,Dankó u. 22,,Pi.,MU,4,Magdolna negyed,Üres,Üres,Rossz állapotú,59.0,UCP,7/23/2013,19824.0,"áram, víz",,,0.0,0.0
+239,Önkormányzati bérház,35472//0,Dankó u. 30,,Fsz.,UDH 1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,14.23,UDH (földszinti),10/1/2011,0.0,,,,0.0,0.0
+240,Önkormányzati bérház,35472//0,Dankó u. 30,,Fsz.,UDH 2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,8.91,UDH (földszinti),10/1/2011,0.0,,,,0.0,0.0
+241,Társasház,35473/A/2,Dankó u. 32,,Fsz.,1A,4,Magdolna negyed,Üres,Üres,Rossz állapotú,51.0,UCH,6/23/2022,20400.0,"áram, gáz, víz",,,0.0,0.0
+242,Önkormányzati bérház,35485/A/3,Dankó u. 33,,Fsz.,UCH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,17.0,UCH,5/21/2009,0.0,áram,,,0.0,0.0
+243,Önkormányzati bérház,35485/B/2,Dankó u. 33,,Fsz.,UDH 1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,130.0,UDH (földszinti),4/20/2008,0.0,,,,0.0,0.0
+244,Önkormányzati bérház,35485/C/1,Dankó u. 33,,Fsz.,UDH 2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,26.0,UDH (földszinti),4/20/2008,0.0,áram,,,0.0,0.0
+246,Társasház,35475/A/3,Dankó u. 36,,Fsz.,RA/2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,15.0,UCH,1/5/2012,6843.0,áram,,,0.0,0.0
+247,Társasház,35476/A/1,Dankó u. 38,,Pi.,OV,4,Magdolna negyed,Üres,Üres,Rossz állapotú,57.0,UDP,1/1/2000,22815.0,,,,0.0,0.0
+249,Önkormányzati bérház,35300//0,Dankó u. 7,,Fsz.,UCH,4,Magdolna negyed,Üres,Üres,Közepes állapotú,42.0,UCH,9/13/2022,0.0,"áram, víz",,,0.0,0.0
+250,Társasház,38760/A/6,Delej u. 32,,as.,3.,3,Tisztviselőtelep,Üres,Üres,Rossz állapotú,20.0,UDH (földszinti),12/17/2009,1400.0,,,,0.0,0.0
+254,Társasház,38601/2/C/44,Delej u. 51,23. lp.,Pi.,II.,3,Ganz negyed,Üres,Üres,Rossz állapotú,93.0,UDP,8/6/2009,13377.0,víz,,,0.0,0.0
+263,Önkormányzati bérház,34953//0,Déri M. u. 11,,as.,UCP 2,2,Csarnok negyed,Üres,Üres,Rossz állapotú,54.0,UCP,1/1/2000,0.0,áram,Bérlő,határozatlan ideig,41114.0,493368.0
+264,Önkormányzati bérház,34953//0,Déri M. u. 11,,as.,UCP 1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,66.0,UCP,6/27/2011,0.0,áram,Bérlő,határozatlan ideig,41114.0,493368.0
+265,Önkormányzati bérház,34953//0,Déri M. u. 11,,as.,UDP,2,Csarnok negyed,Üres,Üres,Rossz állapotú,30.0,UDP,4/20/2009,0.0,áram,Bérlő,határozatlan ideig,41114.0,493368.0
+266,Társasház,34980/A/1,Déri M. u. 15,,Pi.,RA/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,229.0,UCP,1/1/2000,41220.0,"gáz, víz",,,0.0,0.0
+271,Társasház,34952/A/1,Déri M. u. 9,,Pi.,ÜZ/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,63.0,UCP,5/28/2001,15903.0,,,,0.0,0.0
+277,Társasház,36068/A/1,Diószegi S. u. 13,,Pi.,ÜZ/1,4,Orczy negyed,Üres,Üres,Közepes állapotú,49.0,UCP,4/24/2009,24300.0,áram,,,0.0,0.0
+279,Társasház,35977/A/1,Diószegi S. u. 14,,Fsz.,ÜZ/1,4,Orczy negyed,Üres,Üres,Közepes állapotú,113.0,UCH,8/18/2016,40096.0,"áram, áram kártyás, gáz, víz",,,0.0,0.0
+280,Társasház,35977/A/2,Diószegi S. u. 14,,Fsz.,ÜZ/2,4,Orczy negyed,Üres,Üres,Rossz állapotú,39.0,UCH,2/25/2019,10664.0,"áram, gáz, víz",,,0.0,0.0
+281,Társasház,35977/A/9,Diószegi S. u. 14,,Fsz.,IR/1,4,Orczy negyed,Üres,Üres,Rossz állapotú,41.0,UDH (földszinti),2/29/2000,14448.0,,,,0.0,75859.0
+282,Társasház,35977/A/10,Diószegi S. u. 14,,Fsz.,RA/1,4,Orczy negyed,Üres,Üres,Közepes állapotú,69.0,UDH (földszinti),2/29/2000,18748.0,,,,0.0,105012.0
+284,Önkormányzati bérház,35979//0,Diószegi S. u. 18,,Fsz.,UCH,4,Orczy negyed,Üres,Üres,Rossz állapotú,99.0,UCH+UDH,8/8/2013,0.0,,,,0.0,0.0
+285,Önkormányzati bérház,35979//0,Diószegi S. u. 18,,Fsz.,UDH,4,Orczy negyed,Üres,Üres,Rossz állapotú,91.0,UCH+UDH,8/8/2013,0.0,,,,0.0,0.0
+286,Önkormányzati bérház,35979//0,Diószegi S. u. 18,,Pi.,,4,Orczy negyed,Üres,Üres,Rossz állapotú,48.0,UCH+UDP,8/8/2013,0.0,,,,0.0,0.0
+287,Önkormányzati bérház,35980/A/4,Diószegi S. u. 20,,Fsz.,IR,4,Orczy negyed,Üres,Üres,Rossz állapotú,37.0,UCH,5/6/2013,0.0,"áram, víz",,,0.0,0.0
+288,Önkormányzati bérház,35981//0,Diószegi S. u. 22,,Fsz.,UCH,4,Orczy negyed,Üres,Üres,Rossz állapotú,39.0,UCH,7/26/2013,0.0,"áram, víz",,,0.0,0.0
+289,Önkormányzati bérház,35982//0,Diószegi S. u. 24,A. ép.,Fsz.,UCH,4,Orczy negyed,Üres,Üres,Rossz állapotú,9.0,UCH,1/1/2000,0.0,,,,0.0,0.0
+290,Önkormányzati bérház,35982//0,Diószegi S. u. 24,B. ép.,Fsz.,8.,4,Orczy negyed,Üres,Üres,Rossz állapotú,74.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+291,Önkormányzati bérház,35982//0,Diószegi S. u. 24,C. ép.,Fsz.,11.,4,Orczy negyed,Üres,Üres,Rossz állapotú,27.0,UDH (földszinti),8/27/2012,0.0,,,,0.0,0.0
+292,Önkormányzati bérház,35982//0,Diószegi S. u. 24,C. ép.,Fsz.,2.,4,Orczy negyed,Üres,Üres,Rossz állapotú,249.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+293,Önkormányzati bérház,35982//0,Diószegi S. u. 24,C. ép.,Fsz.,12.,4,Orczy negyed,Üres,Üres,Rossz állapotú,25.84,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+294,Önkormányzati bérház,35982//0,Diószegi S. u. 24,C. ép.,Fsz.,16,4,Orczy negyed,Üres,Üres,Rossz állapotú,9.84,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+296,Önkormányzati bérház,35897//0,Diószegi S. u. 7,,Pi.,bal UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,36.0,UCP,1/1/2000,0.0,,,,0.0,0.0
+297,Önkormányzati bérház,35897//0,Diószegi S. u. 7,,Pi.,jobb UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,38.0,UCP,12/15/2010,0.0,,,,0.0,0.0
+298,Társasház,35895/A/27,Diószegi S. u. 9/b,,Pi.,RA/1,4,Orczy negyed,Üres,Üres,Rossz állapotú,218.0,UCP,3/12/2007,29341.0,víz,,,0.0,0.0
+299,Társasház,35380/A/2,Dobozi u. 11,,Fsz.,ÜZ,4,Magdolna negyed,Üres,Üres,Rossz állapotú,20.0,UCH,1/17/2019,15246.0,áram,,,0.0,0.0
+301,Társasház,35378/A/31,Dobozi u. 15,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,163.0,UDP,1/1/2000,14735.0,víz,,,0.0,0.0
+302,Társasház,35378/A/32,Dobozi u. 15,,Pi.,RA/2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,72.0,UDP,3/20/1989,6509.0,,,,0.0,0.0
+303,Önkormányzati bérház,35376//0,Dobozi u. 19,,Fsz.,MU/1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,178.0,UCH,7/7/2016,0.0,,,,0.0,0.0
+304,Önkormányzati bérház,35376//0,Dobozi u. 19,,Pi.,UDP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,65.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+305,Önkormányzati bérház,35376//0,Dobozi u. 19,,Fsz.,UDH,4,Magdolna negyed,Üres,Üres,Közepes állapotú,18.0,UDH (földszinti),11/3/2011,0.0,,,,0.0,0.0
+307,Társasház,35375/A/2,Dobozi u. 21,,Pi.,RA/2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,83.0,UDP,1/1/2000,30075.0,,,,0.0,0.0
+308,Társasház,35375/A/3,Dobozi u. 21,,Fsz.,ÜZ/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,220.0,UCH,7/31/2017,79575.0,"áram, gáz, víz",,,0.0,0.0
+310,Társasház,35418/A/33,Dobozi u. 23,,Fsz.,RA,4,Magdolna negyed,Üres,Üres,Rossz állapotú,38.0,UCH,10/9/2017,20335.0,víz,,,0.0,0.0
+312,Társasház,35417/A/1,Dobozi u. 25,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,197.0,UCP,1/1/2000,64025.0,,,,0.0,0.0
+313,Társasház,35417/A/2,Dobozi u. 25,,Fsz.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,46.0,UCH,10/9/2017,14950.0,"áram, gáz, víz",,,0.0,0.0
+314,Társasház,35417/A/3,Dobozi u. 25,,Fsz.,1A,4,Magdolna negyed,Üres,Üres,Rossz állapotú,31.0,UCH,10/9/2017,10075.0,víz,,,0.0,0.0
+315,Társasház,35416/A/1,Dobozi u. 27,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,319.0,UCP,1/1/2000,84630.0,víz,,,0.0,0.0
+316,Társasház,35416/A/2,Dobozi u. 27,,Pi.,2.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,373.0,UCP,1/1/2000,98980.0,,,,0.0,0.0
+318,Társasház,35416/A/4,Dobozi u. 27,,Fsz.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,31.0,UCH,10/9/2017,8260.0,,,,0.0,0.0
+319,Társasház,35383/A/1,Dobozi u. 3,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,103.0,UCP,4/29/2009,41200.0,"áram, víz",,,0.0,0.0
+320,Önkormányzati bérház,35412//0,Dobozi u. 35,,Pi.,,4,Magdolna negyed,Üres,Üres,Rossz állapotú,51.0,UDP,6/16/2009,0.0,"áram, víz",,,0.0,0.0
+321,Társasház,35411/A/1,Dobozi u. 37,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,87.0,UCP,8/6/2014,36500.0,,,,0.0,0.0
+322,Önkormányzati bérház,35410//0,Dobozi u. 39,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,85.0,UCP,3/28/2017,0.0,gáz,,,0.0,0.0
+323,Önkormányzati bérház,35410//0,Dobozi u. 39,,Fsz.,UDH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,255.0,UDH (földszinti),7/29/2010,0.0,"áram, gáz, víz",,,0.0,0.0
+324,Társasház,35408/A/27,Dobozi u. 43,,as.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,34.0,UCP,1/1/2007,8300.0,áram,,,0.0,0.0
+325,Társasház,35408/A/29,Dobozi u. 43,,Pi.,MÜ/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,77.0,UCP,1/21/2004,11856.0,víz,,,0.0,0.0
+326,Önkormányzati bérház,35407//0,Dobozi u. 45,,Fsz.,UCH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,40.0,UCH,6/30/2011,0.0,áram,,,0.0,0.0
+327,Önkormányzati bérház,35407//0,Dobozi u. 45,,I.,20.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,23.0,UDH (emeleti),11/22/2008,0.0,,,,0.0,0.0
+332,Önkormányzati bérház,36057//0,Dugonics u. 14,,Fsz.,UCH,4,Orczy negyed,Üres,Üres,Rossz állapotú,14.0,UCH,12/28/2009,0.0,,,,0.0,0.0
+333,Önkormányzati bérház,36057//0,Dugonics u. 14,,Pi.,UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,34.0,UCP,5/26/1998,0.0,,,,0.0,0.0
+334,Társasház,36050/A/39,Dugonics u. 15,,Pi.,RA/1,4,Orczy negyed,Üres,Üres,Rossz állapotú,17.0,UCP,11/30/2011,3968.0,"áram, víz",,,0.0,0.0
+335,Társasház,36050/A/40,Dugonics u. 15,,Pi.,RA/2,4,Orczy negyed,Üres,Üres,Közepes állapotú,16.0,UCP,6/7/2013,3844.0,víz,,,0.0,0.0
+336,Társasház,36050/A/41,Dugonics u. 15,,Pi.,RA/3,4,Orczy negyed,Üres,Üres,Közepes állapotú,19.0,UCP,1/11/2011,4526.0,,,,0.0,0.0
+337,Társasház,36050/A/42,Dugonics u. 15,,Pi.,RA/4,4,Orczy negyed,Üres,Üres,Közepes állapotú,19.0,UCP,3/18/2013,4402.0,"áram, víz",,,0.0,0.0
+338,Társasház,36045/A/48,Dugonics u. 3,,Pi.,1.,4,Orczy negyed,Üres,Üres,Közepes állapotú,57.0,UCP,6/8/2009,8026.0,"áram, víz",,,0.0,0.0
+339,Társasház,36045/A/49,Dugonics u. 3,,Pi.,MU/1,4,Orczy negyed,Üres,Üres,Közepes állapotú,15.0,UCP,1/24/2005,6864.0,,,,0.0,0.0
+340,Társasház,36045/A/50,Dugonics u. 3,,Pi.,MU/2,4,Orczy negyed,Üres,Üres,Rossz állapotú,28.0,UCP,5/24/2011,3942.0,"áram, gáz, víz",,,0.0,0.0
+343,Társasház,34990/A/4,Fecske u. 10,,Fsz.,ÜZ/2,3,Csarnok negyed,Kiadott,Üres,Közepes állapotú,26.0,UCH,10/27/2016,22860.0,"áram, gáz",,,0.0,95151.0
+345,Társasház,34987/A/12,Fecske u. 15,,as.,RA/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,65.0,UDH (földszinti),10/28/2019,24518.0,,,,0.0,0.0
+346,Társasház,34987/A/13,Fecske u. 15,,as.,RA/2,3,Csarnok negyed,Üres,Üres,Rossz állapotú,22.0,UCP,6/15/2012,8372.0,áram,,,0.0,0.0
+347,Önkormányzati bérház,34994//0,Fecske u. 18,,Pi.,UCP,3,Csarnok negyed,Üres,Üres,Rossz állapotú,70.0,UCP,1/1/2000,0.0,gáz,,,0.0,0.0
+348,Önkormányzati bérház,34994//0,Fecske u. 18,,Fsz.,5.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,26.0,UDH (földszinti),9/10/2019,0.0,"áram, gáz, víz",,,0.0,0.0
+349,Társasház,35002/A/19,Fecske u. 34,,Pi.,19.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,42.0,UCP,8/24/2011,5208.0,,,,0.0,0.0
+351,Társasház,34978/A/25,Fecske u. 37,,Pi.,RA/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,104.0,UCP,1/24/2013,16680.0,,,,0.0,0.0
+352,Társasház,34974/A/1,Fecske u. 45,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,125.0,UCP,6/29/2010,151371.0,"áram, gáz, víz",,,0.0,0.0
+353,Társasház,34788/A/27,Fecske u. 5,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,47.0,UCP,5/2/2005,9018.0,,,,0.0,0.0
+354,Társasház,34788/A/28,Fecske u. 5,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,22.0,UCP,12/31/2013,6930.0,"áram, víz",,,0.0,0.0
+355,Társasház,34781/A/16,Fecske u. 8,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,40.0,UCP,1/1/2000,5832.0,,,,0.0,0.0
+359,Társasház,34594/A/1,Fiumei út 7,,as./Fsz.,ÜZ/1,3,Népszínház negyed,Üres,Üres,Közepes állapotú,566.0,UCH,9/2/2020,115940.0,"áram, gáz, víz",,,0.0,0.0
+361,Társasház,34594/B/1,Fiumei út 7,,Fsz./I.,ÜZ/3,3,Népszínház negyed,Üres,Üres,Rossz állapotú,91.0,UDH (földszinti),9/2/2020,28644.0,áram,,,0.0,0.0
+364,Önkormányzati bérház,35685//0,Futó u. 27,,Fsz.,10.,2,Corvin negyed,Üres,Üres,Közepes állapotú,29.0,UDH (földszinti),10/19/2020,0.0,"áram, víz",,,0.0,0.0
+370,Társasház,36114/A/1,Fővészkert u. 4,,Pi.,MU,3,Losonci negyed,Üres,Üres,Közepes állapotú,100.0,UCP,8/6/2010,47600.0,"áram, víz",,,0.0,0.0
+375,Társasház,35002/A/20,Fecske u. 34,,Pi.,20.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,36.0,UCP,6/16/2020,4340.0,"áram, víz",,,0.0,0.0
+377,Társasház,36455/A/118,Gyulai Pál u. 12,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,101.88,UDP,1/1/2000,72270.0,víz,,,0.0,0.0
+378,Társasház,36455/A/119,Gyulai Pál u. 12,,Pi.,OV/2,2,Palotanegyed,Üres,Üres,Rossz állapotú,78.1,UDP,1/1/2000,55440.0,,,,0.0,0.0
+380,Társasház,36453/A/1,Gyulai Pál u. 8,,Pi.,RA/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,112.0,UDP,1/1/2000,92504.0,,,,0.0,0.0
+381,Társasház,36453/A/2,Gyulai Pál u. 8,,Pi.,RA/2,2,Palotanegyed,Üres,Üres,Rossz állapotú,29.0,UDP,1/1/2000,23872.0,,,,0.0,0.0
+382,Társasház,36453/A/3,Gyulai Pál u. 8,,Pi.,RA/3,2,Palotanegyed,Üres,Üres,Rossz állapotú,57.0,UDP,9/30/2020,35343.0,,,,0.0,0.0
+383,Társasház,36453/A/4,Gyulai Pál u. 8,,Fsz.,MU/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,276.0,UDH (földszinti),2/5/2020,212800.0,,,,0.0,0.0
+385,Társasház,36445/A/1,Gyulai Pál u. 9,,Pi.,UZ/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,41.0,UCP,1/1/2000,24180.0,"áram, víz",,,0.0,0.0
+391,Társasház,35099/A/1,Homok u. 4-6,,Pi.,RA/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,81.0,UCP,1/1/2000,56340.0,áram,,,0.0,0.0
+392,Társasház,35099/A/2,Homok u. 4-6,,Pi.,RA/2,3,Magdolna negyed,Üres,Üres,Rossz állapotú,81.0,UCP,5/28/2019,56340.0,,,,0.0,0.0
+393,Társasház,35099/A/3,Homok u. 4-6,,Fsz.,ÜZ/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,82.0,UCH,5/29/2019,56610.0,"áram, gáz, víz",,,0.0,0.0
+396,Társasház,35098/A/28,Homok u. 8-10,,Pi.,RA/2,3,Magdolna negyed,Üres,Üres,Közepes állapotú,63.0,UCP,6/21/2001,6480.0,,,,0.0,0.0
+399,Önkormányzati bérház,36637//0,Horánszky u. 16,,as.,UDH 1,2,Palotanegyed,Üres,Üres,Közepes állapotú,50.0,UDH (földszinti),12/20/2011,0.0,"áram, gáz",Bérlő,határozatlan ideig,21769.0,261228.0
+402,Társasház,36608/A/4,Horánszky u. 27,,Fsz.,UZ/4,2,Palotanegyed,Üres,Üres,Rossz állapotú,53.69,UCH,11/18/2020,10738.0,"áram, gáz, víz",,,0.0,0.0
+403,Társasház,35194/A/2,Horváth M. tér 16,1. lp.,Fsz.,RA/2,2,Csarnok negyed,Üres,Üres,Jó állapotú,46.0,UCH,6/30/2021,18720.0,"áram, víz",,,0.0,0.0
+404,Társasház,35194/A/3,Horváth M. tér 16,1. lp.,Fsz.,ÜZ/1,2,Csarnok negyed,Üres,Üres,Jó állapotú,17.0,UCH,6/30/2021,15052.0,áram,,,0.0,0.0
+406,Társasház,35194/B/1,Horváth M. tér 16,2. lp.,Fsz.,IR/1,2,Csarnok negyed,Üres,Üres,Közepes állapotú,39.0,UDH (földszinti),1/1/2000,15860.0,áram,,,0.0,0.0
+407,Társasház,35194/B/2,Horváth M. tér 16,2. lp.,Fsz.,IR/2,2,Csarnok negyed,Üres,Üres,Közepes állapotú,19.0,UDH (földszinti),1/1/2000,7670.0,,,,0.0,0.0
+408,Társasház,35194/B/3,Horváth M. tér 16,2. lp.,Fsz.,IR/3,2,Csarnok negyed,Üres,Üres,Közepes állapotú,9.0,UDH (földszinti),1/1/2000,3640.0,,,,0.0,0.0
+409,Társasház,35194/B/4,Horváth M. tér 16,2. lp.,Fsz.,IR/4,2,Csarnok negyed,Üres,Üres,Közepes állapotú,10.0,UDH (földszinti),1/1/2000,4030.0,áram,,,0.0,0.0
+410,Társasház,35194/B/5,Horváth M. tér 16,2. lp.,Fsz.,RA/1,2,Csarnok negyed,Üres,Üres,Közepes állapotú,18.0,UDH (földszinti),1/1/2000,12320.0,,,,0.0,0.0
+411,Társasház,35194/B/6,Horváth M. tér 16,2. lp.,Fsz.,IR/5,2,Csarnok negyed,Üres,Üres,Közepes állapotú,19.0,UDH (földszinti),1/1/2000,12980.0,,,,0.0,0.0
+412,Társasház,35194/B/7,Horváth M. tér 16,2. lp.,Fsz.,IR/6,2,Csarnok negyed,Üres,Üres,Közepes állapotú,22.0,UDH (földszinti),1/1/2000,15180.0,,,,0.0,0.0
+413,Társasház,35194/B/8,Horváth M. tér 16,2. lp.,Fsz.,IR/7,2,Csarnok negyed,Üres,Üres,Közepes állapotú,11.0,UDH (földszinti),1/1/2000,7480.0,,,,0.0,0.0
+414,Társasház,35194/B/9,Horváth M. tér 16,2. lp.,I.,IR/8,2,Csarnok negyed,Üres,Üres,Közepes állapotú,34.0,UDH (emeleti),1/1/2000,23320.0,,,,0.0,0.0
+415,Társasház,35194/B/10,Horváth M. tér 16,2. lp.,I.,IR/9,2,Csarnok negyed,Üres,Üres,Közepes állapotú,19.0,UDH (emeleti),1/1/2000,12980.0,,,,0.0,0.0
+416,Társasház,35194/B/11,Horváth M. tér 16,2. lp.,I.,IR/10,2,Csarnok negyed,Üres,Üres,Közepes állapotú,9.0,UDH (emeleti),1/1/2000,6160.0,,,,0.0,0.0
+417,Társasház,35194/B/12,Horváth M. tér 16,2. lp.,I.,IR/11,2,Csarnok negyed,Üres,Üres,Közepes állapotú,11.0,UDH (emeleti),1/1/2000,7480.0,,,,0.0,0.0
+418,Társasház,35194/B/13,Horváth M. tér 16,2. lp.,I.,IR/12,2,Csarnok negyed,Üres,Üres,Közepes állapotú,39.0,UDH (emeleti),1/1/2000,26840.0,,,,0.0,0.0
+419,Társasház,35194/B/14,Horváth M. tér 16,2. lp.,I.,IR/13,2,Csarnok negyed,Üres,Üres,Közepes állapotú,33.0,UDH (emeleti),1/1/2000,22660.0,,,,0.0,0.0
+420,Társasház,35194/B/15,Horváth M. tér 16,2. lp.,II.,RA/2,2,Csarnok negyed,Üres,Üres,Közepes állapotú,47.0,UDH (emeleti),1/1/2000,32120.0,,,,0.0,0.0
+421,Társasház,35194/B/16,Horváth M. tér 16,2. lp.,II.,RA/3,2,Csarnok negyed,Üres,Üres,Közepes állapotú,18.0,UDH (emeleti),1/1/2000,12320.0,,,,0.0,0.0
+422,Társasház,35194/B/17,Horváth M. tér 16,2. lp.,II.,RA/4,2,Csarnok negyed,Üres,Üres,Közepes állapotú,26.0,UDH (emeleti),1/1/2000,17380.0,,,,0.0,0.0
+423,Társasház,35194/B/18,Horváth M. tér 16,2. lp.,II.,RA/5,2,Csarnok negyed,Üres,Üres,Közepes állapotú,64.0,UDH (emeleti),1/1/2000,43340.0,,,,0.0,0.0
+424,Társasház,35194/B/19,Horváth M. tér 16,2. lp.,II.,RA/6,2,Csarnok negyed,Üres,Üres,Közepes állapotú,8.0,UDH (emeleti),1/1/2000,5280.0,,,,0.0,0.0
+425,Társasház,35194/B/20,Horváth M. tér 16,2. lp.,Pi.,OV,2,Csarnok negyed,Üres,Üres,Rossz állapotú,75.0,UDP,1/1/2000,51480.0,gáz,,,0.0,0.0
+426,Társasház,35194/C/1,Horváth M. tér 16,3. lp.,Pi.,OV,2,Csarnok negyed,Üres,Üres,Közepes állapotú,91.0,UDP,1/1/2000,62480.0,gáz,,,0.0,0.0
+427,Társasház,35550/A/19,Horváth M. tér 2,,Fsz.,UZ/1,2,Corvin negyed,Üres,Üres,Közepes állapotú,88.55,UCH,9/30/2020,18280.0,"áram, gáz, víz",,,0.0,0.0
+429,Társasház,35550/A/24,Horváth M. tér 2,,Pi.,RA,2,Corvin negyed,Üres,Üres,Rossz állapotú,87.45,UCP,6/21/2011,11480.0,áram,,,0.0,0.0
+430,Társasház,35547/A/17,Horváth M. tér 5,,Fsz.,IR,2,Corvin negyed,Üres,Üres,Rossz állapotú,98.35,UCH,2/26/2015,36024.0,"áram, gáz, víz",,,0.0,0.0
+432,Társasház,38862/4/A/2,Hungária krt. 10/b,,Fsz.,UZ/2,3,Százados negyed,Kiadott,Üres,Közepes állapotú,23.0,UCH,1/15/2013,9204.0,"áram, gáz, víz",,,0.0,3151.0
+437,Társasház,38868/A/43,Hungária krt. 18,,Fsz.,V.,3,Százados negyed,Üres,Üres,Jó állapotú,95.0,UCH,10/1/2020,28500.0,"áram, gáz, víz",,,0.0,0.0
+438,Társasház,38867/4/A/2,Hungária krt. 20/a,,as.,2.,3,Százados negyed,Üres,Üres,Közepes állapotú,16.0,UCH,3/31/2017,2184.0,"áram, gáz, víz",,,0.0,0.0
+439,Társasház,38867/5/A/10,Hungária krt. 20/b,,as.,1.,3,Százados negyed,Üres,Üres,Közepes állapotú,17.0,UCH,3/31/2017,2550.0,,,,0.0,0.0
+441,Társasház,34770/A/17,II. János Pál pápa tér 10,,Te.,ÜZ/4,3,Népszínház negyed,Üres,Üres,n.a.,17.0,UDH (emeleti),12/31/2012,6678.0,,,,0.0,0.0
+443,Társasház,34768/A/1,II. János Pál pápa tér 12,,Pi.,MÜ,3,Népszínház negyed,Üres,Üres,Közepes állapotú,65.0,UDP,9/16/2014,25331.0,,,,0.0,0.0
+444,Társasház,34768/A/2,II. János Pál pápa tér 12,,Pi./Fsz.,ÜZ,3,Népszínház negyed,Üres,Üres,Közepes állapotú,147.0,UCH+UCP,9/1/2014,57305.0,"áram, víz",,,0.0,0.0
+446,Társasház,36455/A/2,Gyulai Pál u. 12,,Fsz.,ÜZ/2,2,Palotanegyed,Kiadott,Üres,Közepes állapotú,37.44,UCH,3/5/2012,26730.0,"áram, gáz, víz",,,0.0,2674620.0
+449,Társasház,34760/A/228,II. János Pál pápa tér 14-16,6. lp.,VII.,66.,3,Népszínház negyed,Üres,Üres,Közepes állapotú,14.0,UDH (emeleti),1/1/2000,6160.0,,,,0.0,0.0
+450,Társasház,34757/A/44,II. János Pál pápa tér 17,,Pi.,MÜ/2,3,Népszínház negyed,Üres,Üres,Közepes állapotú,68.0,UCP,10/28/2011,55216.0,,,,0.0,0.0
+453,Társasház,36455/A/3,Gyulai Pál u. 12,,Fsz.,ÜZ/3,2,Palotanegyed,Kiadott,Üres,Közepes állapotú,50.28,UCH,3/5/2012,35640.0,víz,,,0.0,0.0
+454,Társasház,34696/A/2,II. János Pál pápa tér 2,,Pi.,2.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,70.0,UCP,8/31/2006,26350.0,"áram, víz",,,0.0,0.0
+458,Társasház,34616/A/68,II. János Pál pápa tér 22,,Pi.,2.,3,Népszínház negyed,Üres,Üres,Közepes állapotú,105.0,UCP,2/18/2013,47960.0,"áram, víz",,,0.0,0.0
+459,Társasház,34616/A/69,II. János Pál pápa tér 22,,Pi.,3.,3,Népszínház negyed,Üres,Üres,Közepes állapotú,88.0,UCP,1/1/2000,40150.0,,,,0.0,0.0
+460,Társasház,34617/A/1,II. János Pál pápa tér 23,,Pi.,1.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,22.0,UDP,1/1/2000,5508.0,,,,0.0,0.0
+461,Társasház,36098/A/1,Illés u. 16,,Fsz.,UZ/1,4,Orczy negyed,Üres,Üres,Rossz állapotú,38.0,UCH,11/9/2020,27208.0,"áram, víz",,,0.0,0.0
+462,Önkormányzati bérház,36103//0,Illés u. 19,,Fsz.,12.,4,Losonci negyed,Üres,Üres,Rossz állapotú,45.0,UDH (földszinti),5/7/2008,0.0,,,,0.0,0.0
+463,Önkormányzati bérház,36103//0,Illés u. 19,,Fsz.,11.,4,Losonci negyed,Üres,Üres,Rossz állapotú,27.0,UDH (földszinti),5/7/2008,0.0,,,,0.0,0.0
+464,Önkormányzati bérház,36103//0,Illés u. 19,,Fsz.,15.,4,Losonci negyed,Üres,Üres,Rossz állapotú,18.0,UDH (földszinti),7/5/2012,0.0,,,,0.0,0.0
+465,Önkormányzati bérház,36096//0,Illés u. 20,,II.,24.,4,Orczy negyed,Üres,Üres,Rossz állapotú,10.0,UDH (emeleti),2/24/2009,0.0,,,,0.0,0.0
+466,Társasház,36083/4/A/3,Illés u. 22,,as.,RA,4,Orczy negyed,Üres,Üres,Rossz állapotú,41.0,-,4/15/2010,16195.0,"áram, víz",,,0.0,0.0
+468,Társasház,36083/3/A/2,Illés u. 24,,Fsz.,UZ/2,4,Orczy negyed,Üres,Üres,Rossz állapotú,11.34,UCH,1/21/2022,2380.0,"áram, víz",,,0.0,0.0
+469,Társasház,36083/3/A/4,Illés u. 24,,as.,1.,4,Orczy negyed,Üres,Üres,Rossz állapotú,49.34,UCP,9/29/2011,10336.0,víz,,,0.0,0.0
+470,Társasház,36083/3/A/5,Illés u. 24,,as.,2.,4,Orczy negyed,Üres,Üres,Rossz állapotú,55.41,UCP,1/1/2000,11628.0,víz,,,0.0,0.0
+471,Társasház,36090/A/41,Illés u. 36,,Fsz.,ÜZ/1,4,Orczy negyed,Üres,Üres,Rossz állapotú,23.0,UCH,4/24/2014,11477.0,áram,,,0.0,0.0
+472,Társasház,36090/A/43,Illés u. 36,,Fsz.,MÜ,4,Orczy negyed,Üres,Üres,Rossz állapotú,16.0,UCH,7/12/2017,5760.0,"áram, víz",,,0.0,0.0
+474,Társasház,36090/A/45,Illés u. 36,,Pi.,OV,4,Orczy negyed,Üres,Üres,Rossz állapotú,140.0,UDP,1/1/2000,20160.0,víz,,,0.0,0.0
+480,Társasház,34852/A/1,József krt. 18,,Pi.,UDP,2,Csarnok negyed,Üres,Üres,Rossz állapotú,25.0,UDP,1/1/2000,14883.0,,,,0.0,0.0
+484,Társasház,34860/A/3,József krt. 20,,Pi.,OV/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,67.9,UDP,10/1/2005,23629.0,,,,0.0,0.0
+486,Társasház,34862/A/8,József krt. 26,,Pi.,OV/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,58.0,UDP,1/1/2000,12992.0,víz,,,0.0,0.0
+489,Társasház,34865/A/1,József krt. 30-32,,Pi.,OV,2,Csarnok negyed,Üres,Üres,Rossz állapotú,46.0,UDP,1/1/2000,15410.0,,,,0.0,0.0
+490,Társasház,34865/A/2,József krt. 30-32,,Pi.,EGYÉB,2,Csarnok negyed,Üres,Üres,Rossz állapotú,10.0,UDP,1/1/2000,3350.0,,,,0.0,0.0
+494,Társasház,34880/A/1,József krt. 34,,Pi.,RA/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,5.0,UDP,1/1/2000,1235.0,víz,,,0.0,0.0
+495,Társasház,34880/A/2,József krt. 34,,Pi.,RA/2,2,Csarnok negyed,Üres,Üres,Rossz állapotú,6.0,UDP,1/1/2000,1430.0,,,,0.0,0.0
+496,Társasház,34880/A/3,József krt. 34,,Pi.,RA/3,2,Csarnok negyed,Üres,Üres,Rossz állapotú,88.0,UDP,9/23/2008,14850.0,,,,0.0,0.0
+497,Társasház,34880/A/4,József krt. 34,,Pi.,RA/4,2,Csarnok negyed,Üres,Üres,Rossz állapotú,12.0,UDP,1/1/2000,2925.0,,,,0.0,0.0
+500,Társasház,36692/A/5,József krt. 37-39,,Fsz.,UZ/5,2,Palotanegyed,Üres,Üres,Rossz állapotú,23.41,UCH,10/29/2015,4704.0,áram,,,0.0,0.0
+502,Társasház,36692/A/7,József krt. 37-39,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,183.0,UDP,1/1/2000,37072.0,víz,,,0.0,0.0
+504,Társasház,36693/A/8,József krt. 41,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,52.0,UDP,1/1/2000,13926.0,víz,,,0.0,0.0
+505,Társasház,34760/A/142,II. János Pál pápa tér 14-16,3. lp.,Fsz.,UZ/5,3,Népszínház negyed,Üres,Üres,Rossz állapotú,36.0,UCH,3/8/2016,15840.0,áram,,,0.0,500000.0
+506,Társasház,36487/A/1,Kőfaragó u. 5,,Pi.,RA,2,Palotanegyed,Üres,Üres,Közepes állapotú,66.0,UCH+UDP,7/29/2022,31668.0,"áram, gáz, víz",,,0.0,0.0
+511,Társasház,36702/A/7,József krt. 49,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,94.2,UDP,1/1/2000,17971.0,,,,0.0,0.0
+512,Társasház,36703/A/1,József krt. 51,,Pi.,OV,2,Palotanegyed,Üres,Üres,Rossz állapotú,83.0,UDP,5/5/2011,15770.0,,,,0.0,0.0
+520,Társasház,35637/A/1,József krt. 58,,Pi.,OV,2,Corvin negyed,Üres,Üres,Rossz állapotú,92.0,UDP,9/1/2016,18860.0,víz,,,0.0,0.0
+521,Társasház,36780/A/1,József krt. 59-61,,Pi.,OV,2,Palotanegyed,Üres,Üres,Rossz állapotú,181.0,UDP,1/1/2000,41920.0,,,,0.0,0.0
+522,Társasház,36660/A/1,Mária u. 6,,Pi.,1.,3,Palotanegyed,Üres,Üres,Közepes állapotú,70.0,UCP,9/24/2013,74241.0,víz,,,0.0,0.0
+525,Társasház,36781/A/1,József krt. 63,,Pi.,OV,2,Palotanegyed,Üres,Üres,Rossz állapotú,113.0,UDP,1/1/2000,23400.0,,,,0.0,0.0
+528,Társasház,36785/4/A/37,József krt. 65,,Pi.,RA/2,2,Palotanegyed,Üres,Üres,Rossz állapotú,79.0,UCP,1/1/2000,15800.0,víz,,,0.0,0.0
+532,Társasház,35643/A/4,József krt. 68,,Fsz.,UZ/1,2,Corvin negyed,Üres,Üres,Jó állapotú,95.0,UCH,11/21/2018,24766.0,"áram, gáz, víz",,,0.0,0.0
+534,Társasház,36787/A/3,József krt. 69,,Pi.,ÜZ/3,2,Palotanegyed,Üres,Üres,Rossz állapotú,126.0,UDP,1/1/2000,23940.0,,,,0.0,0.0
+539,Társasház,36799/A/5,József krt. 71-73,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,178.0,UDP,1/1/2000,35600.0,,,,0.0,0.0
+540,Társasház,35646/A/29,József krt. 72,,Pi.,OV,2,Corvin negyed,Üres,Üres,Rossz állapotú,63.0,UDP,1/1/2000,28350.0,víz,,,0.0,0.0
+541,Társasház,35647/A/1,József krt. 74-76,,Pi.,OV,2,Corvin negyed,Üres,Üres,Rossz állapotú,42.0,UDP,1/1/2000,23100.0,,,,0.0,0.0
+544,Társasház,36801/A/6,József krt. 77-79,,Pi.,MÜ,2,Palotanegyed,Üres,Üres,Rossz állapotú,214.0,UDP,1/1/2000,44940.0,víz,,,0.0,0.0
+545,Társasház,36801/A/45,József krt. 77-79,,Pi.,OV,2,Palotanegyed,Üres,Üres,Rossz állapotú,68.0,UDP,1/1/2000,17340.0,,,,0.0,0.0
+546,Társasház,34848/A/1,József krt. 8,,Pi.,EGYÉB,2,Csarnok negyed,Üres,Üres,Rossz állapotú,173.0,UDP,11/25/2008,79580.0,,,,0.0,0.0
+547,Társasház,34848/A/4,József krt. 8,,Fsz.,UZ/3,2,Csarnok negyed,Üres,Üres,Rossz állapotú,3.0,UDH (földszinti),1/1/2000,1713.0,,,,0.0,0.0
+548,Társasház,36398/A/18,József krt. 80,,Pi.,OV,2,Corvin negyed,Üres,Üres,Rossz állapotú,60.0,UDP,1/1/2000,18000.0,víz,,,0.0,0.0
+549,Társasház,36802/A/2,József krt. 81,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,79.0,UDP,1/1/2000,23352.0,,,,0.0,0.0
+550,Társasház,36803/A/1,József krt. 83,,Pi.,OV,2,Palotanegyed,Üres,Üres,Rossz állapotú,88.0,UDP,11/22/2005,18480.0,víz,,,0.0,0.0
+552,Társasház,36804/A/1,József krt. 85,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,89.0,UDP,5/17/2011,25543.0,,,,0.0,0.0
+553,Társasház,36804/A/2,József krt. 85,,Pi.,OV/2,2,Palotanegyed,Üres,Üres,Rossz állapotú,84.0,UDP,1/1/2000,24108.0,,,,0.0,0.0
+554,Társasház,36410/A/1,József krt. 9,,Pi.,OV/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,87.0,UDP,1/1/2000,19314.0,víz,,,0.0,0.0
+558,Társasház,35222/A/30,József u. 11,,Pi.,9.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,63.0,UCP,1/25/2010,12665.0,"áram, gáz, víz",,,0.0,0.0
+559,Társasház,35222/A/31,József u. 11,,Fsz.,UZ/10,3,Csarnok negyed,Üres,Üres,Rossz állapotú,58.0,UCH,2/15/2021,29070.0,"áram, gáz, víz",,,0.0,0.0
+560,Társasház,35218/A/1,József u. 15-17,,Pi.,UZ/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,147.0,UCP,2/2/2010,19594.0,"áram, víz",,,0.0,0.0
+564,Társasház,34947/A/22,József u. 26-28,,Pi.,RA/22,3,Csarnok negyed,Üres,Üres,Rossz állapotú,253.95,UCP,1/1/2000,64757.0,áram,,,0.0,0.0
+567,Társasház,36714/A/33,Krúdy u. 5,,as.,1.,1,Palotanegyed,Üres,Üres,Közepes állapotú,76.0,UDP,2/7/2011,20200.0,,,,0.0,0.0
+575,Társasház,35178/A/1,József u. 41,,as.,RA,3,Csarnok negyed,Üres,Üres,Rossz állapotú,53.0,UDP,1/1/2000,54978.0,"áram, víz",,,0.0,0.0
+577,Társasház,35006/A/26,József u. 42,,Pi.,OV/1,3,Csarnok negyed,Üres,Üres,Közepes állapotú,42.0,UDP,1/1/2000,16800.0,,,,0.0,0.0
+578,Társasház,35006/A/27,József u. 42,,Pi.,OV/2,3,Csarnok negyed,Üres,Üres,Közepes állapotú,42.0,UDP,1/1/2000,16800.0,,,,0.0,0.0
+579,Társasház,35044/A/1,József u. 46,,Pi.,RA/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,114.0,UCP,4/13/2005,28800.0,víz,,,0.0,0.0
+581,Önkormányzati bérház,35159/A/41,József u. 47,,Fsz.,UCH,3,Csarnok negyed,Üres,Üres,Rossz állapotú,48.0,UCH,7/11/2017,0.0,"áram, hőmennyiség, víz",,,0.0,0.0
+582,Önkormányzati bérház,35153//0,József u. 59.,,Fsz.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,32.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+584,Társasház,34888/A/15,József u. 6,,Pi.,,3,Csarnok negyed,Üres,Üres,Közepes állapotú,149.0,UCP,1/1/2000,29944.0,gáz,,,0.0,0.0
+586,Társasház,35224/A/1,József u. 7,,Pi.,IR/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,127.0,UCP,1/1/2000,41440.0,víz,,,0.0,0.0
+587,Társasház,35901/A/29,Kálvária tér 11,,Pi.,RA,3,Orczy negyed,Üres,Üres,Rossz állapotú,46.0,UCP,8/10/2009,6385.0,"áram, víz",,,0.0,0.0
+592,Társasház,35435/A/31,Kálvária tér 16,,Fsz.,UZ/2,3,Magdolna negyed,Üres,Üres,Közepes állapotú,30.0,UCH,3/1/2022,9990.0,"áram, gáz, víz",,,0.0,19812.0
+594,Társasház,35435/A/34,Kálvária tér 16,,Pi.,RA,3,Magdolna negyed,Üres,Üres,Rossz állapotú,111.0,UCP,6/5/1998,14785.0,víz,,,0.0,0.0
+595,Társasház,35436/A/6,Kálvária tér 17,,Fsz.,IR/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,59.0,UCH,11/17/2008,28208.0,"áram, gáz, víz",,,0.0,0.0
+600,Társasház,35458/A/1,Kálvária tér 21,,Fsz.,UZ/1,3,Magdolna negyed,Kiadott,Üres,Közepes állapotú,96.0,UCH,7/1/2006,34560.0,áram,,,0.0,1860437.0
+602,Társasház,35487/A/1,Kálvária tér 23,,Pi.,RA/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,130.0,UCP,1/29/2009,36250.0,víz,,,0.0,0.0
+603,Társasház,35487/A/2,Kálvária tér 23,,Pi.,RA/2,3,Magdolna negyed,Üres,Üres,Rossz állapotú,111.0,UCP,3/31/2011,31000.0,"áram, gáz, víz",,,0.0,0.0
+604,Társasház,35868/A/42,Kálvária tér 4,,Pi.,OV,3,Orczy negyed,Üres,Üres,Közepes állapotú,56.0,UCP,6/7/1995,9310.0,,,,0.0,0.0
+615,Önkormányzati bérház,35889//0,Kálvária u. 10,,Pi.,UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,70.0,UCP,7/14/1995,0.0,,,,0.0,0.0
+616,Társasház,36063/A/61,Kálvária u. 24,,Pi.,OV,4,Orczy negyed,Üres,Üres,Közepes állapotú,83.0,UDP,1/1/2000,9628.0,,,,0.0,0.0
+617,Önkormányzati bérház,36062//0,Kálvária u. 26,,Fsz.,UDH,4,Orczy negyed,Üres,Üres,Rossz állapotú,84.0,UDH (földszinti),1/16/2007,0.0,,,,0.0,0.0
+618,Társasház,36061/A/41,Kálvária u. 28,,Pi.,OV,4,Orczy negyed,Üres,Üres,Közepes állapotú,171.0,UDP,2/4/2009,35910.0,,,,0.0,0.0
+622,Önkormányzati bérház,35352//0,Karácsony S. u. 10,,Pi.,UCP,3,Magdolna negyed,Üres,Üres,Rossz állapotú,157.0,UCP,9/22/2016,0.0,"áram, gáz, víz",,,0.0,0.0
+623,Önkormányzati bérház,35352//0,Karácsony S. u. 10,,Fsz.,10/A,3,Magdolna negyed,Üres,Üres,Rossz állapotú,23.0,UDH (földszinti),10/30/2012,0.0,,,,0.0,0.0
+625,Önkormányzati bérház,35338//0,Karácsony S. u. 17,,as.,10,3,Magdolna negyed,Üres,Üres,Rossz állapotú,20.0,UDP,3/10/2003,0.0,,,,0.0,0.0
+626,Önkormányzati bérház,35338//0,Karácsony S. u. 17,,Pi.,UCP,3,Magdolna negyed,Üres,Üres,Rossz állapotú,27.0,UCP,3/27/2003,0.0,áram,,,0.0,0.0
+627,Önkormányzati bérház,35338//0,Karácsony S. u. 17,,Fsz.,UDH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,41.0,UDH (földszinti),1/6/2013,0.0,áram,,,0.0,0.0
+628,Önkormányzati bérház,35338//0,Karácsony S. u. 17,,as.,9.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,23.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+629,Önkormányzati bérház,35338//0,Karácsony S. u. 17,,as.,,3,Magdolna negyed,Üres,Üres,Rossz állapotú,19.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+630,Társasház,35448/A/44,Karácsony S. u. 18,,Pi.,1.,3,Magdolna negyed,Üres,Üres,Közepes állapotú,59.0,UCP,7/10/2007,6500.0,víz,,,0.0,0.0
+633,Társasház,35348/A/1,Karácsony S. u. 2/c,,Pi.,1.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,43.0,UCP,9/30/2021,11684.0,áram,,,0.0,0.0
+634,Társasház,35348/A/2,Karácsony S. u. 2/c,,Pi./Fsz.,2.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,108.0,UCH+UCP,9/11/2017,29486.0,"áram, víz",,,0.0,0.0
+635,Önkormányzati bérház,35449//0,Karácsony S. u. 20,,Fsz.,UCH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,17.0,UCH,6/7/2011,0.0,víz,,,0.0,0.0
+636,Önkormányzati bérház,35449//0,Karácsony S. u. 20,,Fsz.,UDH,3,Magdolna negyed,Üres,Üres,Közepes állapotú,46.0,UDH (földszinti),4/6/2005,0.0,víz,,,0.0,0.0
+640,Társasház,35467/A/5,Karácsony S. u. 21,,Fsz.,MÜ/5,3,Magdolna negyed,Üres,Üres,Rossz állapotú,246.8,UCH+UCP,3/1/2006,60960.0,víz,,,0.0,0.0
+641,Önkormányzati bérház,35450//0,Karácsony S. u. 22,A. ép.,as.,bal UCP,3,Magdolna negyed,Üres,Üres,Rossz állapotú,102.0,UCP,4/5/2012,0.0,,,,0.0,0.0
+642,Önkormányzati bérház,35450//0,Karácsony S. u. 22,B. ép.,as.,jobb UCP,3,Magdolna negyed,Üres,Üres,Közepes állapotú,106.0,UCP,1/21/2013,0.0,,,,0.0,0.0
+644,Társasház,35466/A/6,Karácsony S. u. 23,,Fsz.,RA/2,3,Magdolna negyed,Üres,Üres,Közepes állapotú,10.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+645,Önkormányzati bérház,35451//0,Karácsony S. u. 24,,Fsz.,UCH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,79.0,UCH,3/31/2022,0.0,"áram, víz",,,0.0,0.0
+647,Önkormányzati bérház,35451//0,Karácsony S. u. 24,,Fsz.,UDH 1,3,Magdolna negyed,Üres,Üres,Közepes állapotú,225.0,UDH (földszinti),9/28/2009,0.0,"áram, víz",,,0.0,0.0
+649,Társasház,35349/A/47,Karácsony S. u. 4,,Fsz.,RA,3,Magdolna negyed,Kiadott,Üres,Jó állapotú,27.0,UDH (földszinti),7/19/2019,8350.0,,,,0.0,497322.0
+650,Társasház,35349/A/48,Karácsony S. u. 4,,Pi.,RA,3,Magdolna negyed,Üres,Üres,Rossz állapotú,77.0,UCP,1/1/2000,9800.0,víz,,,0.0,0.0
+651,Önkormányzati bérház,35334//0,Karácsony S. u. 5,,Pi.,,3,Magdolna negyed,Üres,Üres,Rossz állapotú,105.0,UCH+UCP,8/8/2002,0.0,áram,,,0.0,0.0
+652,Önkormányzati bérház,35334//0,Karácsony S. u. 5,,Fsz.,UDH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,223.0,UDH (földszinti),7/12/2005,0.0,,,,0.0,0.0
+653,Önkormányzati bérház,35350//0,Karácsony S. u. 6,,Fsz.,UDH,3,Magdolna negyed,Üres,Üres,Rossz állapotú,13.0,UDH (földszinti),7/11/2006,0.0,gáz,,,0.0,0.0
+654,Önkormányzati bérház,35350//0,Karácsony S. u. 6,,Fsz.,UCH,3,Magdolna negyed,Kiadott,Üres,Jó állapotú,201.0,UCH,9/30/2011,0.0,gáz,,,0.0,0.0
+655,Társasház,34619/A/2,Kenyérmező u. 6,,Pi.,IR/2,4,Népszínház negyed,Üres,Üres,Rossz állapotú,176.0,UDP,11/3/2011,39424.0,víz,,,0.0,0.0
+657,Társasház,35100/A/1,Kis Fuvaros u. 11,,Pi.,OV,3,Magdolna negyed,Üres,Üres,Közepes állapotú,123.0,UDP,1/1/2000,44100.0,,,,0.0,0.0
+660,Önkormányzati bérház,35088//0,Kis Fuvaros u. 3,,Pi.,UCP,3,Magdolna negyed,Üres,Üres,Rossz állapotú,89.0,UCP,11/17/1998,0.0,,Bérlő,határozatlan ideig,19472.0,233664.0
+661,Társasház,35089/A/1,Kis Fuvaros u. 5,,Pi.,RA,3,Magdolna negyed,Üres,Üres,Közepes állapotú,53.0,UCP,1/1/2000,27417.0,,,,0.0,0.0
+663,Önkormányzati bérház,35074//0,Kis Fuvaros u. 8,,Fsz.,6.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,50.0,UDH (földszinti),1/1/2000,0.0,víz,Bérlő,határozatlan ideig,41614.0,499368.0
+666,Társasház,35604/A/1,Kis Stáció u. 5,,Pi.,RA/1,2,Corvin negyed,Üres,Üres,Rossz állapotú,56.0,UCP,7/6/1999,8736.0,,,,0.0,0.0
+667,Társasház,35604/A/2,Kis Stáció u. 5,,Pi.,RA/2,2,Corvin negyed,Kiadott,Üres,Rossz állapotú,25.0,UCP,4/1/2009,3900.0,,,,0.0,-118408.0
+670,Önkormányzati bérház,35609//0,Kisfaludy u. 10-12,,Fsz.,UDH,3,Corvin negyed,Üres,Üres,Rossz állapotú,21.0,UDH (földszinti),6/1/1996,0.0,,Bérlő,határozatlan ideig,94619.0,1135428.0
+671,Önkormányzati bérház,35609//0,Kisfaludy u. 10-12,,Pi.,jobb UCP,3,Corvin negyed,Üres,Üres,Rossz állapotú,44.0,UCP,6/1/1996,0.0,"áram, víz",Bérlő,határozatlan ideig,94619.0,1135428.0
+672,Társasház,35616/A/26,Kisfaludy u. 24,,Pi.,UZ,3,Corvin negyed,Üres,Üres,Közepes állapotú,301.0,UCP,2/12/2009,64790.0,gáz,,,0.0,0.0
+674,Társasház,35670/A/1,Kisfaludy u. 28/a,,Fsz./Pi.,UZ/1,3,Corvin negyed,Üres,Üres,Rossz állapotú,724.0,UCH+UCP,12/16/2013,335775.0,"áram, víz",,,0.0,0.0
+676,Társasház,36386/A/41,Kisfaludy u. 40,,Pi.,MU,3,Corvin negyed,Üres,Üres,Közepes állapotú,30.0,UDP,7/13/2011,11310.0,"áram, víz",,,0.0,0.0
+677,Társasház,36386/A/42,Kisfaludy u. 40,,Pi.,RA,3,Corvin negyed,Üres,Üres,Rossz állapotú,20.0,UDP,7/13/2011,9440.0,víz,,,0.0,0.0
+678,Önkormányzati bérház,35631//0,Kisfaludy u. 5.,,,,3,Corvin negyed,Üres,Üres,Rossz állapotú,460.0,UDH (földszinti),4/6/1999,0.0,,,,0.0,0.0
+679,Önkormányzati bérház,35631//0,Kisfaludy u. 5.,,,,3,Corvin negyed,Üres,Üres,Rossz állapotú,697.0,UDH (földszinti),6/27/1996,0.0,,,,0.0,0.0
+680,Társasház,35607/A/1,Kisfaludy u. 6,,Pi.,RA,3,Corvin negyed,Üres,Üres,Rossz állapotú,12.0,UDP,1/1/1998,8394.0,,,,0.0,0.0
+681,Önkormányzati bérház,35630//0,Kisfaludy u. 7,,as.,19.,3,Corvin negyed,Üres,Üres,Rossz állapotú,15.0,UDH (földszinti),7/22/2008,0.0,,,,0.0,0.0
+682,Önkormányzati bérház,35630//0,Kisfaludy u. 7,,as.,2.,3,Corvin negyed,Üres,Üres,Rossz állapotú,42.0,UDP,7/22/2008,0.0,,,,0.0,0.0
+683,Önkormányzati bérház,35630//0,Kisfaludy u. 7,,as.,4.,3,Corvin negyed,Üres,Üres,Rossz állapotú,29.0,UDP,7/22/2008,0.0,,,,0.0,0.0
+684,Önkormányzati bérház,35630//0,Kisfaludy u. 7,,as.,1.,3,Corvin negyed,Üres,Üres,Rossz állapotú,34.0,UDP,7/22/2008,0.0,,,,0.0,0.0
+685,Önkormányzati bérház,35630//0,Kisfaludy u. 7,,as.,5.,3,Corvin negyed,Üres,Üres,Rossz állapotú,42.0,UDP,7/22/2008,0.0,,,,0.0,0.0
+686,Önkormányzati bérház,35630//0,Kisfaludy u. 7,,as.,3.,3,Corvin negyed,Üres,Üres,Rossz állapotú,28.0,UDP,7/22/2008,0.0,,,,0.0,0.0
+689,Társasház,34650/A/41,Kiss J. u. 11,,Pi.,UZ/1,3,Népszínház negyed,Üres,Üres,Rossz állapotú,125.0,UCP,4/14/2015,22700.0,"áram, gáz, víz",,,0.0,0.0
+692,Társasház,34674/A/1,Kiss J. u. 19,,Pi.,UZ/1,3,Népszínház negyed,Üres,Üres,Közepes állapotú,61.0,UDP,6/12/1995,15310.0,,,,0.0,0.0
+695,Társasház,34647/A/2,Kiss J. u. 5,,Pi.,UZ/2,3,Népszínház negyed,Üres,Üres,Közepes állapotú,42.0,UCP,10/10/2013,13697.0,víz,,,0.0,0.0
+696,Társasház,34648/A/1,Kiss J. u. 7,,Fsz./Pi.,UZ/1,3,Népszínház negyed,Kiadott,Üres,Közepes állapotú,75.0,UCH,5/9/2014,25275.0,"áram, víz",,,0.0,648558.0
+698,Társasház,36040/A/44,Korányi S. u. 10,,Pi.,UZ,4,Orczy negyed,Üres,Üres,Közepes állapotú,119.0,UCP,11/21/1994,14818.0,víz,,,0.0,0.0
+699,Önkormányzati bérház,36035//0,Korányi S. u. 20,,Pi.,UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,143.0,UCP,4/11/2006,0.0,,,,0.0,0.0
+701,Önkormányzati bérház,35288/A/4,Koszorú u. 20,,Fsz.,IR/3B,4,Magdolna negyed,Üres,Üres,Rossz állapotú,68.0,UDH (földszinti),8/24/2013,0.0,"áram, gáz, víz",,,0.0,0.0
+703,Társasház,35267/A/1,Koszorú u. 23,,Pi.,MÜ/1,4,Csarnok negyed,Üres,Üres,Rossz állapotú,47.0,UCP,1/27/2009,15089.0,víz,,,0.0,0.0
+704,Társasház,35267/A/2,Koszorú u. 23,,Pi.,RA/1,4,Csarnok negyed,Üres,Üres,Rossz állapotú,42.0,UCP,2/22/2012,13479.0,víz,,,0.0,152400.0
+705,Társasház,35267/A/3,Koszorú u. 23,,Pi.,ÜZ/1,4,Csarnok negyed,Üres,Üres,Közepes állapotú,49.0,UCP,10/26/2011,20780.0,"áram, gáz, víz",,,0.0,0.0
+706,Társasház,35267/A/4,Koszorú u. 23,,Fsz.,ÜZ/2,4,Csarnok negyed,Üres,Üres,Rossz állapotú,57.0,UCH,12/20/2018,18294.0,"áram, víz",,,0.0,2971800.0
+707,Társasház,35520/A/36,Koszorú u. 25-27,,Pi.,UZ/36,4,Csarnok negyed,Üres,Üres,Rossz állapotú,94.0,UCP,11/19/2015,33124.0,áram,,,0.0,0.0
+708,Társasház,35520/A/37,Koszorú u. 25-27,,Pi.,UZ/37,4,Csarnok negyed,Üres,Üres,Rossz állapotú,101.0,UCP,3/3/2009,23725.0,áram,,,0.0,0.0
+709,Társasház,35519/A/1,Koszorú u. 29,,Pi.,ÜZ/1,4,Csarnok negyed,Kiadott,Üres,Rossz állapotú,53.0,UCP,12/18/2013,22304.0,"áram, víz",,,0.0,0.0
+710,Társasház,36674/A/2,Rökk Sz. u. 17,,Pi.,UZ/2,2,Palotanegyed,Üres,Üres,Közepes állapotú,78.0,UCP,4/1/2008,69498.0,"áram, gáz, víz",,,0.0,0.0
+711,Társasház,36503/A/22,Vas u. 7,,as.,1.,3,Palotanegyed,Üres,Üres,Közepes állapotú,99.0,UCP,4/30/2019,62568.0,"áram, gáz, víz",,,0.0,0.0
+713,Önkormányzati bérház,35892//0,Kőris u. 10,,Fsz.,UDH 1,4,Orczy negyed,Üres,Üres,Rossz állapotú,27.0,UDH (földszinti),6/30/2011,0.0,víz,,,0.0,251113.0
+714,Önkormányzati bérház,35892//0,Kőris u. 10,,Fsz.,UDH 3,4,Orczy negyed,Üres,Üres,Közepes állapotú,55.0,UDH (földszinti),3/30/2021,0.0,víz,,,0.0,251113.0
+715,Önkormányzati bérház,35892//0,Kőris u. 10,,Pi./Fsz.,UDH 2,4,Orczy negyed,Üres,Üres,Közepes állapotú,220.0,UDH+UDP,6/30/2011,0.0,"áram, víz",,,0.0,251113.0
+716,Társasház,35893/A/1,Kőris u. 12,,Pi.,ÜZ,4,Orczy negyed,Üres,Üres,Közepes állapotú,113.0,UCP,11/2/1994,14630.0,,,,0.0,0.0
+717,Társasház,35893/A/2,Kőris u. 12,,Pi.,ÜZ/2,4,Orczy negyed,Üres,Üres,Közepes állapotú,90.0,UCP,2/9/1995,11666.0,víz,,,0.0,0.0
+721,Önkormányzati bérház,36069//0,Kőris u. 15,,,H/2,4,Orczy negyed,Üres,Üres,Rossz állapotú,63.0,-,1/22/2013,0.0,"áram, gáz, víz",Bérlő,határozatlan ideig,29992.0,359904.0
+722,Társasház,35958/A/1,Kőris u. 26,,Pi.,1.,4,Orczy negyed,Üres,Üres,Közepes állapotú,120.0,UCP,10/27/2015,20915.0,víz,,,0.0,0.0
+723,Önkormányzati bérház,35959//0,Kőris u. 28,,Pi.,UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,161.0,UCP,7/31/1992,0.0,,,,0.0,0.0
+728,Társasház,35966/A/46,Kőris u. 31,,Pi.,,4,Orczy negyed,Üres,Üres,Rossz állapotú,149.0,UDP,1/1/2000,43210.0,,,,0.0,0.0
+730,Önkormányzati bérház,35963//0,Kőris u. 37,,Fsz.,UDH 1,4,Orczy negyed,Üres,Üres,Rossz állapotú,13.0,UDH (földszinti),12/16/2014,0.0,,,,0.0,0.0
+731,Önkormányzati bérház,35963//0,Kőris u. 37,,Fsz.,UDH 2,4,Orczy negyed,Üres,Üres,Rossz állapotú,79.0,UDH (földszinti),3/16/2010,0.0,,,,0.0,0.0
+732,Társasház,35890/A/32,Kőris u. 6,,Fsz.,ÜZ/4,4,Orczy negyed,Üres,Üres,Közepes állapotú,20.0,UDH (földszinti),6/9/2015,4400.0,"gáz, víz",,,0.0,0.0
+733,Társasház,36482/A/2,Bródy S. u. 46,,Pi./Fsz.,UZ/2,1,Palotanegyed,Üres,Üres,Közepes állapotú,106.0,UCH,8/31/2016,57960.0,"áram, gáz, víz",,,0.0,0.0
+734,Társasház,36671/A/31,Krúdy u. 20,,Pi.,1.,1,Palotanegyed,Üres,Üres,Rossz állapotú,79.0,UCP,1/1/2000,23463.0,,,,0.0,0.0
+740,Társasház,36467/A/27,Somogyi B. u. 19,,Fsz.,MU/1,1,Palotanegyed,Kiadott,Üres,Jó állapotú,108.0,UCH,1/1/2016,22893.0,"áram, gáz, víz",,,0.0,581782.0
+742,Társasház,34746/A/1,Kun u. 11,,Pi.,1.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,70.0,UCP,2/5/2018,22678.0,víz,,,0.0,0.0
+745,Társasház,35347/A/1,Karácsony S. u. 2/b,,Fsz.,ÜZ/1,3,Magdolna negyed,Kiadott,Üres,Közepes állapotú,73.0,UCH,3/24/2012,35400.0,"áram, gáz, víz",,,0.0,489482.0
+747,Társasház,34595/A/1,Légszesz u. 6,,Pi.,1.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,48.0,UCP,4/16/2008,20412.0,víz,,,0.0,0.0
+748,Társasház,34595/A/2,Légszesz u. 6,,Pi.,2.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,48.0,UCP,4/16/2008,20104.0,víz,,,0.0,0.0
+749,Társasház,35534/A/20,Leonardo da Vinci u. 1/b,,Pi.,OV,3,Corvin negyed,Üres,Üres,Rossz állapotú,51.0,UDP,1/26/2009,5775.0,,,,0.0,0.0
+753,Társasház,36257/A/15,Leonardo da Vinci u. 42,,Pi.,1.,3,Corvin negyed,Üres,Üres,Rossz állapotú,43.0,UCP,9/3/1996,5225.0,víz,,,0.0,0.0
+760,Társasház,36269/A/1,Leonardo da Vinci u. 44,,Pi.,1.,3,Corvin negyed,Üres,Üres,Rossz állapotú,48.0,UCP,1/1/2000,15640.0,víz,,,0.0,0.0
+761,Társasház,36269/A/2,Leonardo da Vinci u. 44,,Pi.,RA/1,3,Corvin negyed,Üres,Üres,Rossz állapotú,65.0,UCP,1/1/2000,21216.0,víz,,,0.0,0.0
+762,Társasház,36269/A/3,Leonardo da Vinci u. 44,,Pi.,RA/2,3,Corvin negyed,Üres,Üres,Rossz állapotú,192.0,UCP,1/1/2000,62628.0,víz,,,0.0,0.0
+763,Társasház,36267/A/1,Leonardo da Vinci u. 46,,Pi.,1.,3,Corvin negyed,Üres,Üres,Közepes állapotú,51.0,UCP,3/30/1976,17640.0,víz,,,0.0,0.0
+764,Társasház,36267/A/2,Leonardo da Vinci u. 46,,Pi.,2.,3,Corvin negyed,Üres,Üres,Közepes állapotú,94.0,UCP,11/5/2008,32536.0,víz,,,0.0,0.0
+766,Társasház,35537/A/1,Leonardo da Vinci u. 7,,Fsz.,1.,3,Corvin negyed,Üres,Üres,Közepes állapotú,45.0,UCH,10/14/2014,12455.0,"áram, gáz",,,0.0,0.0
+769,Társasház,35728/38/A/1,Losonci tér 7,,Fsz.,UZ/1,3,Losonci negyed,Kiadott,Üres,Közepes állapotú,199.0,UCH,12/21/2018,3980.0,hőmennyiség,,,0.0,80805.0
+770,Társasház,36128/2/A/2,Lósy I. u. 3,,as.,UZ/2,3,Losonci negyed,Üres,Üres,Rossz állapotú,43.0,UCP,1/1/2000,11567.0,"áram, víz",,,0.0,0.0
+772,Társasház,36128/2/A/4,Lósy I. u. 3,,as.,MU/2,3,Losonci negyed,Kiadott,Üres,Jó állapotú,123.0,UCH,8/9/2016,33087.0,"áram, víz",,,0.0,1281735.0
+773,Társasház,36128/2/A/5,Lósy I. u. 3,,as.,RA,3,Losonci negyed,Üres,Üres,Közepes állapotú,15.0,UCP,1/6/2020,4035.0,"áram, víz",,,0.0,0.0
+774,Önkormányzati bérház,35160/2//0,Lovassy L. u. 4/b,,Fsz.,UDH 1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,117.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+775,Önkormányzati bérház,35160/2//0,Lovassy L. u. 4/b,,Fsz.,UDH 2,3,Csarnok negyed,Üres,Üres,Rossz állapotú,80.0,UDH (földszinti),9/11/2008,0.0,,,,0.0,0.0
+777,Önkormányzati bérház,35168//0,Lovassy L. u. 6,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,210.0,UCP,1/6/1999,0.0,,,,0.0,0.0
+778,Önkormányzati bérház,35168//0,Lovassy L. u. 6,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,70.0,UCP,9/20/1984,0.0,,,,0.0,0.0
+780,Társasház,35360/A/41,Lujza u. 1/b,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,44.0,UCP,10/19/2000,11000.0,víz,,,0.0,0.0
+781,Társasház,35360/A/42,Lujza u. 1/b,,Pi.,RA/2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,22.0,UCP,7/6/2012,5500.0,"áram, víz",,,0.0,0.0
+782,Társasház,35360/A/43,Lujza u. 1/b,,Pi.,RA/3,4,Magdolna negyed,Üres,Üres,Közepes állapotú,22.0,UCP,11/30/1999,5500.0,,,,0.0,0.0
+783,Társasház,35359/A/1,Lujza u. 1/c,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,128.0,UCP,9/26/2013,46720.0,víz,,,0.0,0.0
+784,Társasház,35359/A/3,Lujza u. 1/c,,Fsz.,RA/2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,5.0,UDH (földszinti),9/8/2005,1825.0,,,,0.0,0.0
+785,Társasház,34742/A/6,Kun u. 12,,Fsz.,ÜZ/1,4,Népszínház negyed,Üres,Üres,Közepes állapotú,60.0,UCH,3/8/2017,24768.0,"áram, gáz, víz",,,0.0,0.0
+792,Társasház,35372/A/45,Lujza u. 16,,Fsz.,MU/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,121.0,UCH,12/2/2019,92588.0,,,,0.0,0.0
+794,Társasház,35442/A/1,Lujza u. 17,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,36.0,UCP,9/10/1987,16560.0,,,,0.0,0.0
+795,Társasház,35442/A/2,Lujza u. 17,,Pi.,RA/2,4,Magdolna negyed,Kiadott,Üres,Rossz állapotú,36.0,UCP,6/26/1987,16905.0,,,,0.0,0.0
+796,Társasház,35442/A/7,Lujza u. 17,,Fsz.,RA/3,4,Magdolna negyed,Üres,Üres,Rossz állapotú,252.0,UDH (földszinti),7/19/2019,117300.0,,,,0.0,0.0
+797,Társasház,35442/A/13,Lujza u. 17,,I.,RA/4,4,Magdolna negyed,Üres,Üres,Rossz állapotú,55.0,UDH (emeleti),1/1/2000,25530.0,,,,0.0,0.0
+798,Önkormányzati bérház,35441//0,Lujza u. 19,,Pi.,UDP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,90.0,UDP,1/27/2009,0.0,,,,0.0,0.0
+799,Önkormányzati bérház,35441//0,Lujza u. 19,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,79.0,UCP,9/14/1998,0.0,,,,0.0,0.0
+800,Önkormányzati bérház,35364//0,Lujza u. 2/B,,Pi.,jobb UCP 2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,11.0,UCP,1/1/2000,0.0,,,,0.0,0.0
+801,Önkormányzati bérház,35364//0,Lujza u. 2/B,,Pi.,jobb UCP 1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,43.0,UCP,11/28/1996,0.0,,,,0.0,0.0
+802,Önkormányzati bérház,35364//0,Lujza u. 2/B,,Pi.,bal UCP 1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,61.0,UCP,3/30/2012,0.0,,,,0.0,0.0
+803,Önkormányzati bérház,35365//0,Lujza u. 2/C,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,37.0,UCP,4/30/1997,0.0,,,,0.0,0.0
+804,Önkormányzati bérház,35423//0,Lujza u. 20,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,68.0,UCP,4/29/2003,0.0,,,,0.0,0.0
+805,Társasház,35440/A/2,Lujza u. 21,,Pi.,OV,4,Magdolna negyed,Üres,Üres,Rossz állapotú,109.0,UDP,1/1/2000,31104.0,,,,0.0,0.0
+806,Önkormányzati bérház,35424//0,Lujza u. 22,,Fsz.,7.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,28.0,UDH (földszinti),2/21/2011,0.0,"áram, víz",,,0.0,0.0
+807,Önkormányzati bérház,35424//0,Lujza u. 22,,Fsz.,7/a,4,Magdolna negyed,Üres,Üres,Rossz állapotú,15.0,UDH (földszinti),11/27/2012,0.0,"áram, víz",,,0.0,0.0
+808,Önkormányzati bérház,35424//0,Lujza u. 22,,Fsz.,UCH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,108.0,UCH+UCP,4/14/2014,0.0,"áram, víz",,,0.0,0.0
+809,Társasház,35439/A/58,Lujza u. 23,,as.,RA/6,4,Magdolna negyed,Üres,Üres,Rossz állapotú,44.0,UDP,10/6/2005,19090.0,,,,0.0,0.0
+810,Önkormányzati bérház,35438//0,Lujza u. 25,,as.,5.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,29.0,UDP,2/3/2009,0.0,,,,0.0,0.0
+811,Önkormányzati bérház,35438//0,Lujza u. 25,,as.,9.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,21.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+812,Önkormányzati bérház,35438//0,Lujza u. 25,,as,8.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,10.0,UDH (földszinti),1/1/2000,0.0,áram,,,0.0,0.0
+813,Önkormányzati bérház,35438//0,Lujza u. 25,,as.,4.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,26.0,UDP,2/3/2009,0.0,,,,0.0,0.0
+814,Önkormányzati bérház,35438//0,Lujza u. 25,,as.,UCH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,84.0,UCH,11/19/2009,0.0,,,,0.0,0.0
+815,Önkormányzati bérház,35438//0,Lujza u. 25,,as.,6.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,17.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+816,Önkormányzati bérház,35438//0,Lujza u. 25,,as.,7.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,29.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+817,Társasház,35426/A/1,Lujza u. 26,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,41.0,UCP,1/1/2000,13020.0,,,,0.0,0.0
+818,Társasház,35426/A/2,Lujza u. 26,,Pi.,RA/2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,88.0,UCP,1/1/2000,28024.0,víz,,,0.0,0.0
+821,Társasház,35437/A/63,Lujza u. 27-29,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,387.0,UCP,1/1/2000,35332.0,víz,,,0.0,0.0
+822,Önkormányzati bérház,35428//0,Lujza u. 30,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,46.0,UCP,9/9/2011,0.0,,,,0.0,0.0
+823,Önkormányzati bérház,35428//0,Lujza u. 30,,Pi.,,4,Magdolna negyed,Üres,Üres,Rossz állapotú,43.0,UCP,1/1/2000,0.0,,,,0.0,0.0
+824,Önkormányzati bérház,35430//0,Lujza u. 34,,as.,3,4,Magdolna negyed,Üres,Üres,Rossz állapotú,21.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+825,Önkormányzati bérház,35430//0,Lujza u. 34,,as.,4.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,22.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+826,Önkormányzati bérház,35430//0,Lujza u. 34,,as.,6.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,20.0,UDP,11/27/2009,0.0,,,,0.0,0.0
+827,Önkormányzati bérház,35430//0,Lujza u. 34,,as.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,21.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+828,Önkormányzati bérház,35430//0,Lujza u. 34,,as.,2.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,21.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+829,Önkormányzati bérház,35430//0,Lujza u. 34,,as.,5.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,18.0,UDP,11/27/2009,0.0,,,,0.0,0.0
+830,Társasház,35431/A/7,Lujza u. 36,,Fsz.,7.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,29.0,UCH,9/13/2012,13923.0,áram,,,0.0,0.0
+831,Társasház,35432/A/1,Lujza u. 38,,as.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,80.0,UCP,4/1/1996,32880.0,,,,0.0,0.0
+832,Társasház,35432/A/2,Lujza u. 38,,as.,3.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,25.0,UDH (földszinti),9/13/2010,15480.0,gáz,,,0.0,0.0
+833,Társasház,35366/A/14,Lujza u. 4,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,69.0,UCP,1/1/2000,10148.0,áram,,,0.0,0.0
+835,Társasház,35367/A/15,Lujza u. 6,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,45.0,UCP,12/18/2012,5221.0,áram,,,0.0,0.0
+836,Társasház,35367/A/16,Lujza u. 6,,Pi.,RA/2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,30.0,UCP,10/5/2009,3516.0,"áram, gáz, víz",,,0.0,0.0
+837,Társasház,35367/A/19,Lujza u. 6,,Fsz.,MÜ/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,59.0,UDH (földszinti),4/18/2002,16284.0,,,,0.0,0.0
+838,Önkormányzati bérház,35368//0,Lujza u. 8,,Fsz.,UDH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,36.0,UDH (földszinti),12/12/2011,0.0,,,,0.0,0.0
+839,Önkormányzati bérház,35368//0,Lujza u. 8,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,115.0,UCP,12/18/2012,0.0,áram,,,0.0,0.0
+840,Társasház,34637/A/2,Luther tömb 0,K4 lp.,Pi.,RA/2,4,Népszínház negyed,Üres,Üres,Rossz állapotú,139.0,UCP,1/1/2000,37795.0,"áram, víz",,,0.0,0.0
+843,Társasház,34637/A/115,Luther tömb 0,L1A lp.,Pi.,RA/115,4,Népszínház negyed,Üres,Üres,Rossz állapotú,153.0,UCP,1/1/2000,41575.0,,,,0.0,0.0
+844,Társasház,34637/A/117,Luther tömb 0,L1A lp.,Fsz.,UZ/117,4,Népszínház negyed,Kiadott,Üres,Jó állapotú,42.0,UCH,11/10/2010,11605.0,"áram, gáz, víz",,,0.0,259377.0
+845,Társasház,34637/A/143,Luther tömb 0,L1B lp.,Fsz.,UZ/143,4,Népszínház negyed,Üres,Üres,Rossz állapotú,64.0,UCH,10/2/2017,17545.0,"áram, gáz, víz",,,0.0,0.0
+846,Társasház,34637/A/168,Luther tömb 0,L1C lp.,Pi.,MU/168,4,Népszínház negyed,Üres,Üres,Rossz állapotú,127.0,UCP,5/25/2012,43815.0,áram,,,0.0,0.0
+848,Társasház,35291/A/1,Magdolna u. 10/b,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Közepes állapotú,62.0,UCP,1/1/2000,21264.0,víz,,,0.0,0.0
+849,Társasház,35291/A/2,Magdolna u. 10/b,,Pi.,2.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,43.0,UCP,7/24/2012,14736.0,"áram, gáz, víz",,,0.0,0.0
+850,Önkormányzati bérház,35292//0,Magdolna u. 12,,Fsz.,bal UCH,4,Magdolna negyed,Üres,Üres,Rossz állapotú,32.0,UCH,12/13/2012,0.0,víz,,,0.0,0.0
+851,Önkormányzati bérház,35292//0,Magdolna u. 12,,Fsz.,jobb UCH 2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,24.0,UCH,5/30/2006,0.0,víz,,,0.0,0.0
+852,Önkormányzati bérház,35292//0,Magdolna u. 12,,Fsz.,jobb UCH 1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,28.0,UCH,1/31/2013,0.0,víz,,,0.0,0.0
+856,Társasház,35293/A/18,Magdolna u. 14,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,39.0,UDP,12/19/2002,7200.0,,,,0.0,0.0
+861,Önkormányzati bérház,35309//0,Magdolna u. 20,,Fsz.,bal UCH,4,Magdolna negyed,Kiadott,Üres,Rossz állapotú,19.0,UCH,1/1/2001,0.0,"áram, gáz",Kétes,fix dátumig,0.0,0.0
+862,Önkormányzati bérház,35309//0,Magdolna u. 20,,Fsz.,19.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,22.0,UDH (földszinti),4/14/2005,0.0,"áram, gáz",Kétes,fix dátumig,0.0,0.0
+863,Társasház,35509/A/10,Magdolna u. 21,,Fsz.,RA/16,4,Magdolna negyed,Üres,Üres,Rossz állapotú,89.0,UCH,10/30/2013,37820.0,áram,,,0.0,0.0
+864,Társasház,35509/A/11,Magdolna u. 21,,Fsz.,MU/17,4,Magdolna negyed,Üres,Üres,Rossz állapotú,29.0,UDH (földszinti),11/6/2013,12400.0,,,,0.0,0.0
+865,Társasház,35509/A/12,Magdolna u. 21,,Fsz.,MU/18,4,Magdolna negyed,Üres,Üres,Rossz állapotú,49.0,UDH (földszinti),5/26/2011,21080.0,víz,,,0.0,0.0
+866,Társasház,35509/A/13,Magdolna u. 21,,Fsz.,RA/19,4,Magdolna negyed,Üres,Üres,Rossz állapotú,22.0,UDH (földszinti),1/1/2000,9610.0,,,,0.0,0.0
+867,Önkormányzati bérház,35311//0,Magdolna u. 22,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,50.0,UCP,3/6/2008,0.0,,,,0.0,0.0
+869,Társasház,35497/A/1,Magdolna u. 25,,Pi.,ÜZ/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,136.0,UCP,1/1/2000,48960.0,,,,0.0,0.0
+871,Önkormányzati bérház,35469/A/30,Magdolna u. 33,,Pi.,P/1,4,Magdolna negyed,Üres,Üres,Közepes állapotú,197.0,UCH+UDP,7/6/2021,0.0,hőmennyiség,,,0.0,0.0
+872,Társasház,35353/A/1,Magdolna u. 34,,Pi.,RA/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,203.0,UCP,12/8/2009,33865.0,víz,,,0.0,0.0
+873,Társasház,35353/A/2,Magdolna u. 34,,Fsz.,MÜ/1,4,Magdolna negyed,Kiadott,Üres,Közepes állapotú,96.0,UCH,12/21/2009,39910.0,"áram, víz",,,0.0,808586.0
+877,Önkormányzati bérház,35354//0,Magdolna u. 36,,Fsz.,UDH 1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,15.0,UDH (földszinti),11/30/2020,0.0,áram,Bérlő,fix dátumig,56755.0,681060.0
+878,Önkormányzati bérház,35354//0,Magdolna u. 36,,Fsz.,UDH 4,4,Magdolna negyed,Üres,Üres,Rossz állapotú,16.0,UDH (földszinti),5/9/2012,0.0,áram,Bérlő,fix dátumig,56755.0,681060.0
+879,Önkormányzati bérház,35354//0,Magdolna u. 36,,Fsz.,3.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,21.0,UDH (földszinti),1/1/2011,0.0,áram,Bérlő,fix dátumig,56755.0,681060.0
+880,Önkormányzati bérház,35311//0,Magdolna u. 22,,Fsz.,5.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,16.0,UDH (földszinti),1/1/2000,0.0,,,,0.0,0.0
+883,Önkormányzati bérház,35445//0,Magdolna u. 41,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,32.0,UCP,1/1/2000,0.0,áram,,,0.0,0.0
+884,Társasház,35373/A/4,Magdolna u. 42,,Fsz.,9.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,22.0,UDH (földszinti),9/17/2015,10530.0,,,,0.0,0.0
+885,Társasház,35373/A/42,Magdolna u. 42,,Fsz.,MÜ/12,4,Magdolna negyed,Üres,Üres,Rossz állapotú,29.0,UCH,1/10/2020,11748.0,"áram, gáz, víz",,,0.0,0.0
+887,Társasház,35444/A/1,Magdolna u. 43,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,117.0,UCP,1/1/2000,43350.0,víz,,,0.0,0.0
+890,Társasház,35444/A/5,Magdolna u. 43,,Fsz.,IR/2,4,Magdolna negyed,Üres,Üres,Rossz állapotú,55.0,UCH,11/5/2015,20470.0,víz,,,0.0,0.0
+892,Önkormányzati bérház,35374//0,Magdolna u. 44,,Pi.,,4,Magdolna negyed,Üres,Üres,Rossz állapotú,119.0,UCP,6/30/1989,0.0,,,,0.0,0.0
+893,Önkormányzati bérház,35374//0,Magdolna u. 44,,Fsz.,UCH,4,Magdolna negyed,Kiadott,Üres,Rossz állapotú,58.0,UCH,5/6/2022,0.0,víz,,,0.0,0.0
+895,Önkormányzati bérház,35421/A/24,Magdolna u. 47,,Pi.,UDP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,72.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+899,Önkormányzati bérház,35265//0,Magdolna u. 6/A,,Pi.,UDP,4,Csarnok negyed,Üres,Üres,Rossz állapotú,256.0,UDP,7/24/2021,0.0,áram,Bérlő,határozatlan ideig,24132.0,45506.0
+900,Társasház,35266/A/29,Magdolna u. 6/b,,Pi.,RA/1,4,Csarnok negyed,Üres,Üres,Rossz állapotú,47.0,UCP,1/1/2000,9360.0,,,,0.0,0.0
+901,Társasház,35266/A/30,Magdolna u. 6/b,,Pi.,RA/2,4,Csarnok negyed,Üres,Üres,Rossz állapotú,42.0,UCP,1/1/2000,8415.0,,,,0.0,0.0
+903,Társasház,36646/A/10,Mária u. 17,,Pi.,1.,3,Palotanegyed,Üres,Üres,Rossz állapotú,87.0,UCP,3/4/2008,19140.0,víz,,,0.0,0.0
+904,Társasház,36665/A/18,Mária u. 18,,Pi.,1.,3,Palotanegyed,Üres,Üres,Rossz állapotú,60.0,UCP,1/1/2000,14112.0,,,,0.0,0.0
+905,Társasház,36654/A/12,Mária u. 3/a-3/b,B. lp.,Pi.,UZ/12,3,Palotanegyed,Üres,Üres,Rossz állapotú,34.0,UCP,12/16/2014,33367.0,"áram, víz",,,0.0,0.0
+906,Társasház,36708/A/58,Mária u. 32-34,,Fsz.,TR,3,Palotanegyed,Üres,Üres,Rossz állapotú,20.0,UCH,11/18/2019,4945.0,,,,0.0,0.0
+907,Társasház,36708/A/59,Mária u. 32-34,,Fsz.,,3,Palotanegyed,Üres,Üres,Rossz állapotú,14.0,UDH (földszinti),1/1/2000,3450.0,,,,0.0,0.0
+908,Önkormányzati bérház,36659//0,Mária u. 4,,Pi.,UCP,3,Palotanegyed,Üres,Üres,Rossz állapotú,45.0,UCP,5/3/2001,0.0,,,,0.0,0.0
+909,Társasház,36487/A/2,Kőfaragó u. 5,,Fsz.,étterem,2,Palotanegyed,Üres,Üres,Jó állapotú,117.0,UCH,7/29/2022,56160.0,"áram, gáz, víz",,,0.0,0.0
+911,Társasház,36652/A/2,Mária u. 5,,Pi.,UZ/2,3,Palotanegyed,Üres,Üres,Rossz állapotú,88.83,UCP,9/24/2013,37986.0,"áram, víz",,,0.0,0.0
+912,Társasház,36763/A/48,Üllői út 16/b,,Fsz.,UZ/48,1,Palotanegyed,Üres,Üres,Közepes állapotú,118.0,UDH (földszinti),1/19/2021,66090.0,,,,0.0,0.0
+914,Társasház,35147/A/41,Mátyás tér 13,,Fsz.,ÜZ/2,3,Magdolna negyed,Üres,Üres,Közepes állapotú,22.0,UCH,12/30/2014,8600.0,"áram, víz",,,0.0,0.0
+919,Önkormányzati bérház,35152//0,Mátyás tér 2,,Fsz.,jobb UCH,3,Csarnok negyed,Kiadott,Üres,Közepes állapotú,36.0,UCH,10/17/2013,0.0,víz,,,0.0,-343413.0
+920,Önkormányzati bérház,35152//0,Mátyás tér 2,,Pi.,UDP,3,Csarnok negyed,Üres,Üres,Rossz állapotú,56.0,UDP,10/27/2005,0.0,,,,0.0,-343413.0
+921,Önkormányzati bérház,35152//0,Mátyás tér 2,,Fsz.,bal UCH,3,Csarnok negyed,Üres,Üres,Rossz állapotú,36.0,UCH,10/15/2012,0.0,víz,,,0.0,-343413.0
+924,Társasház,35162/A/54,Mátyás tér 4,,Fsz.,UZ/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,268.0,UCH+UCP,11/11/2016,7260.0,víz,,,0.0,0.0
+934,Társasház,34583/A/13,Mosonyi u. 1,,Pi.,1.,4,Kerepesdőlő,Üres,Üres,Közepes állapotú,147.0,UCP,7/17/2014,28182.0,víz,,,0.0,0.0
+935,Társasház,36566/A/25,Múzeum u. 5,,Pi.,2.,1,Palotanegyed,Üres,Üres,Rossz állapotú,127.0,UCP,9/25/2014,16014.0,"áram, víz",,,0.0,0.0
+936,Társasház,36566/A/27,Múzeum u. 5,,Fsz.,GA,1,Palotanegyed,Üres,Üres,Rossz állapotú,43.0,UDH (földszinti),3/13/2017,7772.0,,,,0.0,0.0
+937,Társasház,35063/A/1,Nagy Fuvaros u. 14,,Pi.,1.,2,Magdolna negyed,Üres,Üres,Közepes állapotú,70.0,UDP,6/5/2005,28620.0,víz,,,0.0,0.0
+939,Társasház,35064/A/1,Nagy Fuvaros u. 16,,Pi.,UZ/1,2,Magdolna negyed,Üres,Üres,Közepes állapotú,221.52,UCP,1/1/2000,79875.0,,,,0.0,0.0
+943,Önkormányzati bérház,35057/A/1,Nagy Fuvaros u. 2/b,,Pi.,RA/1,2,Magdolna negyed,Üres,Üres,Rossz állapotú,88.0,UCP,1/1/2000,0.0,,,,0.0,0.0
+953,Társasház,35081/A/57,Nagy Fuvaros u. 22-24,2. lp.,Fsz.,IR/57,2,Magdolna negyed,Kiadott,Üres,Közepes állapotú,56.0,UCH,11/3/2015,22325.0,"áram, gáz, víz",,,0.0,1018087.0
+954,Társasház,35051/A/37,Nagy Fuvaros u. 23,,Pi.,RA/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,216.0,UCP,1/1/2000,25720.0,,,,0.0,0.0
+955,Önkormányzati bérház,35082//0,Nagy Fuvaros u. 26,,Fsz.,5.,2,Magdolna negyed,Üres,Üres,Közepes állapotú,23.0,UDH (földszinti),11/26/2009,0.0,,,,0.0,0.0
+960,Társasház,35031/A/31,Nagy Fuvaros u. 3/b,,Fsz.,UZ/31,2,Csarnok negyed,Kiadott,Üres,Rossz állapotú,14.0,UDH (földszinti),1/1/2014,7798.0,áram,,,0.0,0.0
+962,Társasház,35059/A/1,Nagy Fuvaros u. 6,,Fsz.,ÜZ,2,Magdolna negyed,Üres,Üres,Rossz állapotú,72.0,UCH,6/3/2011,46057.0,,,,0.0,0.0
+966,Önkormányzati bérház,35698//0,Nagytemplom u. 5,,Pi.,UCP,3,Corvin negyed,Üres,Üres,Rossz állapotú,51.0,UCP,3/6/1998,0.0,,,,0.0,0.0
+968,Társasház,35619/A/19,Nap u. 18,,Pi.,MU,3,Corvin negyed,Üres,Üres,Közepes állapotú,129.0,UCP,11/11/2008,32825.0,víz,,,0.0,0.0
+969,Társasház,35674/A/19,Nap u. 19,,Pi.,RA/19,3,Corvin negyed,Üres,Üres,Közepes állapotú,81.0,UCP,10/7/2008,17010.0,víz,,,0.0,0.0
+970,Társasház,35674/A/20,Nap u. 19,,Pi.,MU/20,3,Corvin negyed,Üres,Üres,Közepes állapotú,61.0,UCP,4/29/2022,20130.0,"áram, gáz",,,0.0,0.0
+972,Önkormányzati bérház,35676//0,Nap u. 21,,Pi.,UCP 2,3,Corvin negyed,Üres,Üres,Rossz állapotú,47.0,UCP,6/24/1996,0.0,,Bérlő,határozatlan ideig,61973.0,743678.0
+973,Önkormányzati bérház,35676//0,Nap u. 21,,Fsz.,7.,3,Corvin negyed,Üres,Üres,Rossz állapotú,41.0,UCH,3/1/2001,0.0,"áram, víz",Bérlő,határozatlan ideig,61973.0,743678.0
+975,Társasház,35595/A/1,Nap u. 24,,Pi.,1.,3,Corvin negyed,Üres,Üres,Rossz állapotú,23.0,UCP,8/4/2020,6900.0,áram,,,0.0,0.0
+976,Társasház,35595/A/2,Nap u. 24,,Pi.,2.,3,Corvin negyed,Üres,Üres,Rossz állapotú,27.0,UCP,8/4/2020,8100.0,"gáz, víz",,,0.0,0.0
+979,Társasház,35655/A/1,Nap u. 9,,Pi.,1.,3,Corvin negyed,Üres,Üres,Közepes állapotú,78.0,UCP,1/1/2000,19266.0,,,,0.0,0.0
+980,Társasház,35655/A/2,Nap u. 9,,Pi.,2.,3,Corvin negyed,Üres,Üres,Közepes állapotú,61.0,UCP,1/1/2000,23912.0,víz,,,0.0,0.0
+983,Önkormányzati bérház,36292//0,Nagytemplom u. 12/B,,Pi.,UCP,3,Corvin negyed,Üres,Üres,Rossz állapotú,296.0,UCP,6/30/2022,0.0,"áram, víz",,,0.0,0.0
+984,Társasház,34903/A/65,Német u. 13,,Fsz.,ÜZ/3,2,Csarnok negyed,Kiadott,Üres,Rossz állapotú,25.0,UCH,8/18/2021,6555.0,"áram, víz",,,0.0,-171375.0
+996,Társasház,35212/A/23,Német u. 25,,Pi.,RA/1,2,Csarnok negyed,Üres,Üres,Közepes állapotú,133.0,UCP,10/18/1994,16224.0,,,,0.0,0.0
+1005,Társasház,34912/A/1,Német u. 8,,Pi.,1.,2,Csarnok negyed,Üres,Üres,Rossz állapotú,97.0,UCP,1/1/2000,90300.0,,,,0.0,0.0
+1010,Társasház,34820/A/5,Népszínház u. 17,,Pi.,UZ/5,3,Csarnok negyed,Üres,Üres,Rossz állapotú,315.39,UCP,3/23/2010,82214.0,víz,,,0.0,0.0
+1013,Társasház,34818/A/70,Népszínház u. 19,,Pi.,UZ/9,3,Csarnok negyed,Üres,Üres,Rossz állapotú,199.0,UCP,10/26/2011,58705.0,víz,,,0.0,0.0
+1014,Társasház,34818/A/71,Népszínház u. 19,,Pi.,RA/10,3,Csarnok negyed,Üres,Üres,Rossz állapotú,3.0,UDP,1/1/2000,885.0,,,,0.0,0.0
+1015,Társasház,34818/A/73,Népszínház u. 19,,Fe.,WC/12,3,Csarnok negyed,Üres,Üres,Rossz állapotú,3.0,UDH (emeleti),2/16/2006,885.0,,Bérlő,határozatlan ideig,0.0,0.0
+1016,Társasház,34818/A/75,Népszínház u. 19,,II.,TA/14,3,Csarnok negyed,Üres,Üres,Rossz állapotú,3.0,UDH (emeleti),2/16/2006,885.0,,Bérlő,határozatlan ideig,0.0,0.0
+1017,Társasház,34818/A/76,Népszínház u. 19,,III.,TA/15,3,Csarnok negyed,Üres,Üres,Rossz állapotú,3.0,UDH (emeleti),2/16/2006,885.0,,,,0.0,0.0
+1019,Társasház,34799/A/1,Népszínház u. 21,,Pi.,1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,26.0,UDP,1/28/2022,10192.0,víz,,,0.0,0.0
+1026,Társasház,34679/A/13,Népszínház u. 22,,Fsz.,IR/14,3,Népszínház negyed,Üres,Üres,Rossz állapotú,72.0,UDH (földszinti),8/18/2021,16674.0,"gáz, víz",,,0.0,0.0
+1027,Társasház,34679/A/14,Népszínház u. 22,,Fsz.,RA/14,3,Népszínház negyed,Üres,Üres,Rossz állapotú,69.0,UDH (földszinti),9/7/2021,17325.0,víz,,,0.0,0.0
+1028,Társasház,34679/A/20,Népszínház u. 22,,Fe.,RA/6,3,Népszínház negyed,Üres,Üres,Rossz állapotú,60.0,UDH (emeleti),12/2/2008,13878.0,víz,,,0.0,0.0
+1030,Társasház,34681/A/1,Népszínház u. 24,,Pi.,1.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,74.0,UCP,1/1/2000,23040.0,,,,0.0,0.0
+1031,Társasház,34681/A/2,Népszínház u. 24,,Pi.,2.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,50.0,UCP,1/1/2000,15600.0,,,,0.0,0.0
+1032,Társasház,34681/A/3,Népszínház u. 24,,Pi.,3.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,98.0,UCP,1/1/2000,30480.0,,,,0.0,0.0
+1034,Társasház,34681/A/16,Népszínház u. 24,,Fsz.,ÜZ/8,3,Népszínház negyed,Üres,Üres,Rossz állapotú,18.0,UDH (földszinti),1/1/2000,7849.0,,,,0.0,0.0
+1035,Társasház,34786/A/1,Népszínház u. 25,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,34.05,UDP,4/25/2010,7791.0,"áram, gáz, víz",,,0.0,0.0
+1036,Társasház,34786/A/2,Népszínház u. 25,,Pi.,4.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,116.23,UDP,10/6/2005,25871.0,,,,0.0,0.0
+1037,Társasház,34682/A/1,Népszínház u. 26,,Pi.,1.,3,Népszínház negyed,Üres,Üres,Rossz állapotú,84.0,UCP,11/5/2008,38544.0,víz,,,0.0,0.0
+1039,Társasház,34776/A/1,Népszínház u. 31,,Fsz./Pi.,UZ/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,1057.0,UCH+UCP,9/23/2013,166553.0,"áram, gáz, víz",,,0.0,0.0
+1041,Társasház,35056/A/1,Népszínház u. 33,,Pi.,RA/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,186.0,UCP,9/5/2005,57036.0,,,,0.0,0.0
+1043,Társasház,35056/A/3,Népszínház u. 33,,Pi.,RA/2,3,Magdolna negyed,Üres,Üres,Rossz állapotú,185.0,UCP,7/6/2008,39951.0,víz,,,0.0,0.0
+1047,Társasház,34772/A/34,Népszínház u. 34,,Pi.,OV,3,Népszínház negyed,Üres,Üres,Rossz állapotú,87.0,UDP,1/1/2000,12067.0,,,,0.0,0.0
+1049,Társasház,34764/A/1,Népszínház u. 38,,Pi.,OV,3,Népszínház negyed,Üres,Üres,Rossz állapotú,188.0,UCP,1/1/2000,57200.0,víz,,,0.0,0.0
+1050,Társasház,34764/A/2,Népszínház u. 38,,Fsz./Pi.,UZ/1,3,Népszínház negyed,Üres,Üres,Rossz állapotú,58.0,UCH+UCP,12/19/2018,36520.0,"áram, gáz, víz",,,0.0,0.0
+1053,Társasház,34749/A/40,Népszínház u. 40,,Pi.,UZ/2,3,Népszínház negyed,Üres,Üres,Rossz állapotú,88.0,UCP,11/8/2016,36168.0,"áram, víz",,,0.0,0.0
+1054,Társasház,34749/A/41,Népszínház u. 40,,Pi.,UZ/3,3,Népszínház negyed,Üres,Üres,Rossz állapotú,63.0,UCP,11/8/2016,25893.0,,,,0.0,0.0
+1056,Társasház,34745/A/1,Népszínház u. 42-44,,Pi.,UZ/1,3,Népszínház negyed,Üres,Üres,Rossz állapotú,59.0,UDP,1/1/2000,18880.0,víz,,,0.0,0.0
+1057,Társasház,34745/A/2,Népszínház u. 42-44,,Fsz./Pi.,UZ/2,3,Népszínház negyed,Üres,Üres,Rossz állapotú,275.0,UCH+UCP,1/26/2009,88000.0,víz,,,0.0,0.0
+1059,Társasház,34745/A/5,Népszínház u. 42-44,,Fsz.,UZ/5,3,Népszínház negyed,Kiadott,Üres,Közepes állapotú,80.0,UCH,7/1/2006,25600.0,"áram, gáz, víz",,,0.0,183327.0
+1062,Társasház,35070/A/51,Népszínház u. 45,,Pi.,OV,3,Magdolna negyed,Üres,Üres,Rossz állapotú,172.0,UDP,10/12/2005,47740.0,víz,,,0.0,0.0
+1063,Társasház,34744/A/1,Népszínház u. 46,,Pi.,UZ/1,3,Népszínház negyed,Üres,Üres,Rossz állapotú,141.26,UCP,2/1/2001,78260.0,"gáz, víz",,,0.0,0.0
+1064,Társasház,34744/A/12,Népszínház u. 46,,Pi.,UZ/12,3,Népszínház negyed,Üres,Üres,Rossz állapotú,100.25,UCP,5/31/2010,55470.0,víz,,,0.0,0.0
+1066,Társasház,35105/A/35,Népszínház u. 57,,Fsz.,IR/2,3,Magdolna negyed,Kiadott,Üres,Közepes állapotú,17.0,UCH,7/21/2020,5151.0,"áram, víz",,,0.0,0.0
+1068,Társasház,38745/2/A/1,Orczy út 16,,Pi.,1.,3,Tisztviselőtelep,Üres,Üres,Rossz állapotú,68.0,UDP,6/29/2020,14280.0,"áram, gáz, víz",,,0.0,0.0
+1081,Társasház,35946/A/60,Orczy út 43,,as.,60.,3,Orczy negyed,Üres,Üres,Rossz állapotú,45.6,UCH,7/24/2008,8143.0,,,,0.0,0.0
+1084,Társasház,35944/A/64,Orczy út 45,,Pi.,MU,3,Orczy negyed,Üres,Üres,Rossz állapotú,165.0,UCP,7/29/2008,18392.0,,,,0.0,0.0
+1087,Társasház,35184/A/1,őr u. 6,,Pi.,MÜ/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,57.0,UCP,12/4/2017,34510.0,"áram, víz",,,0.0,0.0
+1088,Társasház,35184/A/2,őr u. 6,,Pi.,RA/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,48.0,UCP,8/26/2019,29050.0,"áram, víz",,,0.0,0.0
+1089,Társasház,35190/A/1,őr u. 9,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Közepes állapotú,177.0,UCP,12/7/2020,58410.0,"áram, víz",,,0.0,0.0
+1091,Társasház,36793/A/1,Pál u. 3,,Pi.,MU,3,Palotanegyed,Üres,Üres,Rossz állapotú,103.0,UCP,1/25/2010,59225.0,"áram, víz",,,0.0,0.0
+1093,Társasház,36794/A/1,Pál u. 5,,Pi.,RA,3,Palotanegyed,Üres,Üres,Közepes állapotú,90.0,UCP,7/1/2007,24508.0,víz,,,0.0,0.0
+1100,Társasház,36380/A/1,Práter u. 19,,Pi.,RA/1,2,Corvin negyed,Üres,Üres,Rossz állapotú,79.0,UCP,10/8/2008,21504.0,víz,,,0.0,0.0
+1101,Társasház,36380/A/2,Práter u. 19,,Pi.,RA/2,2,Corvin negyed,Üres,Üres,Rossz állapotú,40.0,UCP,9/30/2010,10976.0,víz,,,0.0,0.0
+1105,Társasház,35682/A/17,Práter u. 22,,Fsz.,IR/1,2,Corvin negyed,Kiadott,Üres,Közepes állapotú,172.0,UCH,1/2/2013,46617.0,"áram, gáz, víz",,,0.0,0.0
+1106,Társasház,35682/A/18,Práter u. 22,,Fsz.,IR/2,2,Corvin negyed,Kiadott,Üres,Közepes állapotú,24.0,UCH,1/2/2013,6396.0,"áram, gáz",,,0.0,0.0
+1107,Társasház,35682/A/19,Práter u. 22,,Fsz.,IR/3,2,Corvin negyed,Kiadott,Üres,Közepes állapotú,33.0,UDH (földszinti),1/2/2013,9061.0,gáz,,,0.0,0.0
+1108,Társasház,35682/A/20,Práter u. 22,,Fe.,IR/4,2,Corvin negyed,Kiadott,Üres,Közepes állapotú,167.0,UCH,1/2/2013,45264.0,,,,0.0,0.0
+1109,Társasház,35695/A/5,Práter u. 28,,Fsz.,5.,2,Corvin negyed,Üres,Üres,Rossz állapotú,46.0,UCH,9/11/2019,8750.0,"áram, víz",,,0.0,0.0
+1112,Társasház,36325/A/2,Práter u. 29/b,,Pi.,RA,2,Corvin negyed,Üres,Üres,Közepes állapotú,30.0,UDP,12/17/2015,9240.0,"gáz, víz",,,0.0,0.0
+1117,Társasház,35696/A/52,Práter u. 30-32,,Fsz.,ÜZ/4,2,Corvin negyed,Kiadott,Üres,Jó állapotú,76.0,UCH,5/30/2013,25080.0,"áram, hőmennyiség, víz",,,0.0,1888917.0
+1122,Társasház,35709/A/5,Práter u. 34,,Fsz.,H/5,2,Corvin negyed,Üres,Üres,Rossz állapotú,30.0,UCH,9/7/2020,10110.0,"áram, víz",,,0.0,0.0
+1123,Társasház,35709/A/7,Práter u. 34,,Fsz.,H/8,2,Corvin negyed,Kiadott,Üres,Rossz állapotú,32.0,UDH (földszinti),2/1/2022,10784.0,"áram, víz",,,0.0,0.0
+1125,Társasház,36291/A/2,Práter u. 37,,Pi.,IR,2,Corvin negyed,Üres,Üres,Közepes állapotú,110.0,UCP,2/9/2018,30250.0,áram,,,0.0,0.0
+1126,Társasház,36291/A/4,Práter u. 37,,Fsz.,UZ,2,Corvin negyed,Üres,Üres,Jó állapotú,46.0,UCH,11/23/2016,12650.0,"áram, gáz, víz",,,0.0,0.0
+1130,Önkormányzati bérház,36225/A/1,Práter u. 55,,as.,ÜZ,2,Corvin negyed,Kiadott,Üres,Jó állapotú,56.0,UCH,8/17/2016,0.0,"áram, gáz, víz",,,0.0,599916.0
+1137,Társasház,35728/17/A/197,Práter u. 58,,XVII.,IR,2,Losonci negyed,Üres,Üres,Közepes állapotú,166.0,UDH (emeleti),8/12/2003,29216.0,"hőmennyiség, víz",,,0.0,0.0
+1141,Társasház,35728/18/A/195,Práter u. 60,,Fsz.,UZ/195,2,Losonci negyed,Üres,Üres,Közepes állapotú,52.0,UCH,8/14/2014,10920.0,"áram, hőmennyiség, víz",,,0.0,0.0
+1158,Társasház,36118/A/35,Práter u. 67,,Pi.,MU/1,2,Losonci negyed,Üres,Üres,Rossz állapotú,28.0,UCP,8/30/2021,5621.0,"áram, víz",,,0.0,0.0
+1160,Társasház,36118/A/37,Práter u. 67,,Pi.,MU/2,2,Losonci negyed,Üres,Üres,Közepes állapotú,47.0,UCP,5/29/2007,9417.0,"áram, víz",,,0.0,0.0
+1161,Társasház,36118/A/38,Práter u. 67,,Pi.,MU/3,2,Losonci negyed,Üres,Üres,Közepes állapotú,133.0,UCP,7/1/2008,26572.0,víz,,,0.0,0.0
+1162,Társasház,36116/A/1,Práter u. 69,,Pi.,RA/1,2,Losonci negyed,Üres,Üres,Rossz állapotú,71.0,UCP,5/23/2006,31444.0,,,,0.0,0.0
+1163,Társasház,36116/A/2,Práter u. 69,,Pi.,RA/2,2,Losonci negyed,Üres,Üres,Rossz állapotú,35.0,UCP,4/23/2007,15645.0,,,,0.0,0.0
+1165,Társasház,36116/A/5,Práter u. 69,,Fsz.,ÜZ/1,2,Losonci negyed,Üres,Üres,Rossz állapotú,52.0,UCH,5/12/2021,23087.0,"áram, víz",,,0.0,0.0
+1167,Önkormányzati bérház,36111//0,Práter u. 75,,Pi.,UCP,2,Losonci negyed,Üres,Üres,Rossz állapotú,77.0,UCP,6/12/2014,0.0,víz,Bérlő,fix dátumig,0.0,0.0
+1170,Társasház,36394/A/3,Práter u. 9,,Pi.,RA,2,Corvin negyed,Üres,Üres,Rossz állapotú,90.0,UCP,9/21/2015,15170.0,"áram, víz",,,0.0,0.0
+1173,Társasház,36559/10/A/1,Puskin u. 19,1. lp.,Pi.,UZ/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,169.0,UDP,10/12/2012,50550.0,"áram, víz",,,0.0,0.0
+1174,Társasház,36530/A/1,Puskin u. 20,,Pi.,UZ/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,186.0,UCP,5/26/2008,47802.0,"áram, gáz, víz",,,0.0,0.0
+1175,Társasház,36528/A/1,Puskin u. 24,,Pi.,RA/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,40.0,UDP,9/29/2005,12784.0,,,,0.0,0.0
+1182,Társasház,36546/A/2,Rákóczi út 13,,Pi.,OV,2,Palotanegyed,Üres,Üres,Rossz állapotú,55.0,UDP,4/8/2008,14534.0,,,,0.0,0.0
+1183,Társasház,36546/A/3,Rákóczi út 13,,Pi.,KA,2,Palotanegyed,Üres,Üres,Rossz állapotú,27.0,UDP,6/8/2020,10875.0,,,,0.0,0.0
+1192,Társasház,34640/A/3,Rákóczi út 53,,Pi./Fsz.,3.,2,Népszínház negyed,Üres,Üres,Rossz állapotú,125.0,UCH+UCP,11/15/2012,50232.0,"áram, gáz",,,0.0,0.0
+1194,Társasház,34640/A/9,Rákóczi út 53,,Pi.,ÜZ/7,2,Népszínház negyed,Üres,Üres,Rossz állapotú,109.0,UDP,1/1/2000,38040.0,,,,0.0,0.0
+1195,Társasház,34639/A/2,Rákóczi út 55,,Pi.,RA/1,2,Népszínház negyed,Üres,Üres,Rossz állapotú,61.0,UDP,1/1/2000,15580.0,,,,0.0,0.0
+1196,Társasház,34639/A/3,Rákóczi út 55,,Pi.,RA/2,2,Népszínház negyed,Üres,Üres,Rossz állapotú,94.0,UDP,1/1/2000,23940.0,,,,0.0,0.0
+1199,Társasház,34628/A/6,Rákóczi út 59,,Fsz./Fe.,UZ/6,2,Népszínház negyed,Üres,Üres,Rossz állapotú,134.0,UDH (földszinti),9/18/2015,26967.0,"áram, víz",,,0.0,0.0
+1200,Társasház,34628/A/7,Rákóczi út 59,,Fsz.,IR/7,2,Népszínház negyed,Üres,Üres,Rossz állapotú,54.0,UDH (földszinti),4/3/2012,10967.0,"áram, víz",,,0.0,0.0
+1202,Társasház,34627/A/64,Rákóczi út 61,,as.,,2,Népszínház negyed,Üres,Üres,Rossz állapotú,53.0,UDP,3/26/2008,11925.0,víz,,,0.0,0.0
+1203,Társasház,34626/A/65,Rákóczi út 63,,Pi./Fsz.,UZ/6,2,Népszínház negyed,Üres,Üres,Közepes állapotú,989.0,UCH,3/6/2008,187910.0,"gáz, víz",,,0.0,0.0
+1206,Társasház,34601/A/30,Rákóczi út 75,,Pi.,1.,2,Népszínház negyed,Üres,Üres,Rossz állapotú,152.4,UCP,4/12/2011,55710.0,"áram, gáz, víz",,,0.0,0.0
+1207,Társasház,36554/A/36,Rákóczi út 9,,Pi.,RA/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,181.0,UCP,12/6/2011,55584.0,víz,,,0.0,0.0
+1210,Önkormányzati bérház,35219/A/22,Rigó u. 4,,Pi.,1.,2,Csarnok negyed,Üres,Üres,Rossz állapotú,38.14,UCP,10/27/2012,0.0,"áram, víz",,,0.0,0.0
+1214,Társasház,36675/A/23,Rökk Sz. u. 15,,Pi.,RA,2,Palotanegyed,Üres,Üres,Rossz állapotú,36.0,UCP,1/3/2014,15522.0,áram,,,0.0,0.0
+1215,Társasház,36674/A/1,Rökk Sz. u. 17,,Pi.,UZ/1,2,Palotanegyed,Üres,Üres,Rossz állapotú,57.0,UCP,3/4/2014,56758.0,áram,,,0.0,0.0
+1216,Társasház,35182/A/1,József u. 33,,Pi.,RA,3,Csarnok negyed,Üres,Üres,Közepes állapotú,121.0,UCP,1/1/2000,40460.0,,,,0.0,0.0
+1217,Társasház,36674/A/3,Rökk Sz. u. 17,,as.,1.,2,Palotanegyed,Üres,Üres,Rossz állapotú,28.0,UDH (földszinti),11/28/2012,13764.0,áram,,,0.0,0.0
+1218,Társasház,36739/A/4,Baross u. 28,,Fsz.,UZ/3,1,Palotanegyed,Kiadott,Üres,Közepes állapotú,174.0,UDH (földszinti),6/1/2014,40020.0,"áram, gáz, víz",,,0.0,0.0
+1223,Társasház,36678/A/26,Rökk Sz. u. 9,,Fsz.,MÜ/4,2,Palotanegyed,Üres,Üres,n.a.,90.0,UCH,10/30/2018,30875.0,,,,0.0,0.0
+1224,Társasház,34893/A/18,Salétrom u. 10,,Pi.,RA/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,46.0,UCP,7/31/2018,18630.0,"áram, víz",,,0.0,0.0
+1225,Társasház,34894/A/24,Salétrom u. 8,,Pi.,MU/2,3,Csarnok negyed,Üres,Üres,Rossz állapotú,82.0,UCP,1/10/2011,20097.0,áram,,,0.0,0.0
+1228,Önkormányzati bérház,36005//0,Sárkány u. 11,,Pi.,jobb UCP 1,4,Orczy negyed,Üres,Üres,Rossz állapotú,38.0,UCP,11/14/2013,0.0,"áram, víz",,,0.0,0.0
+1229,Önkormányzati bérház,36005//0,Sárkány u. 11,,Pi.,bal UCP,4,Orczy negyed,Üres,Üres,Rossz állapotú,34.0,UCP,2/10/2014,0.0,"áram, víz",,,0.0,0.0
+1231,Társasház,35989/A/1,Sárkány u. 14,,Pi.,1.,4,Orczy negyed,Üres,Üres,Közepes állapotú,57.0,UCP,2/14/2013,17820.0,víz,,,0.0,0.0
+1232,Társasház,35989/A/2,Sárkány u. 14,,Pi.,2.,4,Orczy negyed,Üres,Üres,Rossz állapotú,51.0,UCP,4/15/2008,30090.0,víz,,,0.0,0.0
+1233,Társasház,36476/A/18,Scheiber S. u. 3,,Fsz.,UZ/2,2,Palotanegyed,Kiadott,Üres,Közepes állapotú,31.0,UCH,5/1/2004,8077.0,"áram, víz",,,0.0,232053.0
+1234,Társasház,36785/2/A/17,Mária u. 46,,as.,17.,3,Palotanegyed,Üres,Üres,Közepes állapotú,174.0,UCP,3/12/2008,17444.0,víz,,,0.0,0.0
+1237,Társasház,36427/A/19,Somogyi B. u. 10,,Pi.,RA,1,Palotanegyed,Üres,Üres,Rossz állapotú,83.0,UCP,11/21/2016,37350.0,víz,,,0.0,0.0
+1239,Társasház,36425/A/2,Somogyi B. u. 14,,Fsz.,ÜZ/2,1,Palotanegyed,Kiadott,Üres,Közepes állapotú,23.0,UCH,1/1/2016,7020.0,"áram kártyás, gáz, víz",,,0.0,242225.0
+1243,Társasház,36462/A/1,Somogyi B. u. 7,,Fsz./Pi.,UZ/1,1,Palotanegyed,Üres,Üres,Közepes állapotú,189.0,UCH+UCP,3/16/2015,56560.0,"áram, gáz, víz",,,0.0,0.0
+1244,Társasház,36467/A/28,Somogyi B. u. 19,,Fsz.,MU/2,1,Palotanegyed,Kiadott,Üres,Jó állapotú,28.0,UCH,1/1/2016,5850.0,víz,,,0.0,159523.0
+1249,Társasház,36468/A/5,Somogyi B. u. 21,,Fsz.,UZ/5,1,Palotanegyed,Kiadott,Üres,Jó állapotú,41.46,UCH,1/1/2016,11816.0,,,,0.0,283149.0
+1251,Társasház,36421/A/20,Somogyi B. u. 24,,VI.,RA/20,1,Palotanegyed,Üres,Üres,Rossz állapotú,149.0,UDH (emeleti),3/12/2008,53894.0,,,,0.0,0.0
+1254,Társasház,36694/A/2,József krt. 43,,Fsz.,UZ/2,2,Palotanegyed,Üres,Üres,Közepes állapotú,195.1,UCH,7/13/2021,170322.0,"áram, gáz, víz",,,0.0,0.0
+1255,Társasház,36438/A/42,Stáhly u. 1,,as.,MU/42,3,Palotanegyed,Üres,Üres,Rossz állapotú,69.0,UCP,2/3/2014,23278.0,áram,,,0.0,0.0
+1262,Társasház,36451/A/37,Stáhly u. 5,,Fsz.,RA/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,70.2,UDH (földszinti),6/20/2022,12558.0,víz,,,0.0,0.0
+1263,Társasház,38839/11/F/1,"Strobl A. u. 7/d,g,h,",G. lp.,Pi.,OV,4,Százados negyed,Üres,Üres,Közepes állapotú,246.0,UCP,1/1/2000,36630.0,víz,,,0.0,0.0
+1264,Társasház,38862/3/A/10,Százados út 30/a,,as.,RA/10,3,Százados negyed,Üres,Üres,Rossz állapotú,30.65,UCP,2/9/1999,8950.0,,,,0.0,0.0
+1268,Önkormányzati bérház,38837/4//0,Százados út 3-13.,4. ép.,Fsz.,7/A.,3,Százados negyed,Kiadott,Üres,Közepes állapotú,61.0,UDH (földszinti),2/13/2018,0.0,,Bérlő,határozatlan ideig,11129.0,133548.0
+1272,Társasház,36513/A/42,Szentkirályi u. 10,,Pi.,UZ/42,3,Palotanegyed,Kiadott,Üres,Rossz állapotú,130.0,UCP,7/16/2021,49056.0,"áram, gáz, víz",,,0.0,0.0
+1273,Önkormányzati bérház,35496//0,Szigetvári u. 4,,Pi.,UDP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,40.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+1274,Társasház,36537/A/2,Szentkirályi u. 11,,as.,UZ/2,3,Palotanegyed,Üres,Üres,Rossz állapotú,157.0,UCP,3/18/2008,40820.0,,,,0.0,0.0
+1277,Társasház,36535/A/17,Szentkirályi u. 15,,Fsz.,IR,3,Palotanegyed,Üres,Üres,Rossz állapotú,252.0,UDH (földszinti),9/26/2008,52920.0,víz,,,0.0,0.0
+1278,Társasház,36516/A/13,Szentkirályi u. 16,,II.,13.,3,Palotanegyed,Üres,Üres,Rossz állapotú,351.0,UDH (emeleti),11/30/2011,72700.0,áram,,,0.0,0.0
+1279,Társasház,36523/A/3,Szentkirályi u. 17,,Pi.,UZ/3,3,Palotanegyed,Üres,Üres,Rossz állapotú,146.87,UDP,3/16/2011,18552.0,,,,0.0,0.0
+1280,Társasház,36594/A/48,Szentkirályi u. 22-24,,Fsz.,GA/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,49.0,UDH (földszinti),8/23/2019,6370.0,áram,,,0.0,0.0
+1281,Társasház,36594/C/2,Szentkirályi u. 22-24,,Pi.,RA/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,115.0,UDP,8/23/1990,31050.0,,,,0.0,0.0
+1286,Társasház,36768/A/1,Szentkirályi u. 49,,Pi.,UZ,3,Palotanegyed,Üres,Üres,Rossz állapotú,188.47,UCP,10/5/2012,40430.0,víz,,,0.0,0.0
+1287,Társasház,36780/A/6,József krt. 59-61,,I.,1.,2,Palotanegyed,Üres,Üres,Jó állapotú,249.0,UDH (emeleti),9/2/2016,57760.0,"áram, gáz, víz",,,0.0,0.0
+1288,Társasház,36541/A/2,Szentkirályi u. 5,,Pi.,UZ/2,3,Palotanegyed,Üres,Üres,Rossz állapotú,70.0,UCP,3/30/2010,25410.0,,,,0.0,0.0
+1289,Társasház,36489/A/1,Vas u. 14,,Pi.,UZ,3,Palotanegyed,Üres,Üres,Közepes állapotú,249.0,UCP,3/17/2015,169871.0,"áram, gáz, víz",,,0.0,0.0
+1290,Társasház,35323/A/1,Szerdahelyi u. 1,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Rossz állapotú,97.0,UDP,1/1/2000,69549.0,,,,0.0,0.0
+1292,Társasház,35328/A/3,Szerdahelyi u. 11,,Fsz.,RA,4,Magdolna negyed,Üres,Üres,Rossz állapotú,35.0,UCH,9/25/2017,18900.0,"áram, víz",,,0.0,0.0
+1293,Önkormányzati bérház,35139//0,Szerdahelyi u. 12,,Pi.,UDP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,166.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+1294,Önkormányzati bérház,35139//0,Szerdahelyi u. 12,,Pi.,UCP,4,Magdolna negyed,Üres,Üres,Rossz állapotú,66.0,UCP,1/1/2000,0.0,,,,0.0,0.0
+1296,Társasház,35137/A/1,Szerdahelyi u. 16,,Pi.,MÜ/1,4,Magdolna negyed,Üres,Üres,Rossz állapotú,78.0,UCP,1/1/2000,31125.0,,,,0.0,0.0
+1297,Társasház,35137/A/2,Szerdahelyi u. 16,,Pi.,OV,4,Magdolna negyed,Üres,Üres,Rossz állapotú,124.0,UDP,1/1/2000,49883.0,,,,0.0,0.0
+1298,Társasház,35137/A/4,Szerdahelyi u. 16,,Fsz.,ÜZ/2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,17.0,UCH,10/30/2020,6640.0,"áram, víz",,,0.0,0.0
+1299,Társasház,35137/A/11,Szerdahelyi u. 16,,Fsz.,RA/3,4,Magdolna negyed,Üres,Üres,Közepes állapotú,30.0,UDH (földszinti),3/6/2014,12118.0,"áram, víz",,,0.0,0.0
+1301,Önkormányzati bérház,35136/A/2,Szerdahelyi u. 18,,Fsz.,ÜZ/2,4,Magdolna negyed,Üres,Üres,Közepes állapotú,15.0,UCH,5/5/2016,0.0,áram,,,0.0,0.0
+1302,Önkormányzati bérház,35136/A/3,Szerdahelyi u. 18,,Fsz.,ÜZ/3,4,Magdolna negyed,Üres,Üres,Rossz állapotú,21.0,UCH,5/5/2016,0.0,áram,,,0.0,0.0
+1303,Társasház,35144/1/A/3,Szerdahelyi u. 2/a,,Fsz.,ÜZ/3,4,Magdolna negyed,Üres,Üres,Rossz állapotú,19.0,UCH,3/9/2020,6323.0,,,,0.0,0.0
+1304,Társasház,35144/1/A/4,Szerdahelyi u. 2/a,,Fsz.,ÜZ/4,4,Magdolna negyed,Üres,Üres,Rossz állapotú,19.0,UCH,3/9/2020,6992.0,,,,0.0,0.0
+1305,Társasház,35144/1/A/20,Szerdahelyi u. 2/a,,Fsz.,MÜ/5,4,Magdolna negyed,Üres,Üres,Közepes állapotú,14.0,UCH,9/5/2022,4738.0,"áram, víz",,,0.0,0.0
+1306,Társasház,35144/1/A/21,Szerdahelyi u. 2/a,,Fsz.,IR/6,4,Magdolna negyed,Üres,Üres,Rossz állapotú,15.0,UCH,10/29/2015,5055.0,"áram, víz",,,0.0,0.0
+1311,Társasház,35920/A/22,Szeszgyár u. 5,,Fsz.,RA,4,Orczy negyed,Üres,Üres,Rossz állapotú,41.0,UCH,8/27/2009,10250.0,víz,,,0.0,0.0
+1312,Társasház,35906/A/15,Szeszgyár u. 9,,Pi.,RA,4,Orczy negyed,Üres,Üres,Közepes állapotú,92.0,UCP,12/3/2008,53041.0,áram,,,0.0,0.0
+1313,Társasház,35499/A/1,Szigetvári u. 1,,Pi.,1.,4,Magdolna negyed,Üres,Üres,Közepes állapotú,50.0,UCP,1/1/2000,13992.0,"áram, víz",,,0.0,0.0
+1316,Társasház,35492/A/2,Szigetvári u. 10/a,,Fsz.,ÜZ/2,4,Magdolna negyed,Üres,Üres,n.a.,103.0,UCH,    -  -  ,37904.0,,,,0.0,0.0
+1317,Társasház,35492/A/4,Szigetvári u. 10/a,,Fsz.,ÜZ/4,4,Magdolna negyed,Üres,Üres,Közepes állapotú,126.0,UCH,1/1/2000,46368.0,víz,,,0.0,0.0
+1328,Önkormányzati bérház,36204//0,Szigony u. 39,,Fsz.,jobb UCH,3,Corvin negyed,Üres,Üres,Rossz állapotú,44.0,UCH,9/7/2007,0.0,,,,0.0,0.0
+1332,Társasház,34688/A/23,Szilágyi u. 1/b,,Pi.,1.,4,Népszínház negyed,Kiadott,Üres,Rossz állapotú,140.0,UCP,6/5/2018,351680.0,víz,,,0.0,347031.0
+1334,Társasház,34693/A/1,Szilágyi u. 4,,Pi.,1.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,86.0,UCP,1/13/2009,40592.0,víz,,,0.0,0.0
+1335,Társasház,34693/A/2,Szilágyi u. 4,,Pi.,2.,4,Népszínház negyed,Üres,Üres,Közepes állapotú,128.0,UCP,5/16/2001,60416.0,víz,,,0.0,0.0
+1342,Társasház,35256/A/39,Szőz u. 5-7,,Pi.,RA/39,3,Csarnok negyed,Üres,Üres,Rossz állapotú,125.0,UCP,7/5/2007,58750.0,"áram, víz",,,0.0,0.0
+1343,Társasház,35255/A/1,Szőz u. 9,,Pi.,MÜ/1,3,Csarnok negyed,Üres,Üres,Rossz állapotú,102.0,UCP,7/8/2008,34782.0,"áram, víz",,,0.0,0.0
+1344,Társasház,35170/A/1,Tavaszmező u. 10,,Pi.,UZ/1,2,Csarnok negyed,Üres,Üres,Rossz állapotú,182.0,UCP,7/8/2008,82731.0,"gáz, víz",,,0.0,0.0
+1345,Társasház,35277/A/1,Tavaszmező u. 19-21,,Pi.,RA/1,2,Magdolna negyed,Üres,Üres,Rossz állapotú,99.0,UCP,1/1/2000,30690.0,,,,0.0,0.0
+1347,Társasház,35277/A/9,Tavaszmező u. 19-21,,Fsz.,IR/8,2,Magdolna negyed,Üres,Üres,Rossz állapotú,13.0,UCH,7/24/2015,4030.0,"áram, víz",,,0.0,0.0
+1355,Társasház,34734/A/24,Teleki tér 16,,Fsz.,UZ/1,3,Népszínház negyed,Kiadott,Üres,Jó állapotú,16.0,UCH,5/18/2015,7700.0,"áram, víz",,,0.0,0.0
+1356,Társasház,34734/A/26,Teleki tér 16,,Fsz.,UZ/3,3,Népszínház negyed,Üres,Üres,Rossz állapotú,96.0,UCH,12/1/2016,46530.0,"áram, gáz, víz",,,0.0,0.0
+1357,Társasház,34734/A/27,Teleki tér 16,,Pi.,UZ/4,3,Népszínház negyed,Üres,Üres,Rossz állapotú,43.0,UCP,12/1/2016,8195.0,,,,0.0,0.0
+1359,Társasház,34739/A/32,Teleki tér 22,,Pi.,RA/1,3,Népszínház negyed,Kiadott,Üres,Rossz állapotú,103.0,UCP,4/20/2015,26409.0,"áram, víz",,,0.0,0.0
+1360,Társasház,34740/A/25,Teleki tér 23,,Fsz.,UZ,3,Népszínház negyed,Kiadott,Üres,Jó állapotú,29.0,UCH,5/9/2016,8816.0,"áram, gáz, víz",,,0.0,0.0
+1362,Társasház,34740/A/27,Teleki tér 23,,Pi.,RA,3,Népszínház negyed,Üres,Üres,Rossz állapotú,55.0,UDP,1/1/2000,6764.0,,,,0.0,0.0
+1364,Társasház,35133/A/114,Teleki tér 3,,Pi.,UZ/4,3,Magdolna negyed,Üres,Üres,Közepes állapotú,155.0,UCP,11/6/2006,14930.0,,,,0.0,0.0
+1369,Társasház,35135/A/1,Teleki tér 5,,Fsz.,RA/1,3,Magdolna negyed,Üres,Üres,Rossz állapotú,79.0,UCH,7/1/2021,19118.0,áram,,,0.0,0.0
+1372,Társasház,35346/A/45,Teleki tér 6,,Pi.,45.,3,Magdolna negyed,Üres,Üres,Rossz állapotú,79.0,UDP,1/1/2000,10744.0,víz,,,0.0,0.0
+1375,Társasház,35361/A/39,Teleki tér 7,,Fsz.,UZ/39,3,Magdolna negyed,Kiadott,Üres,Jó állapotú,60.0,UCH,11/1/2005,12597.0,"áram, gáz, víz",,,0.0,968472.0
+1376,Önkormányzati bérház,34933//0,Tolnai L. u. 21,,as.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,23.0,UDH (földszinti),1/1/1990,0.0,,,,0.0,0.0
+1377,Önkormányzati bérház,34933//0,Tolnai L. u. 21,,as.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,18.0,UDH (földszinti),5/7/1996,0.0,,,,0.0,0.0
+1378,Önkormányzati bérház,34933//0,Tolnai L. u. 21,,Pi.,UCP,3,Csarnok negyed,Üres,Üres,Rossz állapotú,94.0,UCP,4/14/1994,0.0,,,,0.0,0.0
+1379,Társasház,34937/A/25,Tolnai L. u. 29,,Fsz.,ÜZ/1,3,Csarnok negyed,Kiadott,Üres,Rossz állapotú,34.0,UCH,4/26/2013,17776.0,áram,,,0.0,0.0
+1380,Társasház,34937/A/26,Tolnai L. u. 29,,Fsz.,ÜZ/2,3,Csarnok negyed,Kiadott,Üres,Közepes állapotú,23.0,UCH,2/22/2022,11880.0,"áram, víz",,,0.0,357845.0
+1381,Önkormányzati bérház,34951//0,Tolnai L. u. 37,,Pi.,UDP,3,Csarnok negyed,Üres,Üres,Rossz állapotú,67.0,UDP,1/1/2000,0.0,,,,0.0,0.0
+1382,Önkormányzati bérház,34951//0,Tolnai L. u. 37,,Pi.,UCP,3,Csarnok negyed,Üres,Üres,Rossz állapotú,36.0,UCP,1/1/2000,0.0,,,,0.0,0.0
+1385,Társasház,34970/A/1,Tolnai L. u. 44,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,110.0,UCP,9/27/2021,50481.0,"áram, gáz, víz",,,0.0,0.0
+1391,Társasház,36139/1/A/1,Tömő u. 32-38,,Fsz.,UZ/1,3,Losonci negyed,Üres,Üres,Közepes állapotú,30.0,UCH,4/3/2017,7854.0,"áram, hőmennyiség",,,0.0,0.0
+1393,Társasház,36170/B/25,Tömő u. 33/b,,Pi.,RA,3,Losonci negyed,Üres,Üres,Rossz állapotú,85.0,UCP,1/1/2000,43452.0,,,,0.0,0.0
+1394,Társasház,36139/4/A/2,Tömő u. 40-46,,Fsz.,UZ/2,3,Losonci negyed,Üres,Üres,Rossz állapotú,207.01,UCH,1/1/1994,30791.0,"hőmennyiség, víz",,,0.0,0.0
+1395,Önkormányzati bérház,36268//0,Tömő u. 5,,Pi.,UCP,3,Corvin negyed,Üres,Üres,Rossz állapotú,141.0,UCP,7/13/1987,0.0,,,,0.0,0.0
+1396,Önkormányzati bérház,36109//0,Tömő u. 56,,Fsz.,UCH,3,Losonci negyed,Üres,Üres,Rossz állapotú,9.0,UCH,10/18/2017,0.0,áram,,,0.0,0.0
+1397,Önkormányzati bérház,36109//0,Tömő u. 56,,Pi.,UCP,3,Losonci negyed,Üres,Üres,Rossz állapotú,38.0,UCP,10/6/2005,0.0,,,,0.0,0.0
+1398,Önkormányzati bérház,36107//0,Tömő u. 60,,Pi.,UCP,3,Losonci negyed,Üres,Üres,Rossz állapotú,44.0,UCP,4/2/2001,0.0,,,,0.0,0.0
+1399,Társasház,36106/A/28,Tömő u. 62,,Pi.,RA,3,Losonci negyed,Üres,Üres,Rossz állapotú,120.0,UCP,1/1/2000,20979.0,,,,0.0,0.0
+1407,Társasház,36476/A/19,Scheiber S. u. 3,,Pi./Fsz.,UZ/3,2,Palotanegyed,Üres,Üres,Közepes állapotú,349.0,UCH,6/24/2015,54483.0,"gáz, víz",,,0.0,0.0
+1408,Társasház,36670/A/40,Krúdy u. 16-18,,Pi.,UZ/40,1,Palotanegyed,Üres,Üres,Közepes állapotú,401.0,UCP,2/7/2012,113270.0,"áram, gáz, víz",,,0.0,0.0
+1409,Társasház,36764/A/3,Üllői út 18,,Fsz.,UZ/3,1,Palotanegyed,Üres,Üres,Közepes állapotú,28.0,UCH,1/15/2021,7588.0,,,,0.0,0.0
+1411,Társasház,36765/A/1,Üllői út 20,,Pi.,OV,1,Palotanegyed,Üres,Üres,Rossz állapotú,148.0,UCP,1/30/2014,77130.0,áram,,,0.0,0.0
+1413,Társasház,36798/A/51,Üllői út 34,,Fsz.,VE,1,Palotanegyed,Üres,Üres,Rossz állapotú,190.0,UCH,3/7/2013,57000.0,"áram, gáz, víz",,,0.0,0.0
+1419,Társasház,36402/4/D/4,Üllői út 38-44 (44),44. lp.,Fsz.,ÜZ/3,1,Corvin negyed,Kiadott,Üres,Jó állapotú,46.0,UCH,4/12/2016,17562.0,áram,,,0.0,1360978.0
+1421,Társasház,36388/A/33,Üllői út 46,,Pi.,MU,1,Corvin negyed,Üres,Üres,Rossz állapotú,78.0,UCP,1/29/2015,25359.0,"áram, víz",,,0.0,0.0
+1422,Társasház,36371/A/16,Üllői út 50,,Fsz.,UZ,1,Corvin negyed,Üres,Üres,Rossz állapotú,75.0,UCH,1/23/2018,44175.0,"áram, víz",,,0.0,0.0
+1424,Társasház,36339/A/5,Üllői út 54-56,A. ép.,Fsz.,ÜZ/5,1,Corvin negyed,Üres,Üres,Közepes állapotú,91.0,UCH,6/28/2022,22678.0,víz,,,0.0,0.0
+1427,Önkormányzati bérház,36338//0,Üllői út 58,,Pi.,UCP 3,1,Corvin negyed,Üres,Üres,Rossz állapotú,40.0,UCP,1/15/1996,0.0,víz,Bérlő,feltétel bekövetkeztéig,0.0,0.0
+1428,Önkormányzati bérház,36338//0,Üllői út 58,,Pi.,UCP 1,1,Corvin negyed,Üres,Üres,Rossz állapotú,147.0,UCP,11/13/2012,0.0,víz,Bérlő,feltétel bekövetkeztéig,0.0,0.0
+1430,Társasház,36308/A/4,Üllői út 60-62,,Fsz.,ÜZ/4,1,Corvin negyed,Üres,Üres,Rossz állapotú,150.9,UCH,7/3/2013,41641.0,"áram, víz",,,0.0,0.0
+1432,Társasház,36307/A/30,Üllői út 64,,Pi.,MU,1,Corvin negyed,Üres,Üres,Rossz állapotú,166.0,UCP,11/2/2009,40222.0,"áram, gáz",,,0.0,0.0
+1435,Társasház,36274/A/4,Üllői út 66/a,,Fsz.,ÜZ/4,1,Corvin negyed,Üres,Üres,Közepes állapotú,29.0,UCH,6/27/2022,6480.0,"áram, víz",,,0.0,0.0
+1436,Társasház,36274/A/5,Üllői út 66/a,,Fsz.,ÜZ/5,1,Corvin negyed,Kiadott,Üres,Közepes állapotú,83.0,UCH,5/19/2014,18360.0,"áram, gáz, víz",,,0.0,0.0
+1438,Társasház,36273/A/51,Üllői út 66/b,2. lp.,Pi.,UZ/5,1,Corvin negyed,Üres,Üres,Rossz állapotú,31.0,UDP,1/1/2000,12710.0,,,,0.0,0.0
+1440,Társasház,36264/A/28,Üllői út 68,,Pi./Fsz.,UZ/2,1,Corvin negyed,Üres,Üres,Jó állapotú,199.0,UCH,1/21/2022,75620.0,"áram, gáz, víz",,,0.0,0.0
+1441,Társasház,36264/A/29,Üllői út 68,,Pi.,1.,1,Corvin negyed,Üres,Üres,Rossz állapotú,63.0,UCP,8/26/2008,19530.0,víz,,,0.0,0.0
+1442,Társasház,36263/A/1,Üllői út 70,,Pi.,OV,1,Corvin negyed,Üres,Üres,Rossz állapotú,95.0,UDP,10/8/2005,31350.0,víz,,,0.0,0.0
+1444,Társasház,38793/7/A/139,Vajda P. u. 7-13,7. lp.,Fsz.,IR/139,3,Tisztviselőtelep,Üres,Üres,Közepes állapotú,66.0,UCH,8/2/2021,23364.0,"áram, víz",,,0.0,0.0
+1447,Társasház,38793/7/A/142,Vajda P. u. 7-13,9. lp.,Fsz.,UZ/142,3,Tisztviselőtelep,Kiadott,Üres,Közepes állapotú,29.0,UCH,7/14/2021,11055.0,"áram, víz",,,0.0,894069.0
+1449,Önkormányzati bérház,35599//0,Vajdahunyad u. 11,,Pi.,UCP,3,Corvin negyed,Üres,Üres,Rossz állapotú,46.0,UCP,1/1/2000,0.0,víz,,,0.0,0.0
+1453,Társasház,35596/A/3,Vajdahunyad u. 17,,as.,3.,3,Corvin negyed,Üres,Üres,Rossz állapotú,9.0,UCP,4/26/2013,2745.0,,,,0.0,0.0
+1454,Önkormányzati bérház,35677//0,Vajdahunyad u. 24,,Pi.,UCP,3,Corvin negyed,Üres,Üres,Rossz állapotú,40.0,UCP,5/12/2014,0.0,,,,0.0,0.0
+1455,Önkormányzati bérház,35587//0,Vajdahunyad u. 8,,Fsz.,UDH,3,Corvin negyed,Üres,Üres,Rossz állapotú,20.0,UDH (földszinti),8/28/2008,0.0,,,,0.0,0.0
+1456,Társasház,36442/A/1,Vas u. 12,,Pi.,RA/1,3,Palotanegyed,Üres,Üres,Közepes állapotú,54.0,UCP,1/1/2000,14310.0,,,,0.0,0.0
+1457,Társasház,36511/A/1,Szentkirályi u. 6,,Pi.,UZ/1,3,Palotanegyed,Üres,Üres,Közepes állapotú,555.0,UCP,6/30/2005,136530.0,víz,,,0.0,0.0
+1458,Társasház,34930/A/33,Víg u. 18,,Pi./Fsz.,RA/33,3,Csarnok negyed,Üres,Üres,Rossz állapotú,136.0,UCH+UCP,12/9/2020,51084.0,"áram, gáz",,,0.0,186813.0
+1459,Társasház,36505/A/1,Vas u. 3,,Pi.,UZ/1,3,Palotanegyed,Üres,Üres,Rossz állapotú,195.1,UCP,3/8/2011,120800.0,,,,0.0,0.0
+1460,Társasház,36504/A/21,Vas u. 5,,as.,UZ/2,3,Palotanegyed,Üres,Üres,Rossz állapotú,50.0,UCP,1/6/2022,17450.0,áram,,,0.0,0.0
+1461,Társasház,36504/A/23,Vas u. 5,,as.,UZ/4,3,Palotanegyed,Üres,Üres,Rossz állapotú,62.0,UCP,1/6/2022,18600.0,"áram, gáz, víz",,,0.0,0.0
+1462,Társasház,36764/A/1,Üllői út 18,,Pi./Fsz.,UZ/1,1,Palotanegyed,Üres,Üres,Közepes állapotú,756.0,UCH+UDP,1/15/2021,100157.0,"áram, gáz, víz",,,0.0,0.0
+1463,Társasház,34872/A/41,Vásár u. 2,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,68.0,UCP,11/6/2008,24168.0,,,,0.0,0.0
+1464,Társasház,34872/A/42,Vásár u. 2,,Pi.,OV,3,Csarnok negyed,Üres,Üres,Rossz állapotú,72.0,UCP,11/6/2008,25546.0,víz,,,0.0,0.0
+1465,Társasház,34875/A/24,Vásár u. 4,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,39.0,UDP,1/1/2000,11700.0,gáz,,,0.0,0.0
+1467,Önkormányzati bérház,34762//0,Vay Á. u. 6,,Pi.,UCP,4,Népszínház negyed,Üres,Üres,Rossz állapotú,33.0,UCP,11/10/2009,0.0,áram,,,0.0,0.0
+1469,Társasház,34827/A/1,Víg u. 15,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Közepes állapotú,123.0,UCP,2/3/2011,82419.0,"áram, gáz, víz",,,0.0,0.0
+1472,Társasház,34929/2/A/6,Víg u. 20,,Fsz.,ÜZ/2,3,Csarnok negyed,Kiadott,Üres,Rossz állapotú,30.0,UCH,3/19/2019,10500.0,"áram, gáz, víz",,,43222.0,677911.0
+1474,Társasház,34929/1/A/8,Víg u. 22,,Fsz.,ÜZ/5,3,Csarnok negyed,Üres,Üres,Rossz állapotú,45.0,UDH (földszinti),9/11/2018,11700.0,áram,,,0.0,0.0
+1475,Társasház,34929/1/A/9,Víg u. 22,,Fsz.,ÜZ/6,3,Csarnok negyed,Üres,Üres,Rossz állapotú,291.0,UDH (földszinti),9/11/2018,75650.0,víz,,,0.0,0.0
+1476,Társasház,34929/1/A/14,Víg u. 22,,I.,5.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,370.0,UDH (emeleti),9/11/2018,96200.0,,,,0.0,0.0
+1478,Társasház,34927/A/28,Víg u. 26,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,43.0,UCP,12/4/2008,12566.0,víz,,,0.0,0.0
+1479,Társasház,34927/A/29,Víg u. 26,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,121.0,UCP,12/4/2008,28469.0,,,,0.0,0.0
+1486,Önkormányzati bérház,34942//0,Víg u. 30,,Pi.,UCP 2,3,Csarnok negyed,Üres,Üres,Rossz állapotú,24.0,UCP,10/25/2011,0.0,,,,0.0,0.0
+1493,Önkormányzati bérház,34817//0,Víg u. 4,,Pi.,1.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,15.0,UCP,2/15/2006,0.0,,,,0.0,0.0
+1494,Önkormányzati bérház,34817//0,Víg u. 4,,Pi.,2.,3,Csarnok negyed,Üres,Üres,Rossz állapotú,82.0,UDP,2/15/2006,0.0,,,,0.0,0.0
+1497,Társasház,35941/A/1,Visi I. u. 10,,Pi.,1.,4,Orczy negyed,Üres,Üres,Közepes állapotú,135.0,UCP,1/1/2000,35100.0,víz,,,0.0,0.0
+1498,Társasház,35948/A/1,Visi I. u. 11,,Pi.,I.,4,Orczy negyed,Üres,Üres,Rossz állapotú,51.0,UCP,7/25/2010,16372.0,"áram, víz",,,0.0,0.0
+1499,Társasház,35948/A/2,Visi I. u. 11,,Pi.,II.,4,Orczy negyed,Üres,Üres,Rossz állapotú,72.0,UCP,9/18/2012,47909.0,,,,0.0,0.0
+1500,Társasház,35938/A/1,Visi I. u. 4,,Pi.,1.,4,Orczy negyed,Üres,Üres,Közepes állapotú,34.0,UCP,7/27/2010,13022.0,áram,,,0.0,0.0
+1503,Társasház,35950/A/30,Visi I. u. 7,,Pi.,1.,4,Orczy negyed,Üres,Üres,Közepes állapotú,54.0,UCP,1/1/2000,14310.0,víz,,,0.0,0.0
+1505,Társasház,35940/A/36,Visi I. u. 8,,Pi.,1.,4,Orczy negyed,Üres,Üres,Rossz állapotú,54.0,UCP,5/14/2007,9137.0,víz,,,0.0,0.0
+1506,Társasház,35940/A/37,Visi I. u. 8,,Pi.,2.,4,Orczy negyed,Üres,Üres,Rossz állapotú,48.0,-,5/14/2007,8122.0,,,,0.0,0.0
+1507,Társasház,35949/A/1,Visi I. u. 9,,Pi.,I.,4,Orczy negyed,Üres,Üres,Rossz állapotú,70.0,UCP,12/13/2004,32000.0,víz,,,0.0,0.0
+1508,Társasház,35949/A/2,Visi I. u. 9,,Pi.,II.,4,Orczy negyed,Üres,Üres,Közepes állapotú,74.0,UCP,8/4/2009,26450.0,víz,,,0.0,0.0

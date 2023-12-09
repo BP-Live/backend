@@ -1,8 +1,8 @@
 import pandas as pd
 
-from .bkk_api import bkk_api
-
 import os
+
+# from .bkk_api import bkk_api
 
 def get_distance(lat1, lon1, lat2, lon2):
     return ((lat1-lat2)**2 + (lon1-lon2)**2)**0.5
@@ -34,3 +34,20 @@ def find_competitors(business_type, lat, lng):
     }
     
     return json_data
+
+def find_open_premises(lat, lng):
+    premises_data = pd.read_csv(os.path.join(os.path.dirname(__file__), 'premises_geocoded.csv'))
+    # premises_data = premises_data[premises_data['2023nov_állapot'] == 'Üres']
+    # premises_data.to_csv(os.path.join(os.path.dirname(__file__), 'premises_empty.csv'))
+
+    k_nearest = get_k_nearest(premises_data, lat, lng, k=5)
+
+    json_data = {
+        "premises": [
+            {"lat": k_nearest.iloc[0]["lat"], "lng": k_nearest.iloc[0]["lon"], "address": k_nearest.iloc[0]["Cím"], "area": k_nearest.iloc[0]["Terület"]},
+            {"lat": k_nearest.iloc[1]["lat"], "lng": k_nearest.iloc[1]["lon"], "address": k_nearest.iloc[1]["Cím"], "area": k_nearest.iloc[1]["Terület"]},
+            {"lat": k_nearest.iloc[2]["lat"], "lng": k_nearest.iloc[2]["lon"], "address": k_nearest.iloc[2]["Cím"], "area": k_nearest.iloc[2]["Terület"]},
+            {"lat": k_nearest.iloc[3]["lat"], "lng": k_nearest.iloc[3]["lon"], "address": k_nearest.iloc[3]["Cím"], "area": k_nearest.iloc[3]["Terület"]},
+            {"lat": k_nearest.iloc[4]["lat"], "lng": k_nearest.iloc[4]["lon"], "address": k_nearest.iloc[4]["Cím"], "area": k_nearest.iloc[4]["Terület"]},    
+        ]
+    }

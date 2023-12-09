@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import googlemaps
+import pandas as pd
 from geopy.geocoders import Nominatim
 
 from . import gtfs_realtime_pb2
@@ -91,4 +92,31 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
     return distance, location1, location2
 
 if __name__ == "__main__":
-    print(find_shortest_route_time(47.497913, 19.040236, 47.49723, 19.04026))
+    premises_data = pd.read_csv(os.path.join(os.path.dirname(__file__), './../premises.csv'))
+    # premises_data = premises_data[premises_data['2023nov_állapot'] == 'Üres']
+    # premises_data.to_csv(os.path.join(os.path.dirname(__file__), 'premises_empty.csv'))
+    
+    unique_streets = []
+    unique_street_names = []
+    for index, row in premises_data.iterrows():
+        street = row['Cím'].split('.')[0]
+        street = street.replace('-', ' ').replace(',', ' ').replace('.', ' ').replace('(', ' ').replace(')', ' ')
+        street = street.replace('1', '').replace('2', '').replace('3', '').replace('4', '').replace('5', '').replace('6', '').replace('7', '').replace('8', '').replace('9', '').replace('0', '')
+        street = street.strip()
+
+        if street not in unique_streets:
+            unique_streets.append(street)
+            unique_street_names.append(row['Cím'])
+
+    rows = []
+
+    for street_name in unique_street_names:
+        geocode = geocode_location('Budapest, 8.kerület ' + street_name)
+        lat, lng = (geocode[0]['geometry']['location']['lat'], geocode[0]['geometry']['location']['lng'])
+        new_df_row = premises_data[premises_data['Cím'] == street_name].iloc[0]
+        new_df_row['lat'] = lat
+        new_df_row['lon'] = lng
+        rows.append(new_df_row)
+    
+    df = pd.DataFrame(rows)
+    df.to_csv(os.path.join(os.path.dirname(__file__), './../premises_geocoded.csv'))

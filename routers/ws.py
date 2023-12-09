@@ -32,12 +32,15 @@ async def websocket_endpoint(websocket: WebSocket):
             geocode = bkk_api.geocode_location(response_json["location"])[0]["geometry"]["location"]
             lng, lat = geocode["lng"], geocode["lat"]
 
+        location_name = bkk_api.reverse_geocode(lat, lng)
+
         await websocket.send_json(
             {
                 "metadata": {
                     "type": response_json["business_type"],
                     "name": response_json["business_name"],
                     "location": {"lat": lat, "lng": lng},
+                    "location_name": location_name,
                 }
             }
         )
@@ -84,6 +87,9 @@ async def websocket_endpoint(websocket: WebSocket):
         await websocket.send_json({"progress": random.randint(65, 75)})
 
         await asyncio.sleep(1)
+
+        open_premises = find_competitors.find_open_premises(lat, lng)
+        await websocket.send_json(open_premises)
 
         await websocket.send_json({"progress": random.randint(80, 85)})
 
