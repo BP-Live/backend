@@ -2,6 +2,8 @@ import pandas as pd
 
 from .bkk_api import bkk_api
 
+import os
+
 def get_distance(lat1, lon1, lat2, lon2):
     return ((lat1-lat2)**2 + (lon1-lon2)**2)**0.5
 
@@ -11,7 +13,7 @@ def get_k_nearest(data, lat, lon, k=3):
     return data_copy.sort_values(by=['distance']).head(k)
 
 def find_competitors(business_type, lng, lat):
-    dataset = pd.read_csv("pois.csv")
+    dataset = pd.read_csv(os.path.join(os.path.dirname(__file__), 'pois.csv'))
     business_data = dataset[dataset['property_type'] == business_type]
     k_nearest = get_k_nearest(business_data, lat, lng)
 
