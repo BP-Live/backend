@@ -8,6 +8,8 @@ from fastapi import (
     Response,
     Request,
     Depends,
+    Cookie,
+    WebSocket
 )
 from starlette.responses import RedirectResponse
 from pydantic import BaseModel
@@ -249,13 +251,33 @@ async def logout(response: Response):
     return response
 
 
-def require_token(request: Request) -> Token:
-    plain = request.cookies.get("token")
+def require_token(
+    request: Request,
+) -> Token:
+    token = request.cookies.get("token")
 
-    if plain is None:
+    if token is None:
         raise HTTPException(status.HTTP_401_UNAUTHORIZED)
 
-    payload = verify_token(plain)
+    payload = verify_token(token)
+
+    scopes = payload["scopes"].split(" ")
+
+    return Token(
+        account_id=payload["sub"],
+        scopes=scopes,
+    )
+
+
+async def require_token_ws(
+    websocket: WebSocket,
+    token: Annotated[str | None, Cookie()] = None,
+) -> Token:
+    if token is None:
+        await websocket.close(code=status.WS_1008_POLICY_VIOLATION)
+        raise HTTPException(status.HTTP_401_UNAUTHORIZED)
+    
+    payload = verify_token(token)
 
     scopes = payload["scopes"].split(" ")
 
