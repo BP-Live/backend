@@ -66,7 +66,7 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
 
     try:
-        directions_result = gmaps.directions(origin, destination, mode="walking")
+        directions_result = gmaps.directions(location1, location2, mode="walking")
 
         print(directions_result)
 
