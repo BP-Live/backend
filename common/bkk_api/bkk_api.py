@@ -48,5 +48,9 @@ def geocode_location(location):
 def find_shortest_route_time(lat1, lon1, lat2, lon2):
     # Request data from Google Maps API
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
-    directions_result = gmaps.directions((lat1, lon1), (lat2, lon2))
-    return directions_result[0]['legs'][0]['duration']['value']
+    directions_result = gmaps.directions((lat1, lon1), (lat2, lon2), mode="walking")
+    try:
+        distance = directions_result[0]['legs'][0]['duration']['value']
+    except:
+        distance = 0
+    return distance
