@@ -89,7 +89,7 @@ async def websocket_endpoint(websocket: WebSocket):
         await asyncio.sleep(1)
 
         open_premises = find_competitors.find_open_premises(lat, lng)
-        await websocket.send_json(open_premises)
+        await websocket.send_json({"premises": open_premises})
 
         await websocket.send_json({"progress": random.randint(80, 85)})
 
