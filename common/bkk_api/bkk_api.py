@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import googlemaps
+from geopy.geocoders import Nominatim
 
 from . import gtfs_realtime_pb2
 
@@ -46,17 +47,26 @@ def geocode_location(location):
     return geocode_result
 
 def reverse_geocode(lat, lon):
-    # Request data from Google Maps API
+    # Request data from 
+    
+    geolocator = Nominatim(user_agent="my-app")
+    location = geolocator.reverse(f"{lat}, {lon}")
+    """
     gmaps = googlemaps.Client(key=os.environ['NEXT_PUBLIC_MAP_API_KEY'])
-    reverse_geocode_result = gmaps.reverse_geocode((lat, lon))
-    return reverse_geocode_result
+    reverse_geocode_result = gmaps.reverse_geocode((float(lat), float(lon)))
+    """
+    return location # reverse_geocode_result
 
 def find_shortest_route_time(lat1, lon1, lat2, lon2):
     # Request data from Google Maps API
     try:
-        location1 = reverse_geocode(lat1, lon1)[0]['formatted_address']
+        location1 = reverse_geocode(lat1, lon1) # [0]['formatted_address']
     except:
         location1 = str(lat1) + "," + str(lon1)
+
+    try:
+        location2 = reverse_geocode(lat2, lon2) # [0]['formatted_address']
+    except:
         location2 = str(lat2) + "," + str(lon2)
 
     print('Loc1:', location1)
