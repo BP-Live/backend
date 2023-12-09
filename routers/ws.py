@@ -19,7 +19,7 @@ async def websocket_endpoint(websocket: WebSocket):
     try:
         await websocket.accept()
 
-        await websocket.send_json({"progress": 0})
+        await websocket.send_json({"progress": random.randint(1, 5)})
 
         data = await websocket.receive_json()
         prompt = data["prompt"]
@@ -74,7 +74,7 @@ async def websocket_endpoint(websocket: WebSocket):
 
         await asyncio.sleep(1)
 
-        await websocket.send_json(find_competitors.find_competitors(response_json["business_type"], lng, lat))
+        await websocket.send_json(find_competitors.find_competitors(response_json["business_type"], lat, lng))
 
         await websocket.send_json({"progress": random.randint(50, 60)})
 
