@@ -66,6 +66,9 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
         destination=location2,
         mode="walking",
     )
+
+    print(directions_result)
+
     try:
         distance = directions_result[0]['legs'][0]['duration']['value']
     except:
