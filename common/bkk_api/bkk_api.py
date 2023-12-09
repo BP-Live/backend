@@ -55,7 +55,6 @@ def find_shortest_route_time(lat1, lon1, lat2, lon2):
     # Request data from Google Maps API
     try:
         location1 = reverse_geocode(lat1, lon1)[0]['formatted_address']
-        location2 = reverse_geocode(lat2, lon2)[0]['formatted_address']
     except:
         location1 = str(lat1) + "," + str(lon1)
         location2 = str(lat2) + "," + str(lon2)
